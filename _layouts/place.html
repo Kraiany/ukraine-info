@@ -1,0 +1,19 @@
+{% include head.html %}
+
+	<main role="main">
+
+    	<h1>{{ page.title }}</h1>
+
+	<div class="img-wrapper">
+        	<img src="{{ page.image }}" />
+        </div>
+
+    	{{ content }}
+
+    	<p class="attribution">Place location: <a href="{{ page.place-googlemaps-link }}">Google Maps link</a>.</p>
+
+	</main>
+
+	{% include nav.html %}
+
+{% include foot.html %}
