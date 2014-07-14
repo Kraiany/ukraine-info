@@ -8,7 +8,7 @@ image: css/images/lviv.png
 
 ## リヴィウ情報
 
-Insert some interesting facts about Lviv here in Japanese.
+Add some interesting facts about Lviv here in Japanese.
 
 ## 外部リンク
 
