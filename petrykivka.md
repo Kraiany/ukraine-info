@@ -12,5 +12,5 @@ Add some interesting facts about Petrykivka here in Japanese.
 
 ## 外部リンク
 
-* <a href="http://instagram.com/petrykivka">リペトリキフカの写真</a>
+* <a href="http://instagram.com/petrykivka">ペトリキフカの写真</a>
 * <a href="http://www.unesco.org/culture/ich/RL/00893">UNESCO</a>
