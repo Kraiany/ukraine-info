@@ -1,6 +1,7 @@
 ---
 layout: place
 title: キエフ
+description: ウクライナの首都
 place-googlemaps-link: https://www.google.co.jp/maps/place/Kiev,+Kyiv+city,+Ukraine/@50.4020355,30.5326905,11z/data=!3m1!4b1!4m2!3m1!1s0x40d4cf4ee15a4505:0x764931d2170146fe
 image: css/images/kyiv.png
 ---

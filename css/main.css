@@ -68,6 +68,16 @@ nav > h1 {
 	font-weight: 700;
 	font-size: 1.5em;
 	line-height: 1;
+	margin: 1.334em 0 0;
+   -webkit-font-smoothing: antialiased;
+    }
+
+article-desc {
+	font-weight: 600;
+	font-size: 0.875em; /* 14px */
+	line-height: 1.1429; /* 16px */
+	text-transform: uppercase;
+	letter-spacing: 0.1429em; /* 2px */
 	margin: 1.3334em 0 0.3334em;
    -webkit-font-smoothing: antialiased;
     }
@@ -440,6 +450,11 @@ main .img-wrapper {
 	color: #b3002d;
     }
     
+.grid li a:hover article-desc ,
+.grid li a:focus article-desc,
+.grid li a:active article-desc {
+	color: #b3002d;
+    }
 
 .nav-primary {
 	float: left;
