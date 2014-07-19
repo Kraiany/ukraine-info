@@ -440,8 +440,7 @@ main .img-wrapper {
 	display: block;
 	padding: 0.5em 2em;
 	border-bottom: none;
-	color: #40A7D7;
-	height: 100px;
+	color: #40A7D7;	
     }
 
 .grid li a:hover h2,
