@@ -3,7 +3,7 @@ layout: place
 title: ウクライナ料理
 description: 写真とレシピ
 place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
-image: css/images/cuisine.png
+image: css/images/cuisine.jpg
 ---
 ウクライナ料理
 
