@@ -5,7 +5,7 @@ description: ウクライナ東部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/
 image: css/images/dnipropetrovsk.png
 ---
-ドニプロペトローウシク（ウクライナ語: Дніпропетровськ）はウクライナのドニプロペトローウシク州ドニプロペトローウシク地区にある都市。
+ドニプロペトローウシク（ウクライナ語: Дніпропетровськ）はウクライナの都市。
 <br/>
 ドニプロ川の河岸に位置する。
 ### ドニプロ川
