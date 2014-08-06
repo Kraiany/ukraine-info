@@ -21,4 +21,4 @@ image: css/images/kyiv.png
 ## 外部リンク
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95">ウィキペディア</a>
 * <a href="http://www.pbase.com/bmcmorrow/kiev">キイフの写真</a>
-* http://www.dtac.jp/caucasus/ukraine/entry_133.php
+* <a href="http://www.dtac.jp/caucasus/ukraine/entry_133.php">キイフ観光客のための情報</a>

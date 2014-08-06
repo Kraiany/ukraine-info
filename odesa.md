@@ -19,4 +19,4 @@ image: css/images/odesa.png
 ## 外部リンク
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%87%E3%83%83%E3%82%B5">ウィキペディア</a>
 * <a href="http://www.skyscrapercity.com/showthread.php?t=1451009">オデサの写真</a>
-* http://www.dtac.jp/caucasus/ukraine/entry_136.php
+* <a href="http://www.dtac.jp/caucasus/ukraine/entry_136.php">オデサ観光客のための情報</a>
