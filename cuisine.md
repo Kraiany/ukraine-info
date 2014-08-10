@@ -5,8 +5,6 @@ description: 写真とレシピ
 place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
 image: css/images/cuisine.jpg
 ---
-ウクライナ料理
-
 ### ボルシチ
 ボルシチ（ウクライナ語: борщ, [ボールシュチュ]）は、テーブルビートをもとにしたウクライナの伝統的な料理で、鮮やかな深紅色をした煮込みスープである。<br/>
 ##### つくり方 <a href="http://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%B7%E3%83%81">(ウィキペディアから)</a>
