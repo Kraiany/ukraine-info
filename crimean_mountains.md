@@ -5,7 +5,7 @@ description: ウクライナのクリミア半島の南端に位置する山脈�
 place-googlemaps-link: https://www.google.co.jp/maps/place/Crimea/
 image: css/images/crimean_mountains.jpg
 ---
-クリミア山脈（ウクライナ語：Кримські гори, タタール語： Qırım dağları) は、東ヨーロッパ、ウクライナのクリミア半島の南端に位置する山脈である。<br/>(一時的にロシアが占有する)
+クリミア山脈（ウクライナ語：Кримські гори, タタール語： Qırım dağları) は、東ヨーロッパ、ウクライナのクリミア半島の南端に位置する山脈である。<br/>(ロシア軍侵攻)
 
 ### クリミア山脈
 <div about='https://farm7.static.flickr.com/6174/6146998746_41d6254802_b.jpg'><a href='https://www.flickr.com/photos/23929337@N02/6146998746/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm7.static.flickr.com/6174/6146998746_41d6254802_b.jpg' alt='_MG_0090 by nejix, on Flickr' title='_MG_0090 by nejix, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/23929337@N02/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/23929337@N02/' target='_blank'>nejix</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
