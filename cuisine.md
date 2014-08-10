@@ -19,7 +19,7 @@ image: css/images/cuisine.jpg
 6. 味が薄かったら、塩で調整する。
 7. ボルシチを皿に盛り付け、サワークリームと、細かくちぎったディルを加えて出来上がり。ニンニクのパンプーシュカを添える。
 
-<p><a href="http://commons.wikimedia.org/wiki/File:Borshch2.jpg#mediaviewer/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Borshch2.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/e/e0/Borshch2.jpg" alt="Borshch2.jpg"></a>"<small><a href="http://commons.wikimedia.org/wiki/File:Borshch2.jpg#mediaviewer/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Borshch2.jpg">Borshch2</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:Berloga&amp;action=edit&amp;redlink=1" class="new" title="User:Berloga (存在しないページ)">Berloga</a> - <span class="int-own-work">投稿者自身による作品</span>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">ウィキメディア・コモンズ</a>.</small></p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Borshch2.jpg#mediaviewer/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Borshch2.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/e/e0/Borshch2.jpg" alt="Borshch2.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Borshch2.jpg#mediaviewer/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Borshch2.jpg">Borshch2</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:Berloga&amp;action=edit&amp;redlink=1" class="new" title="User:Berloga (存在しないページ)">Berloga</a> - <span class="int-own-work">投稿者自身による作品</span>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">ウィキメディア・コモンズ</a>.</small></p>
 
 ### ヴァレーニキ
 ヴァレーヌィクあるいはヴァレーニキ（ウクライナ語：Вареники / 英語：Varenyky）は、欧亜の遊牧民に由来するウクライナの伝統料理の一つ。「ウクライナの餃子」とも。
