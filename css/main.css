@@ -73,7 +73,7 @@ nav > h1 {
     }
 
 article-desc {
-	font-weight: 600;
+	font-weight: 600;	
 	font-size: 0.875em; /* 14px */
 	line-height: 1.1429; /* 16px */
 	text-transform: uppercase;
@@ -421,8 +421,7 @@ main .img-wrapper {
 
     }
 
-.grid li h2 {
-	margin-right: 85px;
+.grid li h2 {	
 	font-size: 2.0em;
 	margin-top: 0.5em;
     }
@@ -440,8 +439,9 @@ main .img-wrapper {
 
 .grid li a {
 	display: block;
-	padding: 2.5em 2.5em;
+	padding: 0.5em 2em;
 	border-bottom: none;
+	margin-right: 85px;
 	color: #40A7D7;	
     }
 
