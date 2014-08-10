@@ -1,7 +1,7 @@
 ---
 layout: place
 title: カルパティア山脈
-description: ウクライナのクリミア半島の南端に位置する山脈である。
+description: ウクライナ西部の山脈である。
 place-googlemaps-link: https://maps.google.co.jp/maps/ms?msid=203310507934630225052.0004bafdb017a896c33cb&msa=0&dg=feature
 image: css/images/carpathian_mountains.jpg
 ---
