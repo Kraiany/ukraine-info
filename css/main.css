@@ -77,7 +77,7 @@ article-desc {
 	font-size: 0.875em; /* 14px */
 	line-height: 1.1429; /* 16px */
 	text-transform: uppercase;
-	letter-spacing: 0.1429em; /* 2px */
+	letter-spacing: 0em; /* 2px */
 	margin: 0.5em 0 1em;
    -webkit-font-smoothing: antialiased;
     }
