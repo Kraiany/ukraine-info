@@ -1,7 +1,7 @@
 ---
 layout: place
 title: ウクライナの音楽
-description: サウンドトラックとビデオクリップ
+description: サウンドとビデオ
 place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
 image: css/images/music.png
 ---
