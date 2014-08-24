@@ -18,20 +18,20 @@ image: css/images/music.png
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/dL-9QgWyefw?html5=1" frameborder="0"></iframe>
 </div>
-チャンネル https://www.youtube.com/user/okeanelzyofficial
+<small>チャンネル https://www.youtube.com/user/okeanelzyofficial</small>
 
 ### ラマ / Lama / Лама
 #### Жовте поле / 黄色分野
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/XmWzypWs8_M?html5=1" frameborder="0"></iframe>
 </div>
-チャンネル https://www.youtube.com/user/lamaukraine
+<small>チャンネル https://www.youtube.com/user/lamaukraine</small>
 
 #### Світло і тінь / 光と影
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/tKPNSTiStMg?html5=1" frameborder="0"></iframe>
 </div>
-チャンネル https://www.youtube.com/user/lamaukraine
+<small>チャンネル https://www.youtube.com/user/lamaukraine</small>
 
 ## バンドゥーラ
 ### Степан Щербак / Stepan Scherbak
@@ -56,13 +56,13 @@ image: css/images/music.png
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/dauS4nXOLcE?html5=1" frameborder="0"></iframe>
 </div>
-ホームページ http://www.kateryna-music.jp/
+<small>ホームページ http://www.kateryna-music.jp/</small>
 
 ### カテリーナ （金色の花 / Чорнобривці） 
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/BYk_QwpizjI?html5=1" frameborder="0"></iframe>
 </div>
-ホームページ http://www.kateryna-music.jp/
+<small>ホームページ http://www.kateryna-music.jp/</small>
 
 ## 声楽
 ### Kvitka Cisyk / Kwitka Cisyk (二つの色 / Two colors / Два кольори)
