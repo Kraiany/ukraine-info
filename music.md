@@ -11,25 +11,25 @@ image: css/images/music.png
 <iframe src="http://www.youtube.com/embed/ergjjMQywHU?html5=1" frameborder="0"></iframe>
 </div>
 <div class="video-container">
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/NF1lvLLC0g8?html5=1" frameborder="0"></iframe>
+<iframe width="640" height="385" src="http://www.youtube.com/embed/NF1lvLLC0g8?html5=1" frameborder="0"></iframe>
 </div>
 
 ### オケアン・エリズィ / Океан Ельзи (Все буде добре / Everything Will Be Alright)
 <div class="video-container">
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/dL-9QgWyefw?html5=1" frameborder="0"></iframe>
+<iframe width="640" height="385" src="http://www.youtube.com/embed/dL-9QgWyefw?html5=1" frameborder="0"></iframe>
 </div>
 チャンネル https://www.youtube.com/user/okeanelzyofficial
 
 ### ラマ / Lama / Лама
 #### Жовте поле / 黄色分野
 <div class="video-container">
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/XmWzypWs8_M?html5=1" frameborder="0"></iframe>
+<iframe width="640" height="385" src="http://www.youtube.com/embed/XmWzypWs8_M?html5=1" frameborder="0"></iframe>
 </div>
 チャンネル https://www.youtube.com/user/lamaukraine
 
 #### Світло і тінь / 光と影
 <div class="video-container">
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/tKPNSTiStMg?html5=1" frameborder="0"></iframe>
+<iframe width="640" height="385" src="http://www.youtube.com/embed/tKPNSTiStMg?html5=1" frameborder="0"></iframe>
 </div>
 チャンネル https://www.youtube.com/user/lamaukraine
 

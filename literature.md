@@ -8,7 +8,7 @@ image: css/images/literature.jpg
 
 ### 遺言 (タラス・シェフチェンコ)
 <div class="video-container">
-<iframe width="640" height="385" src="http://www.youtube.com/embed/K-9thS367FE?html5=1" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/K-9thS367FE?html5=1" frameborder="0"></iframe>
 </div>
 ## 外部リンク
 
