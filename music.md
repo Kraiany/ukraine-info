@@ -17,41 +17,40 @@ image: css/images/music.png
 <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/28940402&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
 ### オケアン・エリズィ / Океан Ельзи (Все буде добре / Everything Will Be Alright)
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/embed/dL-9QgWyefw?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/dL-9QgWyefw?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-<br/>チャンネル https://www.youtube.com/user/okeanelzyofficial
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/dL-9QgWyefw?html5=1" frameborder="0"></iframe>
+チャンネル https://www.youtube.com/user/okeanelzyofficial
 
 ### ラマ / Lama / Лама
 #### Жовте поле / 黄色分野
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/embed/XmWzypWs8_M?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/XmWzypWs8_M?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-<br/>チャンネル https://www.youtube.com/user/lamaukraine
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/XmWzypWs8_M?html5=1" frameborder="0"></iframe>
+チャンネル https://www.youtube.com/user/lamaukraine
 
 #### Світло і тінь / 光と影
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/embed/tKPNSTiStMg?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/tKPNSTiStMg?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-<br/>チャンネル https://www.youtube.com/user/lamaukraine
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/tKPNSTiStMg?html5=1" frameborder="0"></iframe>
+チャンネル https://www.youtube.com/user/lamaukraine
 
 ## バンドゥーラ
 ### Степан Щербак / Stepan Scherbak
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/embed/irnjdrWGTXg?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/irnjdrWGTXg?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-<br/>
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/embed/zJeBgeMcuyc?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/zJeBgeMcuyc?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/irnjdrWGTXg?html5=1" frameborder="0"></iframe>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/zJeBgeMcuyc?html5=1" frameborder="0"></iframe>
 
 ### Charlie Shuichi Sakuma (Мавка / ニンフ)
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/Rd036czwmdo?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/Rd036czwmdo?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/Rd036czwmdo?html5=1" frameborder="0"></iframe>
 
 ### Charlie Shuichi Sakuma (Бандуристе, Орле Сизий / 灰色のワシ)
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/1p2trvjxFFg?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/1p2trvjxFFg?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/1p2trvjxFFg?html5=1" frameborder="0"></iframe>
 
 ### カテリーナ (静かな水の流れ / Тиха вода) 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/dauS4nXOLcE?hl=en_US&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/dauS4nXOLcE?hl=en_US&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-<br/>ホームページ http://www.kateryna-music.jp/
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/dauS4nXOLcE?html5=1" frameborder="0"></iframe>
+ホームページ http://www.kateryna-music.jp/
 
 ### カテリーナ （金色の花 / Чорнобривці） 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/BYk_QwpizjI?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/BYk_QwpizjI?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-<br/>ホームページ http://www.kateryna-music.jp/
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/BYk_QwpizjI?html5=1" frameborder="0"></iframe>
+ホームページ http://www.kateryna-music.jp/
 
 ## 声楽
 ### Kvitka Cisyk / Kwitka Cisyk (二つの色 / Two colors / Два кольори)
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/7-ml3FQhFv0?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/7-ml3FQhFv0?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/7-ml3FQhFv0?html5=1" frameborder="0"></iframe>
 
 ## 外部リンク
 
