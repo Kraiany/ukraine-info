@@ -5,11 +5,10 @@ description: 作家と歴史
 place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
 image: css/images/literature.jpg
 ---
-ウクライナ文学
 
-## ウクライナ文学情報
+### 遺言 (タラス・シェフチェンコ)
 
-Add some interesting facts about Ukrainian literature here in Japanese.
+<iframe width="560" height="315" src="//www.youtube.com/embed/K-9thS367FE" frameborder="0" allowfullscreen></iframe>
 
 ## 外部リンク
 
