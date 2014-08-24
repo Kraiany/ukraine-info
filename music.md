@@ -31,7 +31,7 @@ image: css/images/music.png
 
 ## バンドゥーラ
 ### Степан Щербак / Stepan Scherbak
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/irnjdrWGTXg?html5=1" frameborder="0"></iframe>
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/irnjdrWGTXg?html5=1&w=640&h=385" frameborder="0"></iframe>
 <iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/zJeBgeMcuyc?html5=1" frameborder="0"></iframe>
 
 ### Charlie Shuichi Sakuma (Мавка / ニンフ)
