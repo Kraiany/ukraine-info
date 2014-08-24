@@ -8,7 +8,7 @@ image: css/images/music.png
 ## ロック
 ### Plach Yeremiyi / Плач Єремії
 <div class="video-container">
-<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/ergjjMQywHU?html5=1" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/ergjjMQywHU?html5=1" frameborder="0"></iframe>
 </div>
 <div class="video-container">
 <iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/NF1lvLLC0g8?html5=1" frameborder="0"></iframe>
