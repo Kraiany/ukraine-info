@@ -10,6 +10,7 @@ image: css/images/music.png
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/ergjjMQywHU?html5=1" frameborder="0"></iframe>
 </div>
+<br/>
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/NF1lvLLC0g8?html5=1" frameborder="0"></iframe>
 </div>
@@ -38,6 +39,7 @@ image: css/images/music.png
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/irnjdrWGTXg?html5=1" frameborder="0"></iframe>
 </div>
+<br/>
 <div class="video-container">
 <iframe src="http://www.youtube.com/embed/zJeBgeMcuyc?html5=1" frameborder="0"></iframe>
 </div>
