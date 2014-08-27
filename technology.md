@@ -5,7 +5,9 @@ description: 歴史と現在
 place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
 image: css/images/technology.jpg
 ---
+<div class="header-wrapper">
 ウクライナの技術
+</div>
 
 ## ウクライナの技術情報
 

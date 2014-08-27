@@ -5,7 +5,9 @@ description: ウクライナの黒海の北岸にある半島
 place-googlemaps-link: https://www.google.co.jp/maps/place/Crimea/
 image: css/images/crimea.png
 ---
-クリミア半島（クリミアはんとう）、または単にクリミア（ウクライナ語: Крим, クリミア・タタール語: Qırım）は、<br/>ウクライナの黒海の北岸にある半島。(ロシア軍侵攻)
+<div class="header-wrapper">
+クリミア半島（クリミアはんとう）、または単にクリミア（ウクライナ語: Крим, クリミア・タタール語: Qırım）は、ウクライナの黒海の北岸にある半島。(ロシア軍侵攻)
+</div>
 
 ### ツバメの巣
 <div about='https://farm5.static.flickr.com/4024/4662780391_64950c212c_b.jpg'><a href='https://www.flickr.com/photos/massalim/4662780391/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm5.static.flickr.com/4024/4662780391_64950c212c_b.jpg' alt='Ласточкино гнездо by Fr Maxim Massalitin, on Flickr' title='Ласточкино гнездо by Fr Maxim Massalitin, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/massalim/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/massalim/' target='_blank'>Fr Maxim Massalitin</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>

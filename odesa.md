@@ -5,7 +5,10 @@ description: 黒海に面した港湾都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Odessa,+Odessa+Oblast,+Ukraine/
 image: css/images/odesa.png
 ---
+<div class="header-wrapper">
 オデサ（ウクライナ語: Одеса）は、ウクライナ南部、黒海に面した港湾都市である。
+</div>
+
 ### オデサオペラバレエ劇場
 <div about='https://farm8.static.flickr.com/7387/8729249658_8a023dd6fa_b.jpg'><a href='https://www.flickr.com/photos/kronny/8729249658/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm8.static.flickr.com/7387/8729249658_8a023dd6fa_b.jpg' alt='Odessa Opera and Ballet Theater by Vladimir Yaitskiy, on Flickr' title='Odessa Opera and Ballet Theater by Vladimir Yaitskiy, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/kronny/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/kronny/' target='_blank'>Vladimir Yaitskiy</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 ###Deribasivska通り

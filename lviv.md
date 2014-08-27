@@ -5,7 +5,10 @@ description: ウクライナ西部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Lviv,+Lviv+Oblast,+Ukraine/
 image: css/images/lviv.png
 ---
+<div class="header-wrapper">
 リヴィウ（ウクライナ語:Львівリヴィーウ）は、ウクライナ西部の都市である。
+</div>
+
 ###リヴィウの中心部のパノラマ
 <div about='https://farm9.static.flickr.com/8536/8673861595_d15da38542_b.jpg'><a href='https://www.flickr.com/photos/jlascar/8673861595/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm9.static.flickr.com/8536/8673861595_d15da38542_b.jpg' alt='Rynok Square in Lviv by Jorge Lascar, on Flickr' title='Rynok Square in Lviv by Jorge Lascar, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/jlascar/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/jlascar/' target='_blank'>Jorge Lascar</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 ###リヴィウの街

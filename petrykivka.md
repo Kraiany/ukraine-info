@@ -5,7 +5,10 @@ description: ウクライナの装飾画
 place-googlemaps-link: https://www.google.co.jp/maps/place/Petrykivka,+Dnipropetrovsk+Oblast,+Ukraine/
 image: css/images/petrykivka.jpg
 ---
+<div class="header-wrapper">
 ウクライナの装飾民俗芸術によるペトリキフカの装飾画。
+</div>
+
 ###ペトリキフカ村の博物館からの写真
 <div about='https://farm4.static.flickr.com/3900/14813723024_f83d7be501_b.jpg'><a href='https://www.flickr.com/photos/76996987@N04/14813723024/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3900/14813723024_f83d7be501_b.jpg' alt='IMG_1390 by Artem Nagornyi, on Flickr' title='IMG_1390 by Artem Nagornyi, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/76996987@N04/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/76996987@N04/' target='_blank'>Artem Nagornyi</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 <br/>

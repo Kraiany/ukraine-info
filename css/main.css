@@ -408,6 +408,9 @@ main .img-wrapper {
         }
     }
 
+.header-wrapper {
+	padding-right: 150px;
+	}
 
 .grid {
 	padding: 0;

@@ -5,7 +5,10 @@ description: ウクライナの首都
 place-googlemaps-link: https://www.google.co.jp/maps/place/Kiev,+Kyiv+city,+Ukraine/
 image: css/images/kyiv.png
 ---
+<div class="header-wrapper">
 キイフ（ウクライナ語: Київ）は、ウクライナの首都。
+</div>
+
 ###独立広場
 <div about='https://farm6.static.flickr.com/5099/5405318633_d213593186_b.jpg'><a href='https://www.flickr.com/photos/peatc/5405318633/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm6.static.flickr.com/5099/5405318633_d213593186_b.jpg' alt='2010_1022_Kiev_10 by peatc, on Flickr' title='2010_1022_Kiev_10 by peatc, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/peatc/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/peatc/' target='_blank'>peatc</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 ### Instytutska通り

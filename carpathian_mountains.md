@@ -1,11 +1,13 @@
 ---
 layout: place
 title: カルパティア山脈
-description: ウクライナ西部の山脈である。
+description: ウクライナ西部の山脈
 place-googlemaps-link: https://maps.google.co.jp/maps/ms?msid=203310507934630225052.0004bafdb017a896c33cb&msa=0&dg=feature
 image: css/images/carpathian_mountains.jpg
 ---
+<div class="header-wrapper">
 カルパティア山脈（またはカルパチア山脈）は、中央ヨーロッパ・東ヨーロッパの山脈である。
+</div>
 
 ### カルパチアミスト
 <div about='https://farm5.static.flickr.com/4094/4880320984_677bcce4ed_b.jpg'><a href='https://www.flickr.com/photos/ashenwolf/4880320984/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm5.static.flickr.com/4094/4880320984_677bcce4ed_b.jpg' alt='Carpathian mist by Wolfhowl, on Flickr' title='Carpathian mist by Wolfhowl, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ashenwolf/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ashenwolf/' target='_blank'>Wolfhowl</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>

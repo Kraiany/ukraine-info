@@ -5,9 +5,10 @@ description: ウクライナ東部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/
 image: css/images/dnipropetrovsk.png
 ---
-ドニプロペトローウシク（ウクライナ語: Дніпропетровськ）はウクライナの都市。
-<br/>
-ドニプロ川の河岸に位置する。
+<div class="header-wrapper">
+ドニプロペトローウシク（ウクライナ語: Дніпропетровськ）はウクライナの都市。ドニプロ川の河岸に位置する。
+</div>
+
 ### ドニプロ川
 <div about='https://farm9.static.flickr.com/8147/7611507492_9112590414_b.jpg'><a href='https://www.flickr.com/photos/zavarykin/7611507492/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm9.static.flickr.com/8147/7611507492_9112590414_b.jpg' alt='River Train by Zavarykin Sergey, on Flickr' title='River Train by Zavarykin Sergey, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/zavarykin/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/zavarykin/' target='_blank'>Zavarykin Sergey</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 ### グランドホテルウクライナ

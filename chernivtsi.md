@@ -5,7 +5,9 @@ description: ウクライナ西部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Chernivtsi,+Chernivets'ka+oblast,+Ukraine/
 image: css/images/chernivtsi.jpg
 ---
-チェルニウツィー(ウクライナ語:Чернівці チェルニウツィー)は、ウクライナ西部の都市で、チェルニウツィー州の州都。<br/>北ブコヴィナの代表的な都市。かつてユダヤ文化の中心であった。
+<div class="header-wrapper">
+チェルニウツィー(ウクライナ語:Чернівці チェルニウツィー)は、ウクライナ西部の都市で、チェルニウツィー州の州都。北ブコヴィナの代表的な都市。かつてユダヤ文化の中心であった。
+</div>
 
 ### チェルノフツィ国立大学
 <div about='https://farm3.static.flickr.com/2809/9922285654_60abf139be_b.jpg'><a href='https://www.flickr.com/photos/ashenwolf/9922285654/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2809/9922285654_60abf139be_b.jpg' alt='Chernivtsi National University by Wolfhowl, on Flickr' title='Chernivtsi National University by Wolfhowl, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ashenwolf/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ashenwolf/' target='_blank'>Wolfhowl</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
