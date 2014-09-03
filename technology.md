@@ -5,13 +5,9 @@ description: 歴史と現在
 place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
 image: css/images/technology.jpg
 ---
-<div class="header-wrapper">
-ウクライナの技術
-</div>
 
-## ウクライナの技術情報
-
-Add some interesting facts about Ukrainian technologies here in Japanese.
+### 世界で一番大きいな飛虎気はウクライナのAN-225「ムリア」という飛虎気です
+<div about='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg'><a href='https://www.flickr.com/photos/paldies/14409477971/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg' alt='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' title='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/paldies/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/paldies/' target='_blank'>Helmuts Guigo</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 
 ## 外部リンク
 
