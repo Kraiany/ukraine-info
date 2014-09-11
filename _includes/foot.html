@@ -11,6 +11,16 @@
     
     <span class="snow-layer"></span>
     
+    <script>
+	    function load(img)
+	    {
+	      img.fadeOut(0, function() {
+	        img.fadeIn(1000);
+	      });
+	    }
+	    $('.lazyload').lazyload({load: load});
+	</script>
+    
     </body>
 
 </html>
