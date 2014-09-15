@@ -20,12 +20,20 @@ image: css/images/cuisine.jpg
 6. 味が薄かったら、塩で調整する。
 7. ボルシチを皿に盛り付け、サワークリームと、細かくちぎったディルを加えて出来上がり。ニンニクのパンプーシュカを添える。
 
+<div class="lazyload">
+<!--
 <p><a href="http://commons.wikimedia.org/wiki/File:Borshch2.jpg#mediaviewer/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Borshch2.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/e/e0/Borshch2.jpg" alt="Borshch2.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Borshch2.jpg#mediaviewer/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Borshch2.jpg">Borshch2</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:Berloga&amp;action=edit&amp;redlink=1" class="new" title="User:Berloga (存在しないページ)">Berloga</a> - <span class="int-own-work">投稿者自身による作品</span>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">ウィキメディア・コモンズ</a>.</small></p>
+-->
+</div>
 
 ### ヴァレーニキ
 ヴァレーヌィクあるいはヴァレーニキ（ウクライナ語：Вареники / 英語：Varenyky）は、欧亜の遊牧民に由来するウクライナの伝統料理の一つ。「ウクライナの餃子」とも。
 
+<div class="lazyload">
+<!--
 <p><a href="http://commons.wikimedia.org/wiki/File:Warenyky.jpg#mediaviewer/%D0%A4%D0%B0%D0%B9%D0%BB:Warenyky.jpg"><img style="width:500px;" src="http://upload.wikimedia.org/wikipedia/commons/2/21/Warenyky.jpg" alt="Warenyky.jpg" height="480" width="640"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Warenyky.jpg#mediaviewer/%D0%A4%D0%B0%D0%B9%D0%BB:Warenyky.jpg">Warenyky</a>" від <a href="//uk.wikipedia.org/wiki/User:Kagor" class="extiw" title="uk:User:Kagor">Kagor</a> - <span class="int-own-work">Власна робота</span>. Ліцензований під <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> через <a href="//commons.wikimedia.org/wiki/">Вікісховище</a>.</small></p>
+-->
+</div>
 
 ## 外部リンク
 
