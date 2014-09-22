@@ -12,8 +12,32 @@ image: css/images/technology.jpg
 ### イーゴリ・イヴァーノヴィチ・シコールスキイ
 1889年5月25日 - 1972年10月26日）は、ウクライナのキイフで生まれの航空機のパイオニア。自身飛行家でもあったイーゴリは、世界初の4発の大型機の開発をはじめ、多くの新型機を工業後進国であったロシア帝国で生産した。しかしながら、1917年のロシア革命を受けてアメリカ合衆国へ亡命した。アメリカにおいて彼は近代的なヘリコプターの開発をしました。シコルスキー・エアクラフトの創立者。
 
+<div class="lazyload">
+<!--
+<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2b/Sikorsky_I.I._1914._Karl_Bulla.jpg" alt="Sikorsky I.I. 1914. Karl Bulla.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg">Sikorsky I.I. 1914. Karl Bulla</a>" by <a href="//en.wikipedia.org/wiki/Karl_Bulla" class="extiw" title="en:Karl Bulla">Karl Bulla</a> - Book: С-Петербург. Столица Российской империи. Лики России. С-Петербург 1993.. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
+-->
+</div>
+
+<div class="lazyload">
+<!--
+<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_Skycrane_carrying_house_bw.jpg#mediaviewer/File:Sikorsky_Skycrane_carrying_house_bw.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fd/Sikorsky_Skycrane_carrying_house_bw.jpg" alt="Sikorsky Skycrane carrying house bw.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sikorsky_Skycrane_carrying_house_bw.jpg#mediaviewer/File:Sikorsky_Skycrane_carrying_house_bw.jpg">Sikorsky Skycrane carrying house bw</a>". Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
+-->
+</div>
+
 ### セルギイ・パーヴロヴィチ・コロリョフ
 1907年1月12日 – 1966年1月14日）は、ソビエト連邦の最初期のロケット開発指導者。「スプートニク計画」および「ソ連の宇宙犬」も参照。1957年10月4日に、R-7ロケットにより世界最初の人工衛星スプートニク1号を打ち上げた。有人宇宙船ボストークを開発し、1961年に世界初の有人宇宙飛行としてユーリイ・ガガーリンを宇宙に運んだ。
+
+<div class="lazyload">
+<!--
+<p><a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fc/Sergey_Korolyov.jpg" alt="Sergey Korolyov.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg">Sergey Korolyov</a>" by Anonymous - <a rel="nofollow" class="external text" href="http://rgantd.ru/vzal/korolev/pics/007_021.jpg">Image</a> from <a rel="nofollow" class="external text" href="http://rgantd.ru/vzal/korolev/razdel4.htm">Russian Governmental archive of Scientific-Techological Documentation</a>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
+-->
+</div>
+
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Geostat.gif#mediaviewer/File:Geostat.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Geostat.gif" alt="Geostat.gif"></a><small>«<a href="https://commons.wikimedia.org/wiki/File:Geostat.gif#mediaviewer/File:Geostat.gif">Geostat</a>» участника <a href="//commons.wikimedia.org/wiki/User:Brandir" title="User:Brandir">Brandir</a> - Own work. Rendered with PovRay-3.0, the <a href="//commons.wikimedia.org/w/index.php?title=Pov&amp;action=edit&amp;redlink=1" class="new" title="Pov (страница не существует)">pov</a> file is available on demand.. Под лицензией <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> с сайта <a href="//commons.wikimedia.org/wiki/">Викисклада</a>.</small></p>
+-->
+</div>
 	
 ### 世界で一番大きいな飛虎気はウクライナのAN-225「ムリア」という飛虎気です
 <div class="lazyload">
