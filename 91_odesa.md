@@ -5,9 +5,7 @@ description: 黒海に面した港湾都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Odessa,+Odessa+Oblast,+Ukraine/
 image: css/images/odesa.png
 ---
-<div class="header-wrapper">
 オデサ（ウクライナ語: Одеса）は、ウクライナ南部、黒海に面した港湾都市である。
-</div>
 
 ### オデサオペラバレエ劇場
 <div class="lazyload">

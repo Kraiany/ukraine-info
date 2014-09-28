@@ -5,9 +5,7 @@ description: ウクライナの首都
 place-googlemaps-link: https://www.google.co.jp/maps/place/Kiev,+Kyiv+city,+Ukraine/
 image: css/images/kyiv.png
 ---
-<div class="header-wrapper">
 キイフ（ウクライナ語: Київ）は、ウクライナの首都。
-</div>
 
 ###独立広場
 <div class="lazyload">

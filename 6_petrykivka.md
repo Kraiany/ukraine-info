@@ -5,9 +5,7 @@ description: ウクライナの装飾画
 place-googlemaps-link: https://www.google.co.jp/maps/place/Petrykivka,+Dnipropetrovsk+Oblast,+Ukraine/
 image: css/images/petrykivka.jpg
 ---
-<div class="header-wrapper">
 ウクライナの装飾民俗芸術によるペトリキフカの装飾画。
-</div>
 
 ###ペトリキフカ村の博物館からの写真
 <div class="lazyload">

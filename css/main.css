@@ -55,7 +55,7 @@ h2 {
 h1 {
 	font-weight: 700;
 	font-size: 2.0em;
-	line-height: 1;
+	line-height: 0.60;
 	letter-spacing: -0.03125em;
 	margin: 0.5em 0 1em;
    -webkit-font-smoothing: antialiased;

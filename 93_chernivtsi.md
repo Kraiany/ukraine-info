@@ -5,9 +5,7 @@ description: ウクライナ西部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Chernivtsi,+Chernivets'ka+oblast,+Ukraine/
 image: css/images/chernivtsi.jpg
 ---
-<div class="header-wrapper">
 チェルニウツィー(ウクライナ語:Чернівці チェルニウツィー)は、ウクライナ西部の都市で、チェルニウツィー州の州都。北ブコヴィナの代表的な都市。かつてユダヤ文化の中心であった。
-</div>
 
 ### チェルノフツィ国立大学
 <div class="lazyload">

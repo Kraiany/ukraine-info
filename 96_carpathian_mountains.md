@@ -5,9 +5,7 @@ description: ウクライナ西部の山脈
 place-googlemaps-link: https://maps.google.co.jp/maps/ms?msid=203310507934630225052.0004bafdb017a896c33cb&msa=0&dg=feature
 image: css/images/carpathian_mountains.jpg
 ---
-<div class="header-wrapper">
 カルパティア山脈（またはカルパチア山脈）は、中央ヨーロッパ・東ヨーロッパの山脈である。
-</div>
 
 ### カルパチアミスト
 <div class="lazyload">

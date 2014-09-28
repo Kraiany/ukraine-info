@@ -5,9 +5,7 @@ description: ウクライナのクリミア半島の南端に位置する山脈
 place-googlemaps-link: https://www.google.co.jp/maps/place/Crimea/
 image: css/images/crimean_mountains.jpg
 ---
-<div class="header-wrapper">
 クリミア山脈（ウクライナ語：Кримські гори, タタール語： Qırım dağları) は、東ヨーロッパ、ウクライナのクリミア半島の南端に位置する山脈である。(ロシア軍侵攻)
-</div>
 
 ### クリミア山脈
 <div class="lazyload">

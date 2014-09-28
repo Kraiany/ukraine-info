@@ -5,9 +5,8 @@ description: ウクライナ西部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Lviv,+Lviv+Oblast,+Ukraine/
 image: css/images/lviv.png
 ---
-<div class="header-wrapper">
 リヴィウ（ウクライナ語:Львівリヴィーウ）は、ウクライナ西部の都市である。
-</div>
+
 ### リヴィウタイムラプス
 <div class="lazyload">
 <!--
