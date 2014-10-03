@@ -1,8 +1,7 @@
 ---
-layout: place
+layout: article
 title: ウクライナの技術
 description: 歴史と現在
-place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
 image: css/images/technology.jpg
 ---
 世界で有名なウクライナ人

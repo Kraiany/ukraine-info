@@ -1,11 +1,10 @@
 ---
-layout: place
+layout: article
 title: ウクライナの歴史
 description: 古今
-place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
 image: css/images/history.png
 ---
-<p><a href="http://commons.wikimedia.org/wiki/File:Yarthewise.png#mediaviewer/File:Yarthewise.png"><img src="http://upload.wikimedia.org/wikipedia/commons/c/c4/Yarthewise.png" alt="Yarthewise.png"></a><br>
+<p><a href="http://commons.wikimedia.org/wiki/File:Yarthewise.png"><img src="http://upload.wikimedia.org/wikipedia/commons/c/c4/Yarthewise.png" alt="Yarthewise.png"></a><br>
 <small>
 ヤロスラフ賢公のコイン。三叉の矛の意匠は現在のウクライナの国章に引き継がれている。
 </small>

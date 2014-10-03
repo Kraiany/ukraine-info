@@ -1,8 +1,7 @@
 ---
-layout: place
+layout: article
 title: ウクライナ語
 description: 言語の基本
-place-googlemaps-link: https://www.google.co.jp/maps/place/Ukraine/
 image: css/images/language.png
 ---
 ウクライナ語（Українська мова）は、ウクライナの公用語である。ウクライナ国外においても、諸外国に住むウクライナ人によって使用されている。本国での話者人口は3680万人。本国以外に、ロシア、ベラルーシ、カザフスタン、ポーランド、カナダやアメリカ合衆国などの南北アメリカ、オーストラリアなどにも話者がおり、それらを合計すれば約4500万人になる。スラヴ語派においてはロシア語、ポーランド語に次いで第3位の話者人口である。
