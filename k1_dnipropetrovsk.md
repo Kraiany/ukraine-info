@@ -7,6 +7,12 @@ image: css/images/dnipropetrovsk.png
 ---
 ドニプロペトローウシク（ウクライナ語: Дніпропетровськ）はウクライナの都市。ドニプロ川の河岸に位置する。
 
+### ドニプロペトローウシクタイムラプス
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/8mUP8CsulDA?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
 ### ドニプロ川
 <div class="lazyload">
 <!--

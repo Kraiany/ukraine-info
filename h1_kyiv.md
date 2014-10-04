@@ -7,6 +7,12 @@ image: css/images/kyiv.png
 ---
 キイフ（ウクライナ語: Київ）は、ウクライナの首都。
 
+### キイフタイムラプス
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/72q3U65daVA?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
 ###独立広場
 <div class="lazyload">
 <!--
