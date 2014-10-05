@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>/jekyll/update/2014/07/12/welcome-to-jekyll.html</loc>
+    
+    <lastmod>2014-07-12T21:15:41+09:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>/a1_history.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/b1_language.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/c1_literature.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/d1_music.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/e1_technology.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/f1_cuisine.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/g1_petrykivka.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/h1_kyiv.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/i1_lviv.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>/j1_odesa.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/k1_dnipropetrovsk.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/l1_chernivtsi.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/m1_kharkiv.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/n1_vinnytsya.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/o1_donbas.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/p1_crimea.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/q1_crimean_mountains.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>/r1_carpathian_mountains.html</loc>
+    <lastmod>2014-10-05T15:13:30+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>/css/MountainsofChristmas-demo.html</loc>
+    <lastmod>2014-07-12T23:38:16Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
