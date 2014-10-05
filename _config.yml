@@ -1,6 +1,6 @@
 name: Ukraine Info
 markdown: redcarpet
 highlighter: pygments
-#baseurl: /ukraine-info
+baseurl: ukuraina-jouhou.info
 gems:
 - jekyll-sitemap
