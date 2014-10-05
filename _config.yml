@@ -2,5 +2,5 @@ name: Ukraine Info
 markdown: redcarpet
 highlighter: pygments
 baseurl: .
-gems:
-- jekyll-sitemap
+#gems:
+#-jekyll-sitemap
