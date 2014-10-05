@@ -1,4 +1,6 @@
 name: Ukraine Info
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 #baseurl: /ukraine-info
+gems:
+- jekyll-sitemap
