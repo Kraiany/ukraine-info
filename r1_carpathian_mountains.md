@@ -44,5 +44,4 @@ image: css/images/carpathian_mountains.jpg
 
 ## 外部リンク
 
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%9F%E3%82%A2%E5%B1%B1%E8%84%88">ウィキペディア</a>
-* <a href="https://www.flickr.com/photos/ashenwolf/sets/72157626929374971">クリミア山脈の写真</a>
+* <a href="http://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%91%E3%83%86%E3%82%A3%E3%82%A2%E5%B1%B1%E8%84%88">ウィキペディア</a>
