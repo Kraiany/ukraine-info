@@ -14,14 +14,14 @@ image: css/images/crimean_mountains.jpg
 -->
 </div>
 
-### ガラビー高原 1
+### ガラビー高原
 <div class="lazyload">
 <!--
 <div about='https://farm6.static.flickr.com/5310/5885399707_ec4d3b9604_b.jpg'><a href='https://www.flickr.com/photos/ashenwolf/5885399707/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm6.static.flickr.com/5310/5885399707_ec4d3b9604_b.jpg' alt='Karabi Plateu by Wolfhowl, on Flickr' title='Karabi Plateu by Wolfhowl, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ashenwolf/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ashenwolf/' target='_blank'>Wolfhowl</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
-### ガラビー高原 2
+### ガラビー高原
 <div class="lazyload">
 <!--
 <div about='https://farm6.static.flickr.com/5078/5885389133_f7e75fe3f7_b.jpg'><a href='https://www.flickr.com/photos/ashenwolf/5885389133/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm6.static.flickr.com/5078/5885389133_f7e75fe3f7_b.jpg' alt='Karabi Plateu by Wolfhowl, on Flickr' title='Karabi Plateu by Wolfhowl, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ashenwolf/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ashenwolf/' target='_blank'>Wolfhowl</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>

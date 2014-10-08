@@ -14,7 +14,7 @@ image: css/images/chernivtsi.jpg
 -->
 </div>
 
-### Kobylanska通り
+### コビリャヌスカ通り
 <div class="lazyload">
 <!--
 <div about='https://farm4.static.flickr.com/3754/9922302275_d7aaa889c6_b.jpg'><a href='https://www.flickr.com/photos/ashenwolf/9922302275/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3754/9922302275_d7aaa889c6_b.jpg' alt='Kobylanska Street by Wolfhowl, on Flickr' title='Kobylanska Street by Wolfhowl, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ashenwolf/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ashenwolf/' target='_blank'>Wolfhowl</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
