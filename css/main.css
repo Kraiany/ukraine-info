@@ -465,13 +465,19 @@ main .img-wrapper {
 	height: 120px;
     }
 
+/*
+.grid li a:hover h2,
+.grid li a:focus h2,
 .grid li a:active h2 {
 	color: #b3002d;
     }
     
+.grid li a:hover article-desc ,
+.grid li a:focus article-desc,
 .grid li a:active article-desc {
 	color: #b3002d;
     }
+*/
 
 .nav-primary {
 	float: left;
