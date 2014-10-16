@@ -197,12 +197,12 @@ a:focus {
 	outline: 1px solid rgba(179, 0, 45, 0.5);
     }
 
-a:hover {
+a:hover, a.hover_effect {
 	color: #b3002d;
 	border-bottom-color: rgba(179, 0, 45, 0.5);
     }
 
-a:link, a:visited, a:hover {
+a:link, a:visited, a:hover, a.hover_effect {
 	transition: all 0.2s ease;
     }
 
@@ -549,17 +549,17 @@ main .img-wrapper {
 	background-color: #fff;
     }
 
-.nav-primary li a:hover,
+.nav-primary li a:hover, a.hover_effect,
 .nav-primary li a:focus,
 .nav-primary li a:active {
 	color: #444;
     }
 
-.nav-primary li a:hover,
+.nav-primary li a:hover, a.hover_effect,
 .nav-primary li a:focus,
 .nav-primary li a:active,
 .nav-primary .active,
-.nav-primary .active:hover,
+.nav-primary .active:hover, .active.hover_effect,
 .nav-primary .active:focus,
 .nav-primary .active:active {
 	background-color: #FFDB1F;
@@ -573,11 +573,11 @@ main .img-wrapper {
     	color: #fff;
     }
 
-.nav-primary a:hover .img-wrapper img,
+.nav-primary a:hover .img-wrapper img, a.hover_effect,
 .nav-primary a:focus .img-wrapper img,
 .nav-primary a:active .img-wrapper img,
 .nav-primary .active .img-wrapper img,
-.nav-primary .active:hover .img-wrapper img,
+.nav-primary .active:hover .img-wrapper img, .active.hover_effect,
 .nav-primary .active:focus .img-wrapper img,
 .nav-primary .active:active .img-wrapper img {
     opacity: 1;
