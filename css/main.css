@@ -197,12 +197,12 @@ a:focus {
 	outline: 1px solid rgba(179, 0, 45, 0.5);
     }
 
-a:hover, a.hover_effect {
+a:hover {
 	color: #b3002d;
 	border-bottom-color: rgba(179, 0, 45, 0.5);
     }
 
-a:link, a:visited, a:hover, a.hover_effect {
+a:link, a:visited, a:hover {
 	transition: all 0.2s ease;
     }
 
@@ -466,19 +466,16 @@ main .img-wrapper {
     }
 
 .grid li a:hover h2,
-.grid li a.hover_effect h2 {
+.grid li a:focus h2,
+.grid li a:active h2 {
 	color: #b3002d;
     }
     
-.grid li a:hover article-desc,
-.grid li a.hover_effect article-desc {
+.grid li a:hover article-desc ,
+.grid li a:focus article-desc,
+.grid li a:active article-desc {
 	color: #b3002d;
     }
-
-.hover {
--webkit-user-select: none;
--webkit-touch-callout: none;        
-}
 
 .nav-primary {
 	float: left;
@@ -549,17 +546,17 @@ main .img-wrapper {
 	background-color: #fff;
     }
 
-.nav-primary li a:hover, a.hover_effect,
+.nav-primary li a:hover,
 .nav-primary li a:focus,
 .nav-primary li a:active {
 	color: #444;
     }
 
-.nav-primary li a:hover, a.hover_effect,
+.nav-primary li a:hover,
 .nav-primary li a:focus,
 .nav-primary li a:active,
 .nav-primary .active,
-.nav-primary .active:hover, .active.hover_effect,
+.nav-primary .active:hover,
 .nav-primary .active:focus,
 .nav-primary .active:active {
 	background-color: #FFDB1F;
@@ -573,20 +570,14 @@ main .img-wrapper {
     	color: #fff;
     }
 
-.nav-primary a:hover .img-wrapper img, a.hover_effect,
+.nav-primary a:hover .img-wrapper img,
 .nav-primary a:focus .img-wrapper img,
 .nav-primary a:active .img-wrapper img,
 .nav-primary .active .img-wrapper img,
-.nav-primary .active:hover .img-wrapper img, .active.hover_effect,
+.nav-primary .active:hover .img-wrapper img,
 .nav-primary .active:focus .img-wrapper img,
 .nav-primary .active:active .img-wrapper img {
     opacity: 1;
-}
-
-element:hover, element:active {
--webkit-tap-highlight-color: rgba(0,0,0,0);
--webkit-user-select: none;
--webkit-touch-callout: none
 }
 
 .title-site {
