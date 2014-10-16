@@ -475,6 +475,11 @@ main .img-wrapper {
 	color: #b3002d;
     }
 
+.hover {
+-webkit-user-select: none;
+-webkit-touch-callout: none;        
+}
+
 .nav-primary {
 	float: left;
 	margin: 0;
