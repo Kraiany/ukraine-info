@@ -20,14 +20,7 @@
 	    }
 	    $('.lazyload').lazyload({load: load});
         
-        $(document).ready(function() {
-    $('.hover').bind('touchstart touchend', function(e) {
-        e.preventDefault();
-        $(this).toggleClass('hover_effect');
-    });
-});
 
-document.addEventListener("touchstart", function(){}, true);
 
 $('body').bind('touchstart', function() {});
 	</script>
