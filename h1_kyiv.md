@@ -49,7 +49,15 @@ image: css/images/kyiv.png
 <div about='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg'><a href='https://www.flickr.com/photos/thisisbossi/3965068418/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg' alt='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' title='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/thisisbossi/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/thisisbossi/' target='_blank'>thisisbossi</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
+###アンドリイフスキ・ウズウィズ通り / Andriivskyi Uzviz Street
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/andriivskyi_uzviz.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
 ## 外部リンク
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95">ウィキペディア</a>
 * <a href="http://www.pbase.com/bmcmorrow/kiev">キイフの写真</a>
 * <a href="http://www.dtac.jp/caucasus/ukraine/entry_133.php">キイフ観光客のための情報</a>
+* <a href="http://www.maxsolomko.com">www.maxsolomko.com</a>
