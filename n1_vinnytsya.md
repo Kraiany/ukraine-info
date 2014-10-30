@@ -7,10 +7,10 @@ image: css/images/vinnytsya.png
 ---
 ヴィーンヌィツャ（ウクライナ語: Вінниця）はウクライナのヴィーンヌィツャ州にある都市。ヴィーンヌィツャ州の州庁所在地である。南ブーフ川の河岸に位置する。面積は79.94 km²。人口は367,625人 (2011年8月1日)、人口密度は4598.8 人 / km²。
 
-### ヴィーンヌィツャタイムラプス
+### ヴィーンヌィツャビデオ
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/iAy8qzMyZ5I?html5=1" frameborder="0"></iframe></div>
+<div class="video-container"><iframe src="http://www.youtube.com/embed/CjY98Dg7kVQ?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
