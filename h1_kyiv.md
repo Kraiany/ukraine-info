@@ -48,7 +48,7 @@ image: css/images/kyiv.png
 <small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
-###猫ベヒーモス像, アンドリイフスキ・ウズウィズ通り / Cat Behemoth Statue at Andriivskyi Uzviz Street
+###猫ベヒーモス像、アンドリイフスキ・ウズウィズ通り / Cat Behemoth Statue at Andriivskyi Uzviz Street
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/behemoth_cat_andriivskyi_uzviz.jpg"/>
