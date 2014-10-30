@@ -13,13 +13,69 @@ image: css/images/kyiv.png
 <div class="video-container"><iframe src="http://www.youtube.com/embed/72q3U65daVA?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
+###ソフィイフスカ広場 / Sofiivska Square
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/sofiivska_square.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###夜のソフィイフスカ広場 / Sofiivska Square at Night
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/sofiivska_square_at_night.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###アンドリイフスキ・ウズウィズ通り / Andriivskyi Uzviz Street
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/andriivskyi_uzviz_general.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###アンドリイフスキ・ウズウィズ通り / Andriivskyi Uzviz Street
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/andriivskyi_uzviz.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###キメラの家 / House with Chimeras
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/chymera_house.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###猫ベヒーモス像, アンドリイフスキ・ウズウィズ通り / Cat Behemoth Statue at Andriivskyi Uzviz Street
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/behemoth_cat_andriivskyi_uzviz.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###ボロジミル王像 / Volodymyr The Great monument
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/volodymyr_velykyi.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###霧の中ドニエプル川 / Dnipro river in fog
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/dnipro_river_in_fog.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
 ###独立広場
 <div class="lazyload">
 <!--
 <div about='https://farm6.static.flickr.com/5099/5405318633_d213593186_b.jpg'><a href='https://www.flickr.com/photos/peatc/5405318633/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm6.static.flickr.com/5099/5405318633_d213593186_b.jpg' alt='2010_1022_Kiev_10 by peatc, on Flickr' title='2010_1022_Kiev_10 by peatc, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/peatc/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/peatc/' target='_blank'>peatc</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
-### インスチツツカ通り
+###インスチツツカ通り
 <div class="lazyload">
 <!--
 <div about='https://farm4.static.flickr.com/3819/10962915416_1eac115140_b.jpg'><a href='https://www.flickr.com/photos/mattsh/10962915416/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3819/10962915416_1eac115140_b.jpg' alt='Old Architecture, Kiev by Matt. Create., on Flickr' title='Old Architecture, Kiev by Matt. Create., on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/mattsh/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/mattsh/' target='_blank'>Matt. Create.</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
@@ -47,62 +103,6 @@ image: css/images/kyiv.png
 <div class="lazyload">
 <!--
 <div about='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg'><a href='https://www.flickr.com/photos/thisisbossi/3965068418/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg' alt='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' title='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/thisisbossi/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/thisisbossi/' target='_blank'>thisisbossi</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
--->
-</div>
-###アンドリイフスキ・ウズウィズ通り / Andriivskyi Uzviz Street
-<div class="lazyload">
-<!--
-<img src="photos/kyiv/andriivskyi_uzviz_general.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
--->
-</div>
-###アンドリイフスキ・ウズウィズ通り / Andriivskyi Uzviz Street
-<div class="lazyload">
-<!--
-<img src="photos/kyiv/andriivskyi_uzviz.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
--->
-</div>
-###キメラの家 / House with Chimeras
-<div class="lazyload">
-<!--
-<img src="photos/kyiv/chymera_house.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
--->
-</div>
-###ソフィイフスカ広場 / Sofiivska Square
-<div class="lazyload">
-<!--
-<img src="photos/kyiv/sofiivska_square.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
--->
-</div>
-###夜のソフィイフスカ広場 / Sofiivska Square at Night
-<div class="lazyload">
-<!--
-<img src="photos/kyiv/sofiivska_square_at_night.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
--->
-</div>
-###猫ベヒーモス像, アンドリイフスキ・ウズウィズ通り / Cat Behemoth Statue at Andriivskyi Uzviz Street
-<div class="lazyload">
-<!--
-<img src="photos/kyiv/behemoth_cat_andriivskyi_uzviz.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
--->
-</div>
-###ボロジミル王像 / Volodymyr The Great monument
-<div class="lazyload">
-<!--
-<img src="photos/kyiv/volodymyr_velykyi.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
--->
-</div>
-###霧の中ドニエプル川 / Dnipro river in fog
-<div class="lazyload">
-<!--
-<img src="photos/kyiv/dnipro_river_in_fog.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 ## 外部リンク
