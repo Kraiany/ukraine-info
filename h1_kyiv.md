@@ -52,7 +52,56 @@ image: css/images/kyiv.png
 ###アンドリイフスキ・ウズウィズ通り / Andriivskyi Uzviz Street
 <div class="lazyload">
 <!--
+<img src="photos/kyiv/andriivskyi_uzviz_general.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###アンドリイフスキ・ウズウィズ通り / Andriivskyi Uzviz Street
+<div class="lazyload">
+<!--
 <img src="photos/kyiv/andriivskyi_uzviz.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###キメラの家 / House with Chimeras
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/chymera_house.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###ソフィイフスカ広場 / Sofiivska Square
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/sofiivska_square.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###夜のソフィイフスカ広場 / Sofiivska Square at Night
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/sofiivska_square_at_night.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###猫ベヒーモス像, アンドリイフスキ・ウズウィズ通り / Cat Behemoth Statue at Andriivskyi Uzviz Street
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/behemoth_cat_andriivskyi_uzviz.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###ボロジミル王像 / Volodymyr The Great monument
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/volodymyr_velykyi.jpg"/>
+<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+-->
+</div>
+###霧の中ドニエプル川 / Dnipro river in fog
+<div class="lazyload">
+<!--
+<img src="photos/kyiv/dnipro_river_in_fog.jpg"/>
 <small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
