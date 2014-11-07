@@ -55,7 +55,11 @@ image: css/images/history.png
 
 1862年にパウロー・チュブィーンシクィイ (Чубинський Павло Платонович) が作詞、1863年にムィハーイロ・ヴェルブシーツィクィイ (Михайло Вербицький) が作曲した。
 
-<iframe src="//commons.wikimedia.org/wiki/File:Anthem_of_Ukraine_instrumental.ogg?embedplayer=yes" width="220" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/rJF1unA-03M?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
 
 ### 日本語訳
 
