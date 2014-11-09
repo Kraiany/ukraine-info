@@ -147,7 +147,7 @@ image: css/images/history.png
 
 І покажем, що ми, браття, козацького роду.
 
-<p><a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg"><img alt="Lesser Coat of Arms of Ukraine.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg/1200px-Lesser_Coat_of_Arms_of_Ukraine.svg.png"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg">Lesser Coat of Arms of Ukraine</a>" by <a href="//commons.wikimedia.org/wiki/User:Akhristov" title="User:Akhristov">Alex Khristov</a>
+<p><a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg"><img alt="Lesser Coat of Arms of Ukraine.svg" src="http://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg" height="145" width="104"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg">Lesser Coat of Arms of Ukraine</a>" by <a href="//commons.wikimedia.org/wiki/User:Akhristov" title="User:Akhristov">Alex Khristov</a>
 Design: Wasyl Krytschewskyj - Drawn to specifications from <a rel="nofollow" class="external free" href="http://search.ligazakon.ua/l_doc2.nsf/link1/T213700.html">http://search.ligazakon.ua/l_doc2.nsf/link1/T213700.html</a>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">ウィキメディア・コモンズ</a>.</p>
 
 ## 外部リンク
