@@ -4,7 +4,7 @@ title: ウクライナの歴史
 description: 古今
 image: css/images/history.png
 ---
-<p><a href="http://commons.wikimedia.org/wiki/File:Yarthewise.png"><img src="http://upload.wikimedia.org/wikipedia/commons/c/c4/Yarthewise.png" alt="ウクライナの国章"></a><br>
+<p><img src="http://upload.wikimedia.org/wikipedia/commons/c/c4/Yarthewise.png" alt="ウクライナの国章"><br>
 <small>
 ヤロスラフ賢公のコイン。三叉の矛の意匠は現在のウクライナの国章に引き継がれている。
 </small>
@@ -149,12 +149,12 @@ image: css/images/history.png
 
 ## ウクライナの国旗
 
-<p><a href="http://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg#mediaviewer/File:Flag_of_Ukraine.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="104" alt="ウクライナの国旗"></a>
+<p><img src="http://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="104" alt="ウクライナの国旗">
 </p>
 
 ## ウクライナの国章
 
-<p><a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg" height="145" width="104" alt="ウクライナの国章"></a>
+<p><img src="http://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg" height="145" width="104" alt="ウクライナの国章">
 </p>
 
 ## 外部リンク
