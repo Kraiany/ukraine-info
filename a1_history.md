@@ -149,18 +149,12 @@ image: css/images/history.png
 
 ## ウクライナの国旗
 
-<p><a href="http://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg#mediaviewer/File:Flag_of_Ukraine.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="75" width="104" alt="ウクライナの国旗"></a>
-<small>
-ウクライナの国旗
-</small>
+<p><a href="http://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg#mediaviewer/File:Flag_of_Ukraine.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="104" alt="ウクライナの国旗"></a>
 </p>
 
 ## ウクライナの国章
 
 <p><a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg" height="145" width="104" alt="ウクライナの国章"></a>
-<small>
-ウクライナの国章
-</small>
 </p>
 
 ## 外部リンク
