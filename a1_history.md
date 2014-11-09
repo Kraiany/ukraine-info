@@ -147,6 +147,14 @@ image: css/images/history.png
 
 І покажем, що ми, браття, козацького роду.
 
+## ウクライナの国章
+
+<p><a href="http://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg#mediaviewer/File:Flag_of_Ukraine.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" height="145" width="218" alt="ウクライナの国旗"></a><br>
+<small>
+ウクライナの国旗
+</small>
+</p>
+
 <p><a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg" height="145" width="104" alt="ウクライナの国章"></a><br>
 <small>
 ウクライナの国章
