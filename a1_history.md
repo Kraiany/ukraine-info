@@ -147,6 +147,9 @@ image: css/images/history.png
 
 І покажем, що ми, браття, козацького роду.
 
+<p><a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg"><img alt="Lesser Coat of Arms of Ukraine.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg/1200px-Lesser_Coat_of_Arms_of_Ukraine.svg.png"></a><br>"<a href="http://commons.wikimedia.org/wiki/File:Lesser_Coat_of_Arms_of_Ukraine.svg#mediaviewer/File:Lesser_Coat_of_Arms_of_Ukraine.svg">Lesser Coat of Arms of Ukraine</a>" by <a href="//commons.wikimedia.org/wiki/User:Akhristov" title="User:Akhristov">Alex Khristov</a>
+Design: Wasyl Krytschewskyj - Drawn to specifications from <a rel="nofollow" class="external free" href="http://search.ligazakon.ua/l_doc2.nsf/link1/T213700.html">http://search.ligazakon.ua/l_doc2.nsf/link1/T213700.html</a>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">ウィキメディア・コモンズ</a>.</p>
+
 ## 外部リンク
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E6%AD%B4%E5%8F%B2">ウクライナの歴史</a>
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95%E5%A4%A7%E5%85%AC%E5%9B%BD">キイフ大公国</a>
