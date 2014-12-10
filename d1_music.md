@@ -85,20 +85,6 @@ image: css/images/music.png
 -->
 </div>
 
-### マリヤ・ブルマカ / Марія Бурмака / Mariya Burmaka
-#### すべてが始まる / Все починається, коли... / Everything Begins When...
-<div class="lazyload">
-<!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/eHydSFnmdFE?html5=1" frameborder="0"></iframe></div><small>ホームペー http://www.burmaka.kiev.ua</small>
--->
-</div>
-#### 天使と雨の市 / Місто Ангелів і дощів / City of Аngels and rain
-<div class="lazyload">
-<!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/wfOf_QSiO0M?html5=1" frameborder="0"></iframe></div><small>ホームペー http://www.burmaka.kiev.ua</small>
--->
-</div>
-
 ### ラマ / Лама / Lama
 #### 黄色分野 / Жовте поле / Yellow Field
 <div class="lazyload">
@@ -110,6 +96,20 @@ image: css/images/music.png
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/tKPNSTiStMg?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/user/lamaukraine</small>
+-->
+</div>
+
+### マリヤ・ブルマカ / Марія Бурмака / Mariya Burmaka
+#### 天使と雨の市 / Місто Ангелів і дощів / City of Аngels and rain
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/wfOf_QSiO0M?html5=1" frameborder="0"></iframe></div><small>ホームペー http://www.burmaka.kiev.ua</small>
+-->
+</div>
+#### すべてが始まる / Все починається, коли... / Everything Begins When...
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/eHydSFnmdFE?html5=1" frameborder="0"></iframe></div><small>ホームペー http://www.burmaka.kiev.ua</small>
 -->
 </div>
 
