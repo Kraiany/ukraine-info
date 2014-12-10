@@ -52,7 +52,7 @@ image: css/images/music.png
 #### 金色の花 / Чорнобривці / Marigolds
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/BYk_QwpizjI?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.kateryna-music.jp/</small>
+<div class="video-container"><iframe src="http://www.youtube.com/embed/8Hjb17ecY6Y?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.kateryna-music.jp/</small>
 -->
 </div>
 
