@@ -632,3 +632,20 @@ main .img-wrapper {
     	background-size: auto 30px;
         }
     }
+
+@media screen and (max-width: 600px) {
+  #news_link {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
+#news_link{
+	text-align: left;
+	text-decoration: underline;
+	border-bottom: none;
+}
