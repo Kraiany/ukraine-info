@@ -634,7 +634,7 @@ main .img-wrapper {
     }
 
 @media screen and (max-width: 600px) {
-  #news_link {
+  .marquee {
     visibility: hidden;
     clear: both;
     float: left;
@@ -644,8 +644,13 @@ main .img-wrapper {
   }
 }
 
-/*#news_link{*/
-/*	text-align: left;*/
-/*	text-decoration: underline;*/
-/*	border-bottom: none;*/
-/*}*/
+@media screen and (min-width: 600px) {
+  .mobile-marquee {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
