@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: news
 title: ニュース
 description: ウクライナの最新ニュース
 image: css/images/transparent.gif
