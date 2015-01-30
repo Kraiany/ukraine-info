@@ -634,6 +634,13 @@ main .img-wrapper {
     }
 
 @media screen and (max-width: 600px) {
+  .nomobile {
+    visibility: hidden;
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
   .marquee {
     visibility: hidden;
     clear: both;
