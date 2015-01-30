@@ -1,0 +1,19 @@
+{% include head.html %}
+
+	<main role="main">
+
+    	<h1>{{ page.title }}</h1>
+
+        <div class="img-wrapper">
+        	<img src="{{ page.image }}" />
+        </div>    
+        
+		<div style="background:url(css/images/vyshyvka_banner.gif) repeat-x;width:100%;height:50px;"></div>
+
+    	{{ content }}
+
+	</main>
+
+	{% include nav.html %}
+
+{% include foot.html %}
