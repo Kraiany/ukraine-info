@@ -49,6 +49,12 @@ image: css/images/music.png
 <div class="video-container"><iframe src="http://www.youtube.com/embed/dauS4nXOLcE?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.kateryna-music.jp/</small>
 -->
 </div>
+#### 忘れないて / Не забудь / Don't forget
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/tlaMTzd4hJw?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.kateryna-music.jp/</small>
+-->
+</div>
 #### 金色の花 / Чорнобривці / Marigolds
 <div class="lazyload">
 <!--
@@ -103,13 +109,39 @@ image: css/images/music.png
 #### 天使と雨の市 / Місто Ангелів і дощів / City of Аngels and rain
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/wfOf_QSiO0M?html5=1" frameborder="0"></iframe></div><small>ホームペー http://www.burmaka.kiev.ua</small>
+<div class="video-container"><iframe src="http://www.youtube.com/embed/wfOf_QSiO0M?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.burmaka.kiev.ua</small>
 -->
 </div>
 #### すべてが始まる / Все починається, коли... / Everything Begins When...
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/eHydSFnmdFE?html5=1" frameborder="0"></iframe></div><small>ホームペー http://www.burmaka.kiev.ua</small>
+<div class="video-container"><iframe src="http://www.youtube.com/embed/eHydSFnmdFE?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.burmaka.kiev.ua</small>
+-->
+</div>
+
+### チン・ソンチャ / Тінь Сонця / Tin Sontsya
+#### コサック人は帰宅している / Їхали козаки / Kossacks were on the way home
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/uvixeSrM0RA?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
+-->
+</div>
+#### 決して泣いてはならない / Ніколи не плач / Never Cry
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/ooCcM7p6FQ0?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
+-->
+</div>
+#### コサックの墓 / Козача Могила / The Cossack's Tomb
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/olBdX06BtQ8?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
+-->
+</div>
+#### アレウスの剣 / Меч Арея / The Areus's Sword
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/plUPkvexQi4?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
 -->
 </div>
 
