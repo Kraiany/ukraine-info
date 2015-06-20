@@ -120,7 +120,7 @@ image: css/images/music.png
 </div>
 
 ### チン・ソンチャ / Тінь Сонця / Tin Sontsya
-#### コサック人は帰宅している / Їхали козаки / Kossacks were on the way home
+#### コサック人は帰宅している / Їхали козаки / Cossacks were on the way home
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/uvixeSrM0RA?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
