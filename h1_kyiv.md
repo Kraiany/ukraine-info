@@ -112,7 +112,8 @@ image: css/images/kyiv.png
 -->
 </div>
 ## 外部リンク
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95">ウィキペディア</a>
+* <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95">キイフ (ウィキペディア)</a>
+* <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95#.E4.BA.A4.E9.80.9A">キエフ地下鉄 (ウィキペディア)</a>
 * <a href="http://www.pbase.com/bmcmorrow/kiev">キイフの写真</a>
 * <a href="http://www.dtac.jp/caucasus/ukraine/entry_133.php">キイフ観光客のための情報</a>
 * <a href="http://www.maxsolomko.com">www.maxsolomko.com</a>
