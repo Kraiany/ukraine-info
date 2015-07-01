@@ -26,7 +26,7 @@ image: css/images/technology.jpg
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fc/Sergey_Korolyov.jpg" alt="Sergey Korolyov.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg">Sergey Korolyov</a>" by Anonymous - <a rel="nofollow" class="external text" href="http://rgantd.ru/vzal/korolev/pics/007_021.jpg">Image</a> from <a rel="nofollow" class="external text" href="http://rgantd.ru/vzal/korolev/razdel4.htm">Russian Governmental archive of Scientific-Techological Documentation</a>. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fc/Sergey_Korolyov.jpg" alt="Sergey Korolyov.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg">Sergey Korolyov</a>" <a rel="nofollow" class="external text" href="http://rgantd.ru/vzal/korolev/pics/007_021.jpg"></a> from <a rel="nofollow" class="external text" href="http://rgantd.ru/vzal/korolev/razdel4.htm"></a>Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
 -->
 </div>
 
