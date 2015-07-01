@@ -42,12 +42,20 @@ image: css/images/technology.jpg
 <div about='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg'><a href='https://www.flickr.com/photos/paldies/14409477971/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg' alt='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' title='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/paldies/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/paldies/' target='_blank'>Helmuts Guigo</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
-### ツィクロン（Циклон, Cyclone, Tsyklon）はドウクライナで開発された使い捨てロケット
+### サイクロン（Циклон, Cyclone, Tsyklon）はドウクライナで開発された使い捨てロケット
 <div class="lazyload">
 <!--
 <div about='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg'><a href='https://www.flickr.com/photos/ipasha/10420491593/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg' alt='P1000409 by ipasha, on Flickr' title='P1000409 by ipasha, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ipasha/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ipasha/' target='_blank'>ipasha</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
+### 新しいサイクロン4ロケットはドニプロペトロフシクで開発中（2015年）
+<div class="lazyload">
+<!--
+<img src="photos/technology/first_two_stages.jpg"/>
+<small>Website: <a href="http://www.alcantaracyclonespace.com/en/for-customers/project-status">Alcantara Cyclone Space</a></small>
+-->
+</div>
+
 ## 外部リンク
 
 * <a href="http://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%9E%E3%82%B7%E3%83%A5">A.M.マカロフ・ユージュニィ機械製造工場</a>
