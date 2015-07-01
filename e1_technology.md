@@ -11,7 +11,7 @@ image: css/images/technology.jpg
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2b/Sikorsky_I.I._1914._Karl_Bulla.jpg" alt="Sikorsky I.I. 1914. Karl Bulla.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg">Sikorsky I.I. 1914. Karl Bulla</a>" by <a href="//en.wikipedia.org/wiki/Karl_Bulla" class="extiw" title="en:Karl Bulla">Karl Bulla</a> - Book: С-Петербург. Столица Российской империи. Лики России. С-Петербург 1993.. Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2b/Sikorsky_I.I._1914._Karl_Bulla.jpg" alt="Sikorsky I.I. 1914. Karl Bulla.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg">Sikorsky I.I. 1914. Karl Bulla</a>" by <a href="//en.wikipedia.org/wiki/Karl_Bulla" class="extiw" title="en:Karl Bulla">Karl Bulla</a> Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
 -->
 </div>
 
