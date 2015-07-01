@@ -42,6 +42,18 @@ image: css/images/technology.jpg
 <div about='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg'><a href='https://www.flickr.com/photos/paldies/14409477971/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg' alt='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' title='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/paldies/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/paldies/' target='_blank'>Helmuts Guigo</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
+### AN-148 (航空機)。用途：大型旅客機。初飛行：2004年12月17日
+<div class="lazyload">
+<!--
+<a title="By Dmitry A. Mottl (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAntonov--148_2.jpg"><img width="512" alt="Antonov--148 2" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Antonov--148_2.jpg"/></a>
+-->
+</div>
+### AN-178 (航空機)。用途：輸送機。初飛行：2015年5月7日
+<div class="lazyload">
+<!--
+<a title="By Vasiliy Koba (http://spotters.net.ua/file/?id=102927&size=large) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0) or CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAntonov_An-178_in_military_grey_colours.jpeg"><img width="1024" alt="Antonov An-178 in military grey colours" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antonov_An-178_in_military_grey_colours.jpeg/1024px-Antonov_An-178_in_military_grey_colours.jpeg"/></a>
+-->
+</div>
 ### サイクロン3（Циклон, Cyclone, Tsyklon）はドウクライナで開発された使い捨てロケット
 <div class="lazyload">
 <!--
