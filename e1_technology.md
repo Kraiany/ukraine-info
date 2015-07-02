@@ -32,7 +32,7 @@ image: css/images/technology.jpg
 
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Geostat.gif#mediaviewer/File:Geostat.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Geostat.gif" alt="Geostat.gif"></a><small>«<a href="https://commons.wikimedia.org/wiki/File:Geostat.gif#mediaviewer/File:Geostat.gif">Geostat</a>» участника <a href="//commons.wikimedia.org/wiki/User:Brandir" title="User:Brandir">Brandir</a> - Own work. Rendered with PovRay-3.0, the <a href="//commons.wikimedia.org/w/index.php?title=Pov&amp;action=edit&amp;redlink=1" class="new" title="Pov (страница не существует)">pov</a> file is available on demand.. Под лицензией <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> с сайта <a href="//commons.wikimedia.org/wiki/">Викисклада</a>.</small></p>
+<a title="By Brandir [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5 es (http://creativecommons.org/licenses/by-sa/2.5/es/deed.en)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGeostat.gif"><img width="256" alt="Geostat" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Geostat.gif"/></a>
 -->
 </div>
 	
