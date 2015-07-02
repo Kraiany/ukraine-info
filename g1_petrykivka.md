@@ -5,7 +5,7 @@ description: ウクライナの装飾画
 place-googlemaps-link: https://www.google.co.jp/maps/place/Petrykivka,+Dnipropetrovsk+Oblast,+Ukraine/
 image: css/images/petrykivka.jpg
 ---
-ウクライナの装飾民俗芸術によるペトリキフカの装飾画。
+ペトリキウカ塗り(ウクライナ語: Петриківський розпис, 英語:Petrykivsky Painting)というのはウクライナの民族装飾芸術を代表する装飾画。2013年にUNESCO無形文化遺産になった。 「ペトリキウカ塗り」という村で暮らしていた人々は自宅の壁、家財道具、楽器にもペトリキウカ装飾を描いていた。 ペトリキウカ装飾は現地の動植物の注意深い観察を元にした、幻想的な花と自然要素を描くことが特徴。 ペトリキウカ装飾は象徴が豊富であり、雄鶏は火、また精神の目覚めを表しているとともに、他の鳥類は光、調和、幸福の象徴として扱われている。
 
 ###ペトリキフカ村の博物館からの写真
 <div class="lazyload">
@@ -74,5 +74,8 @@ image: css/images/petrykivka.jpg
 -->
 </div>
 ## 外部リンク
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%AB%E3%82%A3%E3%82%AD%E3%82%A6%E3%82%AB">ペトリキウカ塗り（ウィキペディア）</a>
 * <a href="http://instagram.com/petrykivka">ペトリキフカの写真</a>
-* <a href="http://www.unesco.org/culture/ich/RL/00893">UNESCO</a>
+* <a href="http://www.unesco.org/culture/ich/RL/00893">国際連合教育科学文化機関無形文化遺産</a>
+* <a href="https://petrykivka.culturalspot.org/">ペトリキウカ塗りのギャラリー</a>
+* <a href="https://www.facebook.com/petrykivkapaint">Facebook ペトリキウカ塗りコッミュニテイ</a>
