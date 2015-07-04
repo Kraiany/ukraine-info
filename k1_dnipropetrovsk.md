@@ -21,7 +21,7 @@ image: css/images/dnipropetrovsk.png
 このサイトではドニプロペトロウシクの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
 
 * <a href="http://www.eway.in.ua/en/cities/dnipropetrovsk">www.eway.in.ua/en/cities/dnipropetrovsk</a>
-* <a href="https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/">https://www.google.co.jp/maps</a>
+* <a href="https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/">www.google.co.jp/maps</a>
 
 ### ドニプロペトロウシク地下鉄路線
 <a title="By DDima [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMap_of_Dnipropetrovsk_Metro.png"><img width="512" alt="Map of Dnipropetrovsk Metro" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Map_of_Dnipropetrovsk_Metro.png"/></a>
