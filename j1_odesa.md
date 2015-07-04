@@ -14,8 +14,12 @@ image: css/images/odesa.png
 -->
 </div>
 
-###ゆかりの人物
-エミール・ギレリス（ピアニスト）、ミハエル・コーガン（実業家）、イダ・カミンスカ（女優・演出家）、アハド・ハアム（シオニズム思想家）、ユーリ・ニキフォロフ（サッカー選手）、ワシリー・カンディンスキー（美術家）、レフ・トロツキー（マルクス主義思想家）、ゲオルギー・ジューコフ（軍人・政治家）、ジョージ・ガモフ（理論物理学者）、アレクサンドル・プーシキン（詩人・作家）、ユーリー・マルトフ（社会運動家）、ショーレム・アレイヘム（劇作家・小説家・ジャーナリスト）、イオン・アントネスク（軍人・政治家）、ヴラディーミル・ド・パハマン（ピアニスト）、グリゴリー・ガリツィン（写真家）、フリスト・ボテフ（詩人・革命家）、ワシル・アプリロフ（教育家・文筆家）、アンドレイ・ヴィシンスキー（法律家・外交官）、ナタン・ミルシテイン（ヴァイオリニスト）、ミッシャ・エルマン（ヴァイオリニスト）、カロル2世（ルーマニア国王）、ウラジーミル・アーノルド（数学者）、イズライル・ゲルファント（数学者）、ベンノ・モイセイヴィチ（ピアニスト）、シューラ・チェルカスキー（ピアニスト）、マリヤ・グリンベルク（ピアニスト）、ダヴィッド・オイストラフ（ヴァイオリニスト）、スヴャトスラフ・リヒテル（ピアニスト）、ウラジーミル・トゥクマコフ（チェスプレーヤー）、イーゴリ・ベラノフ（サッカー選手）、アナスタシア・チェボタリョーワ（ヴァイオリニスト）、マ・クベ（軍人・架空の人物）、レイブ・ポルナレフ (フランスにてレオ・ポルの名で活動していた作曲家。ミッシェル・ポルナレフの父親)。
+### 交通
+
+このサイトではオデサの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
+
+* <a href="http://www.eway.in.ua/en/cities/odesa">www.eway.in.ua/en/cities/odesa</a>
+* <a href="https://www.google.co.jp/maps/place/Odessa,+Odessa+Oblast,+Ukraine/">www.google.co.jp/maps</a>
 
 ###デリバシフスカ通り
 <div class="lazyload">
@@ -23,6 +27,10 @@ image: css/images/odesa.png
 <div about='https://farm6.static.flickr.com/5336/7380083716_b08256e677_b.jpg'><a href='https://www.flickr.com/photos/eugene-r/7380083716/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm6.static.flickr.com/5336/7380083716_b08256e677_b.jpg' alt='IMG_7269 by eugene-r, on Flickr' title='IMG_7269 by eugene-r, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/eugene-r/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/eugene-r/' target='_blank'>eugene-r</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
+
+###ゆかりの人物
+エミール・ギレリス（ピアニスト）、ミハエル・コーガン（実業家）、イダ・カミンスカ（女優・演出家）、アハド・ハアム（シオニズム思想家）、ユーリ・ニキフォロフ（サッカー選手）、ワシリー・カンディンスキー（美術家）、レフ・トロツキー（マルクス主義思想家）、ゲオルギー・ジューコフ（軍人・政治家）、ジョージ・ガモフ（理論物理学者）、アレクサンドル・プーシキン（詩人・作家）、ユーリー・マルトフ（社会運動家）、ショーレム・アレイヘム（劇作家・小説家・ジャーナリスト）、イオン・アントネスク（軍人・政治家）、ヴラディーミル・ド・パハマン（ピアニスト）、グリゴリー・ガリツィン（写真家）、フリスト・ボテフ（詩人・革命家）、ワシル・アプリロフ（教育家・文筆家）、アンドレイ・ヴィシンスキー（法律家・外交官）、ナタン・ミルシテイン（ヴァイオリニスト）、ミッシャ・エルマン（ヴァイオリニスト）、カロル2世（ルーマニア国王）、ウラジーミル・アーノルド（数学者）、イズライル・ゲルファント（数学者）、ベンノ・モイセイヴィチ（ピアニスト）、シューラ・チェルカスキー（ピアニスト）、マリヤ・グリンベルク（ピアニスト）、ダヴィッド・オイストラフ（ヴァイオリニスト）、スヴャトスラフ・リヒテル（ピアニスト）、ウラジーミル・トゥクマコフ（チェスプレーヤー）、イーゴリ・ベラノフ（サッカー選手）、アナスタシア・チェボタリョーワ（ヴァイオリニスト）、マ・クベ（軍人・架空の人物）、レイブ・ポルナレフ (フランスにてレオ・ポルの名で活動していた作曲家。ミッシェル・ポルナレフの父親)。
+
 ###ヂウクデリシェリイェのモニュメント
 <div class="lazyload">
 <!--
