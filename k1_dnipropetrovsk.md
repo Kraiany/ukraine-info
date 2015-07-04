@@ -5,7 +5,7 @@ description: ウクライナ東部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/
 image: css/images/dnipropetrovsk.png
 ---
-ドニプロペトローウシク（ウクライナ語: Дніпропетровськ）はウクライナの都市。ドニプロ川の河岸に位置する。
+ドニプロペトローウシク（ウクライナ語: Дніпропетровськ）はウクライナの都市。ドニプロ川の河岸に位置する。人口は999,250人 (2011年8月1日)。ドニプロペトローウシクは1776年に創建された。市内ではドニプロペトローウシク駅がある。首都キエフまでの直線距離は390 kmであるが、鉄道で532 km、車道で447kmとなっている。愛称は「ドニプロ」である。ドネツィクと並んでウクライナ有数の工業の中心地であり、兵器の生産やエネルギー産業などの重工業を主産業とする。
 
 ### ドニプロペトローウシクタイムラプス
 <div class="lazyload">
@@ -13,6 +13,12 @@ image: css/images/dnipropetrovsk.png
 <div class="video-container"><iframe src="http://www.youtube.com/embed/8mUP8CsulDA?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
+### 交通
+ドニプロペトロウシク国際空港で、ウクライナ国内及びヨーロッパ各国と接続している。市内を結ぶ主な公共交通機関として、1995年に開通した地下鉄を始め、路面電車やトロリーバス、マルシュルートカがある。現在、地下鉄は延伸工事が行われており、2012年末頃に終点のVokzalna駅から都心部まで延伸する見込みである。また、2番目の路線が計画されている。現在、路線はTsentralno-Zavods’ka線のVokzalna駅からKomunarivska駅までの6駅、総延長は7.1kmである。朝5時半から夜23時まで営業し、一日当たりの乗客数は約22,200人である。
+
+### ドニプロペトロウシク地下鉄路線
+<a title="By DDima [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMap_of_Dnipropetrovsk_Metro.png"><img width="512" alt="Map of Dnipropetrovsk Metro" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Map_of_Dnipropetrovsk_Metro.png"/></a>
+
 ### ドニプロ川
 <div class="lazyload">
 <!--
