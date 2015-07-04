@@ -19,6 +19,7 @@ image: css/images/dnipropetrovsk.png
 市内を結ぶ主な公共交通機関として、1995年に開通した地下鉄を始め、路面電車やトロリーバス、マルシュルートカがある。現在、地下鉄は延伸工事が行われており、2012年末頃に終点のVokzalna駅から都心部まで延伸する見込みである。また、2番目の路線が計画されている。現在、路線はTsentralno-Zavods’ka線のVokzalna駅からKomunarivska駅までの6駅、総延長は7.1kmである。朝5時半から夜23時まで営業し、一日当たりの乗客数は約22,200人である。
 
 このサイトではドニプロペトロウシクの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
+
 * <a href="http://www.eway.in.ua/en/cities/dnipropetrovsk">www.eway.in.ua/en/cities/dnipropetrovsk</a>
 * <a href="https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/">https://www.google.co.jp/maps</a>
 
