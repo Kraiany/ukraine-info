@@ -14,5 +14,12 @@ image: css/images/kharkiv.png
 -->
 </div>
 
+### 交通
+
+このサイトではハルキウの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
+
+* <a href="http://www.eway.in.ua/en/cities/kharkiv">www.eway.in.ua/en/cities/kharkiv</a>
+* <a href="https://www.google.co.jp/maps/place/Kharkiv,+Kharkiv+Oblast,+Ukraine/">www.google.co.jp/maps</a>
+
 ## 外部リンク
 * <a href="http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%82%AD%E3%82%A6">ハルキウ</a>

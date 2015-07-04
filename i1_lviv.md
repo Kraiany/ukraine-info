@@ -23,6 +23,12 @@ image: css/images/lviv.png
 </div>
 ### 交通
 リヴィウ市電（ウクライナ語版）、バスなどがある。空港としては、リヴィウ国際空港が空の玄関口となっている。
+
+このサイトではリヴィウの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
+
+* <a href="http://www.eway.in.ua/en/cities/lviv">www.eway.in.ua/en/cities/lviv</a>
+* <a href="https://www.google.co.jp/maps/place/Lviv,+Lviv+Oblast,+Ukraine/">www.google.co.jp/maps</a>
+
 ###リヴィウの中心部のパノラマ
 <div class="lazyload">
 <!--
