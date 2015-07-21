@@ -7,10 +7,27 @@ image: css/images/vinnytsya.png
 ---
 ヴィーンヌィツャ（ウクライナ語: Вінниця）はウクライナのヴィーンヌィツャ州にある都市。ヴィーンヌィツャ州の州庁所在地である。南ブーフ川の河岸に位置する。面積は79.94 km²。人口は367,625人 (2011年8月1日)、人口密度は4598.8 人 / km²。
 
-### ヴィーンヌィツャビデオ
+### ヴィーンヌィツャ中心部
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/CjY98Dg7kVQ?html5=1" frameborder="0"></iframe></div>
+<a title="By Håkan Henriksson (Narking) (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVinnytsia-savoy-hotel.jpg"><img width="1024" alt="Vinnytsia-savoy-hotel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vinnytsia-savoy-hotel.jpg/1024px-Vinnytsia-savoy-hotel.jpg"/></a>
+-->
+</div>
+### 給水塔
+<div class="lazyload">
+<!--
+<a title="By George Chernilevsky (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOld_Tower_night_winter_2011_G1.jpg"><img width="2048" alt="Old Tower night winter 2011 G1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Old_Tower_night_winter_2011_G1.jpg/2048px-Old_Tower_night_winter_2011_G1.jpg"/></a>
+-->
+### 聖ドミニコ教会
+<div class="lazyload">
+<!--
+<a title="Sergiy Klymenko [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVinnitsa_Dominician_costel_1758.jpg"><img width="512" alt="Vinnitsa Dominician costel 1758" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vinnitsa_Dominician_costel_1758.jpg/512px-Vinnitsa_Dominician_costel_1758.jpg"/></a>
+-->
+</div>
+### ロシェン噴水
+<div class="lazyload">
+<!--
+<a title="By Laserland (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ANight_Show_of_Multimedia_Fountain_Roshen.jpg"><img width="1024" alt="Night Show of Multimedia Fountain Roshen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Night_Show_of_Multimedia_Fountain_Roshen.jpg/1024px-Night_Show_of_Multimedia_Fountain_Roshen.jpg"/></a>
 -->
 </div>
 
