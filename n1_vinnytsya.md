@@ -1,7 +1,7 @@
 ---
 layout: place
 title: ヴィーンヌィツャ
-description: ウクライナの都市
+description: ウクライナ中部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Vinnytsia,+Vinnyts'ka+oblast,+Ukraine/
 image: css/images/vinnytsya.png
 ---
