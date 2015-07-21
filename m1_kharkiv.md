@@ -1,7 +1,7 @@
 ---
 layout: place
 title: ハルキウ
-description: ウクライナの都市
+description: ウクライナ北東部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Kharkiv,+Kharkiv+Oblast,+Ukraine/
 image: css/images/kharkiv.png
 ---
