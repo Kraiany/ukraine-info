@@ -45,7 +45,7 @@ image: css/images/history.png
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Chernivtsi_University.jpg#mediaviewer/File:Chernivtsi_University.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chernivtsi_University.jpg/1200px-Chernivtsi_University.jpg" alt="Chernivtsi University.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Chernivtsi_University.jpg#mediaviewer/File:Chernivtsi_University.jpg">Chernivtsi University</a>" від невідомий - <a rel="nofollow" class="external free" href="http://ridersontheglobe.com/stages/270">http://ridersontheglobe.com/stages/270</a>. Ліцензований під <a href="http://artlibre.org/licence/lal/en" title="Free Art License">FAL</a> через <a href="//commons.wikimedia.org/wiki/">Вікісховище</a>.</small></p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Chernivtsi_University.jpg#mediaviewer/File:Chernivtsi_University.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chernivtsi_University.jpg/1200px-Chernivtsi_University.jpg" alt="Chernivtsi University.jpg"></a></p>
 -->
 </div>
 
@@ -61,50 +61,7 @@ image: css/images/history.png
 -->
 </div>
 
-### 日本語訳
-
-ウクライナの栄光も自由もいまだ滅びず、
-
-若き兄弟たちよ、我らに運命はいまだ微笑むだろう。
-
-我らが敵は日の前の露のごとく亡びるだろう。
-
-兄弟たちよ、我らは我らの地を治めよう。
-
-<br>
-我らは自由のために魂と身体を捧げ、
-
-兄弟たちよ、我らがコサックの氏族であることを示そう。
-
-<br>
-シャン川からドン川までの血の戦いに立とう、
-
-我らの故郷で他者の支配を許さない。
-
-黒海はまた微笑み、祖父たるドニプロ川も喜んでくれるだろう。
-
-我らのウクライナに運はいまだ向いてくるだろう。
-
-<br>
-我らは自由のために魂と身体を捧げ、
-
-兄弟たちよ、我らがコサックの氏族であることを示そう。
-
-<br>
-努力と労働が成果を示し、
-
-我らのウクライナで大歌はいまだ轟くだろう。
-
-カルパティア山々に響いて草原へ鳴り渡り、
-
-ウクライナの名声は諸国に伝わるだろう。
-
-<br>
-我らは自由のために魂と身体を捧げ、
-
-兄弟たちよ、我らがコサックの氏族であることを示そう。
-
-### ウクライナ語
+### ウクライナの国歌の歌詞（ウクライナ語）
 
 Ще не вмерла України і слава, і воля,
 
@@ -146,6 +103,49 @@ image: css/images/history.png
 Душу й тіло ми положим за нашу свободу,
 
 І покажем, що ми, браття, козацького роду.
+
+** ウクライナの国歌の歌詞の日本語訳 **
+
+ウクライナの栄光も自由もいまだ滅びず、
+
+若き兄弟たちよ、我らに運命はいまだ微笑むだろう。
+
+我らが敵は日の前の露のごとく亡びるだろう。
+
+兄弟たちよ、我らは我らの地を治めよう。
+
+<br>
+我らは自由のために魂と身体を捧げ、
+
+兄弟たちよ、我らがコサックの氏族であることを示そう。
+
+<br>
+シャン川からドン川までの血の戦いに立とう、
+
+我らの故郷で他者の支配を許さない。
+
+黒海はまた微笑み、祖父たるドニプロ川も喜んでくれるだろう。
+
+我らのウクライナに運はいまだ向いてくるだろう。
+
+<br>
+我らは自由のために魂と身体を捧げ、
+
+兄弟たちよ、我らがコサックの氏族であることを示そう。
+
+<br>
+努力と労働が成果を示し、
+
+我らのウクライナで大歌はいまだ轟くだろう。
+
+カルパティア山々に響いて草原へ鳴り渡り、
+
+ウクライナの名声は諸国に伝わるだろう。
+
+<br>
+我らは自由のために魂と身体を捧げ、
+
+兄弟たちよ、我らがコサックの氏族であることを示そう。
 
 ## ウクライナの国旗
 
