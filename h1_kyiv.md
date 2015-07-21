@@ -38,7 +38,7 @@ image: css/images/kyiv.png
 -->
 </div>
 
-### キイフ地下鉄「ゾロチー ヴォロータ」駅
+### キイフ地下鉄「ゾロチー ヴォロータ」駅 / Zoloti Vorota station of Kyiv metro
 <div class="lazyload">
 <!--
 <a title="© AMY / Wikimedia Commons, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AZoloti_Vorota_metro_station_Kiev_2010_01.jpg"><img width="2048" alt="Zoloti Vorota metro station Kiev 2010 01" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zoloti_Vorota_metro_station_Kiev_2010_01.jpg/2048px-Zoloti_Vorota_metro_station_Kiev_2010_01.jpg"/></a>
