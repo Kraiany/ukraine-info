@@ -56,7 +56,7 @@ image: css/images/donbas.png
 -->
 </div>
 
-### 戦闘により破壊されたドネツィク空港（2014年12月からロシア軍侵攻)
+### 戦闘により破壊されたドネツィク空港（2014年12月からロシア軍侵攻です)
 <div class="lazyload">
 <!--
 <a title="By «Правда ДНР / Pravda DPR» information portal official Youtube channel [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARuins_of_Donetsk_International_airport_(16).jpg"><img width="512" alt="Ruins of Donetsk International airport (16)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ruins_of_Donetsk_International_airport_%2816%29.jpg/512px-Ruins_of_Donetsk_International_airport_%2816%29.jpg"/></a>
