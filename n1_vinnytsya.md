@@ -18,6 +18,7 @@ image: css/images/vinnytsya.png
 <!--
 <a title="By George Chernilevsky (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AOld_Tower_night_winter_2011_G1.jpg"><img width="2048" alt="Old Tower night winter 2011 G1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Old_Tower_night_winter_2011_G1.jpg/2048px-Old_Tower_night_winter_2011_G1.jpg"/></a>
 -->
+</div>
 ### 聖ドミニコ教会
 <div class="lazyload">
 <!--
