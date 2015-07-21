@@ -14,6 +14,13 @@ image: css/images/kharkiv.png
 -->
 </div>
 
+### ハルキウ中心部
+<div class="lazyload">
+<!--
+<a title="By Dmitry Sleduk / Дм. Следюк, согласно permissions. (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALopanStrelkaKharkov.jpg"><img width="4096" alt="LopanStrelkaKharkov" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/LopanStrelkaKharkov.jpg/4096px-LopanStrelkaKharkov.jpg"/></a>
+-->
+</div>
+
 ### 交通
 
 このサイトではハルキウの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
@@ -24,14 +31,7 @@ image: css/images/kharkiv.png
 ### ハルキウ地下鉄路線網
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Metro_Kharkov_Map_Russian_Ukrainian.PNG#/media/File:Metro_Kharkov_Map_Russian_Ukrainian.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Metro_Kharkov_Map_Russian_Ukrainian.PNG" alt="Metro Kharkov Map Russian Ukrainian.PNG"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Metro_Kharkov_Map_Russian_Ukrainian.PNG#/media/File:Metro_Kharkov_Map_Russian_Ukrainian.PNG">Metro Kharkov Map Russian Ukrainian</a>". Licensed under Public Domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
--->
-</div>
-
-### ハルキウ中心部
-<div class="lazyload">
-<!--
-<a title="By Dmitry Sleduk / Дм. Следюк, согласно permissions. (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALopanStrelkaKharkov.jpg"><img width="4096" alt="LopanStrelkaKharkov" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/LopanStrelkaKharkov.jpg/4096px-LopanStrelkaKharkov.jpg"/></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:Metro_Kharkov_Map_Russian_Ukrainian.PNG#/media/File:Metro_Kharkov_Map_Russian_Ukrainian.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Metro_Kharkov_Map_Russian_Ukrainian.PNG" alt="Metro Kharkov Map Russian Ukrainian.PNG"></a></p>
 -->
 </div>
 
