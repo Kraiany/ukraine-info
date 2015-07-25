@@ -197,6 +197,13 @@ image: css/images/kyiv.png
 -->
 </div>
 
+###キイフの夜のパノラマ / Night Panorama of Kyiv
+<div class="lazyload">
+<!--
+<p><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%85%D0%BC%D0%B0%D1%80%D0%BE%D1%87%D0%BE%D1%81%D1%96%D0%B2.jpg#/media/File:%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%85%D0%BC%D0%B0%D1%80%D0%BE%D1%87%D0%BE%D1%81%D1%96%D0%B2.jpg"><img src="https://upload.wikimedia.org/wikipedia/uk/7/7f/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%85%D0%BC%D0%B0%D1%80%D0%BE%D1%87%D0%BE%D1%81%D1%96%D0%B2.jpg" alt="Панорама хмарочосів.jpg"></a></p>
+-->
+</div>
+
 ###ドニプロ川橋 / South Bridge Over Dnipro River
 <div class="lazyload">
 <!--
