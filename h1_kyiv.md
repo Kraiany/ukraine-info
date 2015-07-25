@@ -135,7 +135,7 @@ image: css/images/kyiv.png
 ###大統領宮殿 / Presidential Palace
 <div class="lazyload">
 <!--
-<a title="By Steve Beaukiss (Steve Beaukiss&#039;s flickr account) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APresidential_Palace_Ukraine.jpg"><img width="512" alt="Presidential Palace Ukraine" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Presidential_Palace_Ukraine.jpg"/></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:Presidential_Palace_Ukraine.jpg#/media/File:Presidential_Palace_Ukraine.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Presidential_Palace_Ukraine.jpg" alt="Presidential Palace Ukraine.jpg"></a></p>
 -->
 </div>
 
