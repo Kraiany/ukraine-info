@@ -200,7 +200,7 @@ image: css/images/kyiv.png
 ###ドニプロ川橋 / South Bridge Over Dnipro River
 <div class="lazyload">
 <!--
-<a title="By tov_tob (http://tov-tob.livejournal.com/31596.html) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_(%D0%9A%D0%B8%D1%97%D0%B2).jpg"><img width="512" alt="Південний міст (Київ)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_%28%D0%9A%D0%B8%D1%97%D0%B2%29.jpg/512px-%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_%28%D0%9A%D0%B8%D1%97%D0%B2%29.jpg"/></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_(%D0%9A%D0%B8%D1%97%D0%B2).jpg#/media/File:%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_(%D0%9A%D0%B8%D1%97%D0%B2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_%28%D0%9A%D0%B8%D1%97%D0%B2%29.jpg" alt="Південний міст (Київ).jpg" height="581" width="896"></a></p>
 -->
 </div>
 
