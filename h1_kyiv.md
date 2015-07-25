@@ -45,6 +45,13 @@ image: css/images/kyiv.png
 -->
 </div>
 
+### キイフケーブルカー / Kyiv funicular
+<div class="lazyload">
+<!--
+<a title="By http://tov-tob.livejournal.com/31596.html?thread=1860716#t1860716 (http://tov-tob.livejournal.com/116741.html) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg"><img width="512" alt="2948279 Киевский фуникулер" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg/512px-2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg"/></a>
+-->
+</div>
+
 ###夜のソフィイフスカ広場 / Sofiivska Square at Night
 <div class="lazyload">
 <!--
@@ -66,6 +73,21 @@ image: css/images/kyiv.png
 <small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
+
+###セントアンドリュー教会 / Saint Andrew's Church
+<div class="lazyload">
+<!--
+<a title="Yuriy Kolodin at English Wikipedia [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASaint_Andrew's_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg"><img width="2048" alt="Saint Andrew&#039;s Church of Kiev photo by Yuriy Kolodin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Saint_Andrew%27s_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg/2048px-Saint_Andrew%27s_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg"/></a>
+-->
+</div>
+
+###セントニコラスローマカトリック大聖堂 / St. Nicholas Roman Catholic Cathedral
+<div class="lazyload">
+<!--
+<a title="By Konstantin Brizhnichenko (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASt._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg"><img width="2048" alt="St. Nicholas Roman Catholic Cathedral, Kyiv 3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg/2048px-St._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg"/></a>
+-->
+</div>
+
 ###キメラの家 / House with Chimeras
 <div class="lazyload">
 <!--
@@ -87,6 +109,21 @@ image: css/images/kyiv.png
 <small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
+
+###ボロディーミル通り / Volodymyrska Street
+<div class="lazyload">
+<!--
+<a title="© AMY / Wikimedia Commons, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_54_%D0%9A%D0%B8%D0%B5%D0%B2_2010_01.JPG"><img width="2048" alt="Владимирская 54 Киев 2010 01" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_54_%D0%9A%D0%B8%D0%B5%D0%B2_2010_01.JPG/2048px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_54_%D0%9A%D0%B8%D0%B5%D0%B2_2010_01.JPG"/></a>
+-->
+</div>
+
+###キイフオペラバレエ劇場 / Kyiv Opera
+<div class="lazyload">
+<!--
+<a title="By Roland Geider (Ogre) (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKiev_Opera_House_-_001.jpg"><img width="2048" alt="Kiev Opera House - 001" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kiev_Opera_House_-_001.jpg/2048px-Kiev_Opera_House_-_001.jpg"/></a>
+-->
+</div>
+
 ###霧の中ドニエプル川 / Dnipro river in fog
 <div class="lazyload">
 <!--
@@ -94,6 +131,35 @@ image: css/images/kyiv.png
 <small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
+
+###大統領宮殿 / Presidential Palace
+<div class="lazyload">
+<!--
+<a title="By Steve Beaukiss (Steve Beaukiss&#039;s flickr account) [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APresidential_Palace_Ukraine.jpg"><img width="512" alt="Presidential Palace Ukraine" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Presidential_Palace_Ukraine.jpg"/></a>
+-->
+</div>
+
+### キイフ繁華街 / Kyiv Downtown
+<div class="lazyload">
+<!--
+<p><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%B0%D1%80%D1%83%D1%81_%D1%96_%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C_%D1%83_%D0%9A%D0%B8%D1%94%D0%B2%D1%96.jpg#/media/File:%D0%9F%D0%B0%D1%80%D1%83%D1%81_%D1%96_%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C_%D1%83_%D0%9A%D0%B8%D1%94%D0%B2%D1%96.jpg"><img src="https://upload.wikimedia.org/wikipedia/uk/9/9a/%D0%9F%D0%B0%D1%80%D1%83%D1%81_%D1%96_%D0%9A%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C_%D1%83_%D0%9A%D0%B8%D1%94%D0%B2%D1%96.jpg" alt="Парус і Континенталь у Києві.jpg" height="3264" width="2448"></a></p>
+-->
+</div>
+
+### ウクライナの最高裁判所 / Supreme Court Of Ukraine
+<div class="lazyload">
+<!--
+<a title="By Wadco2 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APechersk_28_09_13_396.JPG"><img width="2048" alt="Pechersk 28 09 13 396" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pechersk_28_09_13_396.JPG/2048px-Pechersk_28_09_13_396.JPG"/></a>
+-->
+</div>
+
+### 黄金の門。古代キエフへの入り口 / Golden Gates of Kyiv
+<div class="lazyload">
+<!--
+<a title="By KyjivRus` (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKyiv_Golden_Gate_-_011.jpg"><img width="2048" alt="Kyiv Golden Gate - 011" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kyiv_Golden_Gate_-_011.jpg/2048px-Kyiv_Golden_Gate_-_011.jpg"/></a>
+-->
+</div>
+
 ###独立広場
 <div class="lazyload">
 <!--
@@ -130,6 +196,14 @@ image: css/images/kyiv.png
 <div about='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg'><a href='https://www.flickr.com/photos/thisisbossi/3965068418/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg' alt='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' title='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/thisisbossi/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/thisisbossi/' target='_blank'>thisisbossi</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
+
+###ドニプロ川橋 / South Bridge Over Dnipro River
+<div class="lazyload">
+<!--
+<a title="By tov_tob (http://tov-tob.livejournal.com/31596.html) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_(%D0%9A%D0%B8%D1%97%D0%B2).jpg"><img width="512" alt="Південний міст (Київ)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_%28%D0%9A%D0%B8%D1%97%D0%B2%29.jpg/512px-%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_%28%D0%9A%D0%B8%D1%97%D0%B2%29.jpg"/></a>
+-->
+</div>
+
 ## 外部リンク
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95">キイフ (ウィキペディア)</a>
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95#.E4.BA.A4.E9.80.9A">キイフ地下鉄 (ウィキペディア)</a>
