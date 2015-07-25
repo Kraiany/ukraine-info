@@ -48,7 +48,7 @@ image: css/images/kyiv.png
 ### キイフケーブルカー / Kyiv funicular
 <div class="lazyload">
 <!--
-<a title="By http://tov-tob.livejournal.com/31596.html?thread=1860716#t1860716 (http://tov-tob.livejournal.com/116741.html) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg"><img width="512" alt="2948279 Киевский фуникулер" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg/512px-2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg"/></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg#/media/File:2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/2948279_%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B5%D1%80.jpg" alt="2948279 Киевский фуникулер.jpg"></a></p>
 -->
 </div>
 
