@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ウクライナの航空宇宙工学
+title: 航空宇宙工学
 description: 歴史と現在
 image: css/images/technology.jpg
 ---
