@@ -169,7 +169,7 @@ image: css/images/lviv.png
 ### リヴィウ国際空港
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Ph-mjp1.jpg#/media/File:Ph-mjp1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Ph-mjp1.jpg" alt="Ph-mjp1.jpg"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Ph-mjp1.jpg#/media/File:Ph-mjp1.jpg">Ph-mjp1</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:Pilotlviv&amp;action=edit&amp;redlink=1" class="new" title="User:Pilotlviv (page does not exist)">Pilotlviv</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a> via <a href="https://commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ph-mjp1.jpg#/media/File:Ph-mjp1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Ph-mjp1.jpg" alt="Ph-mjp1.jpg"></a></p>
 -->
 </div>
 
