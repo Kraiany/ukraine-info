@@ -1,10 +1,10 @@
 ---
 layout: article
-title: ウクライナの技術
+title: ウクライナの航空宇宙工学
 description: 歴史と現在
 image: css/images/technology.jpg
 ---
-世界で有名なウクライナ人
+## 世界で有名なウクライナ人
 
 ### イーゴリ・イヴァーノヴィチ・シコールスキイ
 1889年5月25日 - 1972年10月26日）は、ウクライナのキイフで生まれの航空機のパイオニア。自身飛行家でもあったイーゴリは、世界初の4発の大型機の開発をはじめ、多くの新型機を工業後進国であったロシア帝国で生産した。しかしながら、1917年のロシア革命を受けてアメリカ合衆国へ亡命した。アメリカにおいて彼は近代的なヘリコプターの開発をしました。シコルスキー・エアクラフトの創立者。
@@ -33,6 +33,15 @@ image: css/images/technology.jpg
 <div class="lazyload">
 <!--
 <a title="By Brandir [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5 es (http://creativecommons.org/licenses/by-sa/2.5/es/deed.en)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGeostat.gif"><img width="256" alt="Geostat" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Geostat.gif"/></a>
+-->
+</div>
+
+## ウクライナ製
+
+### シーチ-1（Sich-1、Січ-1）はウクライナ初の人工衛星（1995年）
+<div class="lazyload">
+<!--
+<p><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D1%96%D1%87-1.jpg#/media/File:%D0%A1%D1%96%D1%87-1.jpg"><img src="https://upload.wikimedia.org/wikipedia/uk/d/d9/%D0%A1%D1%96%D1%87-1.jpg" alt="Січ-1.jpg"></a></p>
 -->
 </div>
 	
@@ -65,13 +74,6 @@ image: css/images/technology.jpg
 <!--
 <img src="photos/technology/first_two_stages.jpg"/>
 <small>Website: <a href="http://www.alcantaracyclonespace.com/en/for-customers/project-status">Alcantara Cyclone Space</a></small>
--->
-</div>
-
-### シーチ-1（Sich-1、Січ-1）はウクライナ初の人工衛星（1995年）
-<div class="lazyload">
-<!--
-<p><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D1%96%D1%87-1.jpg#/media/File:%D0%A1%D1%96%D1%87-1.jpg"><img src="https://upload.wikimedia.org/wikipedia/uk/d/d9/%D0%A1%D1%96%D1%87-1.jpg" alt="Січ-1.jpg"></a></p>
 -->
 </div>
 
