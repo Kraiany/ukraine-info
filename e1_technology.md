@@ -68,6 +68,13 @@ image: css/images/technology.jpg
 -->
 </div>
 
+### シーチ-1（Sich-1、Січ-1）はウクライナ初の人工衛星（1995年）
+<div class="lazyload">
+<!--
+<p><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D1%96%D1%87-1.jpg#/media/File:%D0%A1%D1%96%D1%87-1.jpg"><img src="https://upload.wikimedia.org/wikipedia/uk/d/d9/%D0%A1%D1%96%D1%87-1.jpg" alt="Січ-1.jpg"></a></p>
+-->
+</div>
+
 ## 外部リンク
 
 * <a href="http://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%9E%E3%82%B7%E3%83%A5">A.M.マカロフ・ユージュニィ機械製造工場</a>
