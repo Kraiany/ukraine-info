@@ -6,14 +6,24 @@ place-googlemaps-link: https://www.google.co.jp/maps/place/Kiev,+Kyiv+city,+Ukra
 image: css/images/kyiv.png
 ---
 キイフ（ウクライナ語: Київ）は、ウクライナの首都。ドニプロ川の中流に位置する。同国最大の都市で、政治・経済・社会・学術・交通の中心地である。5世紀後半に建設されたポリャーネ族の集落から発展した。中世にはキイフ・ルーシの都であったが、近世にはコサックのキイフ連隊の中心となった。20世紀中にウクライナ人民共和国、ウクライナ国とウクライナ・ソビエト社会主義共和国の首都であり続けた。キイフ市内の人口はおよそ279万人であるが、キイフ首都圏の人口はおよそ400万人となっている。東ヨーロッパにおける最古の都市で、キリスト教の聖地の一つである。都内にある聖ソフィア大聖堂とキイフ洞窟大修道院は世界遺産に登録されている。
-### キイフタイムラプス
+
+### 独立広場 / Independence Square
+<div class="lazyload">
+<!--
+<div about='https://farm7.static.flickr.com/6134/5985493792_86beac88e8_b.jpg'><a href='https://www.flickr.com/photos/jenniferboyer/5985493792/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm7.static.flickr.com/6134/5985493792_86beac88e8_b.jpg' alt='Independence Square by Anosmia, on Flickr' title='Independence Square by Anosmia, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/jenniferboyer/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/jenniferboyer/' target='_blank'>Anosmia</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+-->
+</div>
+
+### キイフタイムラプス / Kyiv Timelapse
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/72q3U65daVA?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
+
 ### 気候
 大陸性気候であり、ケッペンの気候区分では湿潤大陸性気候 (Dfb) に属する。最も暑い7月の平均気温は20.5°Cで、時に30°Cを超えることも少なくない。最も寒い1月の平均気温は−3.5°Cで急速に平年値は上昇したものの、近年は寒冬になることも多く、時に零下20度を下回ることも珍しくない。過去最高気温は1936年7月31日観測された39.4 °C、過去最低気温は1929年2月7日と9日に観測された−32.2 °Cである。年間降雪量は355cmと欧州の大都市の中ではかなり多い方である。
+
 ###ソフィイフスカ広場 / Sofiivska Square
 <div class="lazyload">
 <!--
@@ -21,6 +31,7 @@ image: css/images/kyiv.png
 <small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
+
 ### キエフ地下鉄
 キイフ地下鉄(ウクライナ語:Київський метрополітен)は、ウクライナの首都キイフの市内を走る地下鉄である。2011年現在キイフには3路線、総延長65.18 kmの地下鉄が走っているが、現在新たに1路線が建設工事中であり、また、2号線と3号線は延伸工事中である。
 
@@ -160,12 +171,6 @@ image: css/images/kyiv.png
 -->
 </div>
 
-###独立広場
-<div class="lazyload">
-<!--
-<div about='https://farm7.static.flickr.com/6134/5985493792_86beac88e8_b.jpg'><a href='https://www.flickr.com/photos/jenniferboyer/5985493792/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm7.static.flickr.com/6134/5985493792_86beac88e8_b.jpg' alt='Independence Square by Anosmia, on Flickr' title='Independence Square by Anosmia, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/jenniferboyer/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/jenniferboyer/' target='_blank'>Anosmia</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
--->
-</div>
 ###インスチツツカ通り
 <div class="lazyload">
 <!--
