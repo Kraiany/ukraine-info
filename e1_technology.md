@@ -11,13 +11,13 @@ image: css/images/technology.jpg
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2b/Sikorsky_I.I._1914._Karl_Bulla.jpg" alt="Sikorsky I.I. 1914. Karl Bulla.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg">Sikorsky I.I. 1914. Karl Bulla</a>" by <a href="//en.wikipedia.org/wiki/Karl_Bulla" class="extiw" title="en:Karl Bulla">Karl Bulla</a> Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2b/Sikorsky_I.I._1914._Karl_Bulla.jpg" alt="Sikorsky I.I. 1914. Karl Bulla.jpg"></a></p>
 -->
 </div>
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_Skycrane_carrying_house_bw.jpg#mediaviewer/File:Sikorsky_Skycrane_carrying_house_bw.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fd/Sikorsky_Skycrane_carrying_house_bw.jpg" alt="Sikorsky Skycrane carrying house bw.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sikorsky_Skycrane_carrying_house_bw.jpg#mediaviewer/File:Sikorsky_Skycrane_carrying_house_bw.jpg">Sikorsky Skycrane carrying house bw</a>". Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_Skycrane_carrying_house_bw.jpg#mediaviewer/File:Sikorsky_Skycrane_carrying_house_bw.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fd/Sikorsky_Skycrane_carrying_house_bw.jpg" alt="Sikorsky Skycrane carrying house bw.jpg"></a></p>
 -->
 </div>
 
@@ -26,7 +26,7 @@ image: css/images/technology.jpg
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fc/Sergey_Korolyov.jpg" alt="Sergey Korolyov.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg">Sergey Korolyov</a>" <a rel="nofollow" class="external text" href="http://rgantd.ru/vzal/korolev/pics/007_021.jpg"></a><a rel="nofollow" class="external text" href="http://rgantd.ru/vzal/korolev/razdel4.htm"></a>Licensed under Public domain via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
+<p><a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fc/Sergey_Korolyov.jpg" alt="Sergey Korolyov.jpg"></a></p>
 -->
 </div>
 
