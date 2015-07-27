@@ -56,6 +56,13 @@ image: css/images/donbas.png
 -->
 </div>
 
+### ドネツ川
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:C%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D0%B5%D1%86.JPG#/media/File:C%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D0%B5%D1%86.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/C%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D0%B5%D1%86.JPG/1200px-C%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D0%B5%D1%86.JPG" alt="Cеверский Донец.JPG"></a></p>
+-->
+</div>
+
 ### 生神女就寝スヴャトヒルシク修道院
 <div class="lazyload">
 <!--
