@@ -49,6 +49,20 @@ image: css/images/donbas.png
 -->
 </div>
 
+### ルハーニ川
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:20070609_001.jpg#/media/File:20070609_001.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20070609_001.jpg/1200px-20070609_001.jpg" alt="20070609 001.jpg"></a></p>
+-->
+</div>
+
+### 生神女就寝スヴャトヒルシク修道院
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Svjatogorsk,_Lavra_3.jpg#/media/File:Svjatogorsk,_Lavra_3.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Svjatogorsk%2C_Lavra_3.jpg/1200px-Svjatogorsk%2C_Lavra_3.jpg" alt="Svjatogorsk, Lavra 3.jpg"></a></p>
+-->
+</div>
+
 ### ドネツィク国際空港（2014年まで）
 <div class="lazyload">
 <!--
