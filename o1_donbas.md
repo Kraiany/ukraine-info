@@ -59,7 +59,7 @@ image: css/images/donbas.png
 ### ドネツ川
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:C%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D0%B5%D1%86.JPG#/media/File:C%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D0%B5%D1%86.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/C%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D0%B5%D1%86.JPG/1200px-C%D0%B5%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D0%B5%D1%86.JPG" alt="Cеверский Донец.JPG"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sviatohirsk_Seversky_Donets_River_IMG_0347_1725.jpg#/media/File:Sviatohirsk_Seversky_Donets_River_IMG_0347_1725.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sviatohirsk_Seversky_Donets_River_IMG_0347_1725.jpg/1200px-Sviatohirsk_Seversky_Donets_River_IMG_0347_1725.jpg" alt="Sviatohirsk Seversky Donets River IMG 0347 1725.jpg"></a></p>
 -->
 </div>
 
