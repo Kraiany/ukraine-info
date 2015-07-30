@@ -155,75 +155,117 @@ image: css/images/literature.jpg
 ### Ротації（ウクライナ語）
 
 Біжать алеї звуків, саджених у гами. 
+
 Мов на акорд, упав поверх на поверх. 
+
 Греблі жовтих мурів, денний вулиць гамір 
+
 від берега по берег, тінь вінків дубових.
 
 Мусує день, мов склянка золотого чаю, 
+
 прочищена блакить, ввиш мряки шумовиння. 
+
 Йдуть люди жовтих міст, і їхні очі сяють, 
+
 хоч смуток вглиб ховають, мов гірке насіння.
 
 Церкви, цукерні, біржі — духові і тілу. 
+
 Для зір і для монет. Ждучи рідких окрушин 
+
 крихкого щастя, прочуваєм інші цілі. 
+
 Мов зонд у рану, розпач грузне в наші душі.
 
 Але за муром джаз і танці лампіонів, 
+
 балет балончиків, хор барв, мов хор гобоїв, 
+
 і жовті груди велетенських стадіонів 
+
 зітхають глухо під бурхливою юрбою.
 
 І стеляться до ніг дими — покірні птахи, 
+
 а сонце, мов павук, на мурів скіснім луку 
+
 антен червоне павутиння розіп’явши, 
+
 мов мертві мухи, ловить і вбиває звуки.
 
 Мистці рослин — тюльпани, дбаючи за форму, 
+
 припавши на коліна, барвно й гарно гинуть,
+
 а за законами нам невідомих формул 
+
 вирують дні й міста й вирують бормашини.
 
 Дроти тремтять мов нерви. Теплий білий листик, 
+
 зоря в конверті, кілька слів і квіт шипшини. 
+
 Кружляють, мов пом’яте листя, сни дентисток 
+
 над вирвами нудних мелодій бормашини.
 
 ### Rotation (英語訳)
 
 So the multilevel sounds of the city run through the alley. 
+
 Height after height, falling on another as notes in a chord.
+
 The diurnal street clamour, where yellow walls are a levee, 
+
 seethes between banks in garlands of oak shadow.
 
 The day compels, with its light, a glass of gold tea, 
+
 purged azure and acoustic cloud. 
+
 People walk the sepia streets, their eyes gleaming,
+
 though they conceal sorrow within, a bitter seed.
 
 Churches, confectioneries, wagon halts, travel 
+
 through the body and spirit and stars fall 
+
 to coins in a pocket beyond happiness, some other goal,
+
 despair probes the wound that is our soul.
 
 From over the wall we hear jazz, the dance of lanterns, 
+
 and gas canisters, a choir of colours and oboes, 
+
 in the yellow breasts of vast stadiums,
+
 the deafening sigh of the crowd, its human storms.
 
 A ceiling of smoke levitates up my legs, the compliant birds fly,
+
 the sun, a spider casts its arc of light askance on the wall,
+
 the spider web’s crimson antennae crucify
+
 dead insects, the sounds they catch and kill.
 
 Plants are artists, tulips attentive to form, 
+
 fall to their knees and beautifully, colourfully perish, 
+
 in accord with scientific formulae, unknown
+
 dental probes of days and towns all excavate us.
 
 Trembling nerves of wire, the warm white sheet
+
 is a star in an envelope with some words and dog rose petals
+
 as withered leaves, the dreams of dentists twist
+
 above cavities and turgid melodies of dental drills.
 
 (Translated from Ukrainian by Steve Komarnyckyj)
