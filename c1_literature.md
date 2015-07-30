@@ -134,8 +134,18 @@ image: css/images/literature.jpg
 -->
 </div>
 
+## レーシャ・ウクライーンカ
+レーシャ・ウクライーンカ（ウクライナ語: Леся Українка；1871年2月25日‐1913年8月1日）は、ウクライナの女性作家、詩人、翻訳者、文学評論家。本名はラルィーサ・クウィートカ・コーサチュ（Лариса Квітка-Косач）。ウクライナの女性作家オレーナ・プチールカの娘、啓蒙家のムィハーイロ・ドラホマーノウの姪。
+
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Lesya_Ukrainka_portrait.jpg#/media/File:Lesya_Ukrainka_portrait.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Lesya_Ukrainka_portrait.jpg" alt="Lesya Ukrainka portrait.jpg"></a></p>
+-->
+</div>
+
 ## 外部リンク
 
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E6%96%87%E5%AD%A6">ウィキペディア</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%95%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B3">タラス・シェフチェンコ</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%BC">イヴァン・フランコー</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BB%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%BC%E3%83%B3%E3%82%AB">レーシャ・ウクライーンカ</a>
