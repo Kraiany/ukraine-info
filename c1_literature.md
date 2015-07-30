@@ -125,6 +125,15 @@ image: css/images/literature.jpg
 -->
 </div>
 
+## イヴァン・フランコー
+イヴァン・フランコー（ウクライナ語：Іван Франко；1856年8月27日‐1916年5月28日）は、ウクライナの文化人である。作家、思想家、評論家、言語学者、翻訳者などとして活躍した。オーストリア・ハンガリー帝国におけるウクライナ民族解放運動やウクライナ文化振興運動の第一人者。
+
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:IvanFranko1886.jpg#/media/File:IvanFranko1886.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/IvanFranko1886.jpg" alt="IvanFranko1886.jpg"></a></p>
+-->
+</div>
+
 ## 外部リンク
 
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E6%96%87%E5%AD%A6">ウィキペディア</a>
