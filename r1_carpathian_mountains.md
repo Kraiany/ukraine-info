@@ -70,7 +70,7 @@ image: css/images/carpathian_mountains.jpg
 -->
 </div>
 
-### ホヴェールラ山(2,061 m)
+### ホヴェールラ山 (2,061 m)
 <div class="lazyload">
 <!--
 <div about='https://farm4.static.flickr.com/3440/3890361896_8386fe9b7e_b.jpg'><a href='https://www.flickr.com/photos/mybukit/3890361896/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3440/3890361896_8386fe9b7e_b.jpg' alt='Mt. Hoverla from W by MyBukit, on Flickr' title='Mt. Hoverla from W by MyBukit, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/mybukit/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/mybukit/' target='_blank'>MyBukit</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
