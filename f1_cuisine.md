@@ -13,7 +13,7 @@ image: css/images/cuisine.jpg
 -->
 </div>
 
-### 具
+_具_
 
 - 豚肉　400g
 - キャベツ　400g
@@ -26,7 +26,7 @@ image: css/images/cuisine.jpg
 - サーロ　1個
 - ディル
 
-### 調味料類
+_調味料類_
 
 - トマトピューレ　大さじ1-2杯
 - バター　大さじ2杯
