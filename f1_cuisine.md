@@ -9,7 +9,7 @@ image: css/images/cuisine.jpg
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Borshch2.jpg#mediaviewer/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Borshch2.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/e/e0/Borshch2.jpg" alt="Borshch2.jpg"></a></p>
+<img src="photos/cuisine/borsch.jpg"/>
 -->
 </div>
 
@@ -52,13 +52,13 @@ _典型的なウクライナ風ボルシチのつくり方_
 ## ヴァレーニキ
 ヴァレーヌィクあるいはヴァレーニキ（ウクライナ語：Вареники / 英語：Varenyky）は、欧亜の遊牧民に由来するウクライナの伝統料理の一つ。「ウクライナの餃子」とも。
 
+### カッテージチーズのヴァレーニキ
+
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Warenyky.jpg#mediaviewer/%D0%A4%D0%B0%D0%B9%D0%BB:Warenyky.jpg"><img style="width:500px;" src="http://upload.wikimedia.org/wikipedia/commons/2/21/Warenyky.jpg" alt="Warenyky.jpg" height="480" width="640"></a></p>
+<img src="photos/cuisine/varenyky_cheese.jpg"/>
 -->
 </div>
-
-### カッテージチーズのヴァレーニキ
 
 _カッテージチーズのヴァレーニキの材料（4人分）_
 
@@ -78,6 +78,12 @@ _カッテージチーズのヴァレーニキのつくり方 （4人分）_
 5. 鍋にお湯を沸騰させ、"4"を入れます。固まらないように、かき混ぜます。写真のように浮かんできたら、３分煮込んで完成！
 
 ### ジャガイモのヴァレーニキ
+
+<div class="lazyload">
+<!--
+<img src="photos/cuisine/varenyky_potato.jpg"/>
+-->
+</div>
 
 _生地（具1皿分）_
 
@@ -106,6 +112,12 @@ _つくり方_
 9. 新鮮なディルとパセリをかける。
 
 ### チェリーのヴァレーニキ
+
+<div class="lazyload">
+<!--
+<img src="photos/cuisine/varenyky_cherry.jpg"/>
+-->
+</div>
 
 _生地（具1皿分）_
 
