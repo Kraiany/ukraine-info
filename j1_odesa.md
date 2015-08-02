@@ -101,6 +101,13 @@ image: css/images/odesa.png
 -->
 </div>
 
+###オデサのビーチ
+<div class="lazyload">
+<!--
+<div about='https://farm7.static.flickr.com/6083/6025147294_4ef446ba8e_b.jpg'><a href='https://www.flickr.com/photos/timon91/6025147294/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm7.static.flickr.com/6083/6025147294_4ef446ba8e_b.jpg' alt='Beach in Odessa by Timon91, on Flickr' title='Beach in Odessa by Timon91, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/timon91/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/timon91/' target='_blank'>Timon91</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+-->
+</div>
+
 ###オデサ湾のボロンツォフ灯台
 <div class="lazyload">
 <!--
@@ -112,13 +119,6 @@ image: css/images/odesa.png
 <div class="lazyload">
 <!--
 <div about='https://farm8.static.flickr.com/7436/10160586284_edb4dcab6f_b.jpg'><a href='https://www.flickr.com/photos/klimenko/10160586284/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm8.static.flickr.com/7436/10160586284_edb4dcab6f_b.jpg' alt='Odesa, Ukraine by dmytrok, on Flickr' title='Odesa, Ukraine by dmytrok, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nd/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nd/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License' title='Creative Commons Creative Commons Attribution-No Derivative Works 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/klimenko/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/klimenko/' target='_blank'>dmytrok</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
--->
-</div>
-
-###オデサのビーチ
-<div class="lazyload">
-<!--
-<div about='https://farm7.static.flickr.com/6083/6025147294_4ef446ba8e_b.jpg'><a href='https://www.flickr.com/photos/timon91/6025147294/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm7.static.flickr.com/6083/6025147294_4ef446ba8e_b.jpg' alt='Beach in Odessa by Timon91, on Flickr' title='Beach in Odessa by Timon91, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/timon91/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/timon91/' target='_blank'>Timon91</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
