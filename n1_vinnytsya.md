@@ -32,14 +32,5 @@ image: css/images/vinnytsya.png
 -->
 </div>
 
-<form action="//formspree.io/anahorny@gmail.com"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="hidden" name="_next" value="//ukuraina-jouhou.info" />
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="submit" value="Send">
-</form>
-
 ## 外部リンク
 * <a href="http://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%8C%E3%82%A3%E3%83%84%E3%83%A3">ヴィーンヌィツャ</a>
