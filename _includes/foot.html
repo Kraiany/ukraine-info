@@ -52,11 +52,13 @@ $('.readhiddenarea').on('click', function()
 {
   $(document).find('.readhiddenarea').hide();
   $(document).find('.hiddenarea').show();
+  return false;
 })
 $('.hideexpandedarea').on('click', function()
 {
   $(document).find('.hiddenarea').hide();
-  $(document).find('.readhiddenarea').show();  
+  $(document).find('.readhiddenarea').show(); 
+  return false;
 })
 </script>
     </body>
