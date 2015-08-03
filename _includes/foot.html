@@ -46,6 +46,19 @@
   ga('send', 'pageview');
 </script>
 
+<script>
+$('.hiddenarea').hide()
+$('.readhiddenarea').on('click', function()
+{
+  $(document).find('.readhiddenarea').hide();
+  $(document).find('.hiddenarea').show();
+})
+$('.hideexpandedarea').on('click', function()
+{
+  $(document).find('.hiddenarea').hide();
+  $(document).find('.readhiddenarea').show();  
+})
+</script>
     </body>
 
 </html>
