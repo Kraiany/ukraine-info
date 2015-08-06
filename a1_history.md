@@ -4,9 +4,17 @@ title: ウクライナの歴史と現在
 description: 古今
 image: css/images/history.png
 ---
-<p><img src="http://upload.wikimedia.org/wikipedia/commons/c/c4/Yarthewise.png" alt="ウクライナの国章"><br>
+<p><img src="http://upload.wikimedia.org/wikipedia/commons/c/c4/Yarthewise.png" alt="ウクライナの国章">
+<br>
 <small>
 ヤロスラフ賢公のコイン。三叉の矛の意匠は現在のウクライナの国章に引き継がれている。
+</small>
+</p>
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Zlatnik_HQ.jpg#/media/File:Zlatnik_HQ.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Zlatnik_HQ.jpg" alt="Zlatnik HQ.jpg"></a>
+<br>
+<small>
+ヴォロディーミル1世の金貨（10世紀の肖像と紋章）
 </small>
 </p>
 
