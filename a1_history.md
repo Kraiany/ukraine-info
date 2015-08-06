@@ -11,14 +11,14 @@ image: css/images/history.png
 
 ウクライナがルーシの後継者です。
 
-## キイフ大公国の地図（1054年）
+### キイフ大公国の地図（1054年）
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Principalities_of_Kievan_Rus%27_(1054-1132).jpg#/media/File:Principalities_of_Kievan_Rus%27_(1054-1132).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Principalities_of_Kievan_Rus%27_%281054-1132%29.jpg" alt="Розташування Київська Русь" height="1028" width="770"></a></p>
 -->
 </div>
 
-## キイフ大公国の地図（1220年 - 1240年）
+### キイフ大公国の地図（1220年 - 1240年）
 <div class="lazyload">
 <!--
 <p><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%A0%D1%83%D1%81%D1%8C-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.png#/media/File:%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%A0%D1%83%D1%81%D1%8C-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.png"><img src="https://upload.wikimedia.org/wikipedia/uk/3/31/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%A0%D1%83%D1%81%D1%8C-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.png" alt="Київська Русь-Україна.png" height="952" width="767"></a></p>
