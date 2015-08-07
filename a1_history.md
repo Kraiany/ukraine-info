@@ -302,5 +302,7 @@ __別種スキタイ__
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E6%AD%B4%E5%8F%B2">ウクライナの歴史</a>
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95%E5%A4%A7%E5%85%AC%E5%9B%BD">キイフ大公国</a>
 * <a href="http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%AB%E3%82%A3%E3%83%81%E5%85%AC%E5%9B%BD">ハールィチ公国</a>
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B5%E3%83%83%E3%82%AF">コサック</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%9D%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A3">ザポリッジャのシーチ</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%AC%E3%82%B9%E6%96%87%E5%8C%96">チョールノリース文化</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%82%BF%E3%82%A4">スキタイ</a>
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E5%9B%BD%E6%AD%8C">ウクライナの国歌</a>
