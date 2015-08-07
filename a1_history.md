@@ -131,7 +131,7 @@ __別種スキタイ__
 ### ヤロスラフ1世はキイフ・ルーシの大公（在位：1016年 - 1054年）。「ヤロスラフ賢公」と呼ばれる
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Yaroslav_the_Wise.jpg#/media/File:Yaroslav_the_Wise.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Yaroslav_the_Wise.jpg" alt="Yaroslav the Wise.jpg" height="1000" width="768"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Yaroslav_the_Wise.jpg#/media/File:Yaroslav_the_Wise.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Yaroslav_the_Wise.jpg" alt="Yaroslav the Wise.jpg" height="480" width="369"></a></p>
 -->
 </div>
 
@@ -152,7 +152,7 @@ __別種スキタイ__
 ### ダヌィーロ・ロマーノヴィチ（キイフ大公（在位：1239年 - 1240年）、ハールィチ・ヴォルィーニ大公（在位：1238年 - 1250年）であり、初の全ルーシの王（在位：1253年 - 1264年）でもあった）
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Daniil-halitsky.jpg#/media/File:Daniil-halitsky.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Daniil-halitsky.jpg" alt="Daniil-halitsky.jpg" height="259" width="180"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Daniil-halitsky.jpg#/media/File:Daniil-halitsky.jpg">Daniil-halitsky</a>". Під ліцензією  Суспільне надбання (Public Domain)  через  <a href="https://commons.wikimedia.org/wiki/">Вікісховище</a> .</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Daniil-halitsky.jpg#/media/File:Daniil-halitsky.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Daniil-halitsky.jpg" alt="Daniil-halitsky.jpg" height="259" width="180"></a></p>
 -->
 </div>
 
