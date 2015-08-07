@@ -128,8 +128,14 @@ __別種スキタイ__
 -->
 </div>
 
-### ヴォロディーミル1世の金貨（10世紀の肖像と紋章）。三叉の矛の意匠は現在のウクライナの国章に引き継がれている
+### ヤロスラフ1世はキイフ・ルーシの大公（在位：1016年 - 1054年）。「ヤロスラフ賢公」と呼ばれる
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Yaroslav_the_Wise.jpg#/media/File:Yaroslav_the_Wise.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Yaroslav_the_Wise.jpg" alt="Yaroslav the Wise.jpg" height="1000" width="768"></a></p>
+-->
+</div>
 
+### ヴォロディーミル1世の金貨（10世紀の肖像と紋章）。三叉の矛の意匠は現在のウクライナの国章に引き継がれている
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Zlatnik_HQ.jpg#/media/File:Zlatnik_HQ.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Zlatnik_HQ.jpg" alt="Zlatnik HQ.jpg"></a></p>
@@ -142,6 +148,20 @@ __別種スキタイ__
 ハールィチ・ヴォルィーニ大公国は、ルーシのハールィチ公国とヴォルィーニ公国という二つ公国の合併によって誕生した新しい大公国であった。13世紀の半ば、その大公国はモンゴルの侵略を受けたキエフの公朝の後継者となり、キエフ・ルーシの政治、伝統、文化などを受け継いだ主な国家となった。その国家は、ローマ教皇をはじめ、中世ヨーロッパの諸国の援助の元に反モンゴルの先陣の役割を果たしていた。
 
 ハールィチ・ヴォルィーニ大公国はルーシ系の諸公国の中でもっとも大きい公国の一つであった。その領土は、現在の西ウクライナ、西ベラルーシ、東ポーランド、北東ハンガリー、モルドヴァを含めていたが、政治的・経済的・文化的中心はヴォロディームィル、ハールィチそしてリヴィウという西ウクライナの3つの都市にあった。
+
+### ダヌィーロ・ロマーノヴィチ（キイフ大公（在位：1239年 - 1240年）、ハールィチ・ヴォルィーニ大公（在位：1238年 - 1250年）であり、初の全ルーシの王（在位：1253年 - 1264年）でもあった）
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Daniil-halitsky.jpg#/media/File:Daniil-halitsky.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Daniil-halitsky.jpg" alt="Daniil-halitsky.jpg" height="259" width="180"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Daniil-halitsky.jpg#/media/File:Daniil-halitsky.jpg">Daniil-halitsky</a>". Під ліцензією  Суспільне надбання (Public Domain)  через  <a href="https://commons.wikimedia.org/wiki/">Вікісховище</a> .</p>
+-->
+</div>
+
+### リヴィウの町を背景にしたレーヴ・ダヌィーロヴィチの肖像
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Lev_Danylovich_of_Halych.PNG#/media/File:Lev_Danylovich_of_Halych.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Lev_Danylovich_of_Halych.PNG" alt="Lev Danylovich of Halych.PNG" height="383" width="300"></a></p>
+-->
+</div>
 
 ハールィチ・ヴォルィーニ大公国は中央・東ヨーロッパにおいて活発な外交を展開した。ローマ教皇やドイツ騎士団と友好な関係を保つ一方、領土拡大を目指していた隣国、ポーランド王国・ハンガリー王国・リトアニア大公国とモンゴル人のジョチ・ウルスと攻防を繰り返していた。1245年にポーランド・ハンガリー両国と戦った際（ヤロスラヴの戦い（ウクライナ語版、ロシア語版、ポーランド語版））、大公国はジョチ・ウルスの宗主権を受け入れ属国化した。ローマ教皇インノケンティウス4世は1253年になってこれを危機と見て、大公に対し「王として戴冠する許可」を与えてジョチ・ウルスを牽制している（これをもってハールィチ・ヴォルィーニを王国、大公ダヌィーロ・ロマーノヴィチをルーシ王と見る向きもある）。1256年にバトゥが死去すると大公国はジョチ・ウルスの支配を逃れようと幾度か戦った。教皇は反モンゴル十字軍を呼びかけたが、ポーランド侵攻やハンガリー侵攻の記憶はまだ生々しく残っており、応じる国王や大公などおらず、1259年に独立の試みは失敗している。そもそもポーランドやハンガリーは、大公国がモンゴルと合従連衡を繰り返し長年にわたって彼らと敵対していたため既にもはや信頼をしておらず、彼らは大公国の支援にはまったく消極的だった。1259年の2度目のモンゴル侵攻では、ボレスワフ5世の領地であるクラクフやサンドミェシュ（英語版）が荒廃した。レーヴ・ダヌィーロヴィチは、1287年のノガイによる第三次ポーランド侵攻で、ハンガリー王国のザカルパッチャ地方を奪ってポーランド王国のルブリン州を占領、モンゴル人の力を借りて自分の領土を増やした上で、チェコ・リトアニア・ドイツ騎士団と同盟を結び、反モンゴル政策を鮮明にした。
 
