@@ -26,6 +26,87 @@ image: css/images/history.png
 -->
 </div>
 
+## スキタイ
+スキタイ（ウクライナ語：Скіфи）は紀元前8世紀～紀元前3世紀にかけて、ウクライナを中心に活動していたイラン系遊牧騎馬民族および遊牧国家。スキュタイ、スキュティア人、スキティア人ともいい、その地をスキュティア、スキティアと呼ぶ。「スキタイ」は古代ギリシア人によってこの地域の諸部族をまとめて指す際に使われた呼称でもあり、スキタイが滅んだ後も遊牧騎馬民族の代名詞として「スキタイ」の名は使われ続けた。
+
+### 紀元前7世紀‐3世紀のウクライナにおけるスキタイの遺跡（橘色）
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:0600_Skifia.png#/media/File:0600_Skifia.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/0600_Skifia.png/1200px-0600_Skifia.png" alt="0600 Skifia.png"></a></p>
+-->
+</div>
+
+### スキタイの諸族
+ヘロドトスは『歴史』においてスキタイの諸族を紹介している。
+
+_カッリピダイ_
+
+カッリピダイ（あるいはカリッピダイ）はギリシア系スキタイであり、ヒュパニス（現在の南ブーフ川）河畔に住んでいる。習俗は大体にしてスキタイと同じだが、自ら穀物を栽培して食用に充て、玉ねぎ，ニラ，扁豆，栗なども栽培しているので、遊牧民であるスキタイと異なる。カッリピダイの向こうにはアリゾネスという民族が住んでいる。
+
+_農耕スキタイ_
+
+アリゾネスの向こうには農耕スキタイ（スキタイ・アロテレス）と呼ばれる部族が住んでおり、カッリピダイ同様、穀物を栽培している。しかし、カッリピダイとは違って自らの食用のためだけではなく、他に輸出するためにも穀物を栽培している。農耕スキタイの北ないし北西にはネウロイという民族が住む。
+鉄器時代の文化である黒森文化の担い手で、古い時代の馬具が出土しており、遅くとも先スキタイ時代である第2期までにはすでに馬をよく使う文化が成立していたことが知られている。スラヴ語に見られるイラン系言語の地理的名称（とくに河川の名称）や借用語、そしてキリスト教を受容する前の中世前期スラヴ人にも見られる火葬の習慣から、農耕スキタイはプロト・スラヴ人（原スラヴ人とも呼ばれる、スラヴ人の祖先となった複数の古代部族）のうちの基幹的な集団であると推定される。
+
+_農民スキタイ_
+
+ボリュステネス河（現：ドニエプル川）を渡って海辺から北上すれば、まず、ヒュライア（森林地帯）があり、ここからさらに北上すれば、農民スキタイ（スキタイ・ゲオルゴイ）が住んでいる。ヒュパニス河畔に住むギリシア人はこれをボリュステネイタイ（ボリュステネス市民）と呼ぶが、彼ら自身はオルビオポリタイ（オルビア市民）と称す。
+
+_遊牧スキタイ_
+
+農民スキタイの居住地から東へ向かい、パンティカペス河を渡れば、遊牧スキタイ（スキタイ・ノマデス）が住んでいる。彼らは純粋な遊牧民であり、彼らの住む地域は木が一本も生えていない草原地帯である。この遊牧スキタイはパンティカペス河からゲッロス河に至る東西14日間の範囲にわたって住んでいる。
+
+_王族スキタイ_
+
+ゲッロス河以遠はコラクサイスを始祖とする王族パララタイ氏の領する王族スキタイ（スキタイ・バシレイオス）の領土であり、彼らはスキタイの中で最も勇敢で数が多く、他のスキタイを自分の隷属民とみなしている。国家的な意味で「スキタイ」と呼ぶときはこの王族スキタイを指す。彼らの領土は南はタウロイの国（タウリケ）に達し、東は盲目の奴隷の子らが開墾した掘割に至り、マイオティス湖（現：アゾフ海）畔の通商地クレムノイに及んでいる。また一部はタナイス河（現：ドン川）にも接している。
+1世紀のポンポニウス・メラは『世界地理』で、「バシリダイ族の始祖はヘラクレスとエキドナの子で、習俗は王族風、武器は弓矢だけである。」と記す。
+
+_別種スキタイ_
+
+テュッサゲタイとイユルカイの国を越えてさらに東方に進めば、別種のスキタイが住んでいる。これは王族スキタイに背き、その果てにこの地に到来したものである。
+
+### エルミタージュ博物館所蔵の黄金製の櫛
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Scythian_comb.jpg#/media/File:Scythian_comb.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Scythian_comb.jpg" alt="Scythian comb.jpg"></a></p>
+-->
+</div>
+
+### 黄金製のスキタイ射手
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Scythians_shooting_with_bows_Kertch_antique_Panticapeum_Ukrainia_4th_century_BCE.jpg#/media/File:Scythians_shooting_with_bows_Kertch_antique_Panticapeum_Ukrainia_4th_century_BCE.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Scythians_shooting_with_bows_Kertch_antique_Panticapeum_Ukrainia_4th_century_BCE.jpg/1200px-Scythians_shooting_with_bows_Kertch_antique_Panticapeum_Ukrainia_4th_century_BCE.jpg" alt="Scythians shooting with bows Kertch antique Panticapeum Ukrainia 4th century BCE.jpg"></a></p>
+-->
+</div>
+
+### トヴスタ・モヒーラ古墳で発見された女性の胸飾り
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:%D0%A4%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%9F%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0%D0%BB%D0%B8.jpg#/media/File:%D0%A4%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%9F%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0%D0%BB%D0%B8.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/%D0%A4%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%9F%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0%D0%BB%D0%B8.jpg" alt="Фрагменты Пекторали.jpg"></a></p>
+-->
+</div>
+
+### パジリク古墳出土の絨毯
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Scythiancarpet.jpg#/media/File:Scythiancarpet.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Scythiancarpet.jpg" alt="Scythiancarpet.jpg"></a></p>
+-->
+</div>
+
+### パジリク5号墳出土のフェルト製壁掛けに描かれた騎馬像
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:PazyrikHorseman.JPG#/media/File:PazyrikHorseman.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PazyrikHorseman.JPG" alt="PazyrikHorseman.JPG"></a></p>
+-->
+</div>
+
+### 陶器に描かれたスキタイ戦士
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Skythian_archer_Louvre_F126.jpg#/media/File:Skythian_archer_Louvre_F126.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Skythian_archer_Louvre_F126.jpg/1200px-Skythian_archer_Louvre_F126.jpg" alt="Skythian archer Louvre F126.jpg"></a></p>
+-->
+</div>
+
 ## キイフ大公国
 キイフ大公国（キイフたいこうこく）は、9世紀後半から1240年にかけてキイフを首都とした東欧の国家である。正式な国号はルーシ（ウクライナ語: Русь）で、日本語名はその大公座の置かれたキイフに由来する。
 
