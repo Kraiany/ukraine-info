@@ -141,13 +141,6 @@ __別種スキタイ__
 
 ハールィチ公国は、現在のウクライナのリヴィウ州からイヴァーノ・フランキーウシク州、テルノーピリ州にわたる地域に存在した。公国の公座はハールィチという町にあった。長い間、ルーシ系の公たちによって治められていた。しかし、14世紀後半のハールィチ・ヴォルィーニ戦争の結果、ポーランド王国の領土となると次第に自治権が奪われ、最終的に公は廃されてルーシ県に改められた。
 
-### ハールィチ公国の国章
-<div class="lazyload">
-<!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Ivano-Frankivsk_Oblast.svg#/media/File:Coat_of_Arms_of_Ivano-Frankivsk_Oblast.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Coat_of_Arms_of_Ivano-Frankivsk_Oblast.svg/1200px-Coat_of_Arms_of_Ivano-Frankivsk_Oblast.svg.png" alt="Прапор"></a></p>
--->
-</div>
-
 ## ザポリッジャのシーチ
 
 元来 ザポリッジャは、リトアニア大公国とクリミア・ハン国の境界地に広がる「荒野」という未開の地域におけるドニプロ川の下流での小さな局地だった。16世紀になると、ウクライナからのコサックは、その局地で自治制の軍事的組織であるシーチを創建し、シーチの支配領域と ザポリッジャの地域範囲が同視されるようになり（ザポリッジャのシーチ（英語版））、コサックは「荒野」を開拓していくに連れて、 ザポリッジャの境界線が拡大していった。
