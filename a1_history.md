@@ -395,3 +395,7 @@ __飢餓により街頭に倒れ込んでいる農民と気を払うことなく
 * <a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%AC%E3%82%B9%E6%96%87%E5%8C%96">チョールノリース文化</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%82%BF%E3%82%A4">スキタイ</a>
 * <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E5%9B%BD%E6%AD%8C">ウクライナの国歌</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AD%E3%83%89%E3%83%A2%E3%83%BC%E3%83%AB">ホロドモール</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BB%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9%E5%85%B1%E5%92%8C%E5%9B%BD">ウクライナ・ソビエト社会主義共和国</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD">ウクライナ人民共和国</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BB%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E6%88%A6%E4%BA%89">ウクライナ・ソビエト戦争</a>
