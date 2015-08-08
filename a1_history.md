@@ -128,14 +128,14 @@ __別種スキタイ__
 -->
 </div>
 
-### ヤロスラフ1世はキイフ・ルーシの大公（在位：1016年 - 1054年）。「ヤロスラフ賢公」と呼ばれる
+### ヤロスラフ1世はキイフ・ルーシの大公（在位：1016年 - 1054年）。ヤロスラフ賢公のコイン。三叉の矛の意匠は現在のウクライナの国章に引き継がれている
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Yaroslav_the_Wise.jpg#/media/File:Yaroslav_the_Wise.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Yaroslav_the_Wise.jpg" alt="Yaroslav the Wise.jpg" height="480" width="369"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.gif#/media/File:%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.gif" alt="Печатка Ярослава Мудрого.gif" height="183" width="196"></a></p>
 -->
 </div>
 
-### ヴォロディーミル1世の金貨（10世紀の肖像と紋章）。三叉の矛の意匠は現在のウクライナの国章に引き継がれている
+### ヴォロディーミル1世の金貨（10世紀の肖像と紋章）
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Zlatnik_HQ.jpg#/media/File:Zlatnik_HQ.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Zlatnik_HQ.jpg" alt="Zlatnik HQ.jpg"></a></p>
