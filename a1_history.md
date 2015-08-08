@@ -194,6 +194,13 @@ __リヴィウの町を背景にしたレーヴ・ダヌィーロヴィチの肖
 -->
 </div>
 
+### ウクライナ・コサック
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:02_210_color_Book_illustrations_of_Historical_description_of_the_clothes_and_weapons_of_Russian_troops.jpg#/media/File:02_210_color_Book_illustrations_of_Historical_description_of_the_clothes_and_weapons_of_Russian_troops.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/02_210_color_Book_illustrations_of_Historical_description_of_the_clothes_and_weapons_of_Russian_troops.jpg" alt="02 210 color Book illustrations of Historical description of the clothes and weapons of Russian troops.jpg" height="800" width="587"></a></p>
+-->
+</div>
+
 ## ウクライナ人民共和国
 ウクライナ人民共和国（ウクライナじんみんきょうわこく、ウクライナ語: Українська Народна Республіка）は、1917年11月22日から1920年11月10日にかけてウクライナに存在した国家である。独立は1918年1月22日。なお、1918年4月29日から12月14日の間はウクライナ国を称した。
 
