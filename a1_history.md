@@ -128,14 +128,14 @@ __別種スキタイ__
 -->
 </div>
 
-### ヤロスラフ1世はキイフ・ルーシの大公（在位：1016年 - 1054年）。ヤロスラフ賢公のコイン。三叉の矛の意匠は現在のウクライナの国章に引き継がれている
+__ヤロスラフ1世はキイフ・ルーシの大公（在位：1016年 - 1054年）。ヤロスラフ賢公のコイン__
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.gif#/media/File:%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%9C%D1%83%D0%B4%D1%80%D0%BE%D0%B3%D0%BE.gif" alt="Печатка Ярослава Мудрого.gif" height="183" width="196"></a></p>
 -->
 </div>
 
-### ヴォロディーミル1世の金貨（10世紀の肖像と紋章）
+__ヴォロディーミル1世の金貨（10世紀の肖像と紋章）。三叉の矛の意匠は現在のウクライナの国章に引き継がれている__
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Zlatnik_HQ.jpg#/media/File:Zlatnik_HQ.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Zlatnik_HQ.jpg" alt="Zlatnik HQ.jpg"></a></p>
@@ -149,14 +149,14 @@ __別種スキタイ__
 
 ハールィチ・ヴォルィーニ大公国はルーシ系の諸公国の中でもっとも大きい公国の一つであった。その領土は、現在の西ウクライナ、西ベラルーシ、東ポーランド、北東ハンガリー、モルドヴァを含めていたが、政治的・経済的・文化的中心はヴォロディームィル、ハールィチそしてリヴィウという西ウクライナの3つの都市にあった。
 
-### ダヌィーロ・ロマーノヴィチ（キイフ大公（在位：1239年 - 1240年）、ハールィチ・ヴォルィーニ大公（在位：1238年 - 1250年）であり、初の全ルーシの王（在位：1253年 - 1264年）でもあった）
+__ダヌィーロ・ロマーノヴィチ（キイフ大公（在位：1239年 - 1240年）、ハールィチ・ヴォルィーニ大公（在位：1238年 - 1250年）であり、初の全ルーシの王（在位：1253年 - 1264年）でもあった）__
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Daniil-halitsky.jpg#/media/File:Daniil-halitsky.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Daniil-halitsky.jpg" alt="Daniil-halitsky.jpg" height="259" width="180"></a></p>
 -->
 </div>
 
-### リヴィウの町を背景にしたレーヴ・ダヌィーロヴィチの肖像
+__リヴィウの町を背景にしたレーヴ・ダヌィーロヴィチの肖像__
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Lev_Danylovich_of_Halych.PNG#/media/File:Lev_Danylovich_of_Halych.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Lev_Danylovich_of_Halych.PNG" alt="Lev Danylovich of Halych.PNG" height="383" width="300"></a></p>
