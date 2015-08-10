@@ -195,6 +195,14 @@ image: css/images/kyiv.png
 <div about='https://farm9.static.flickr.com/8100/8601882380_e7249da8a7_b.jpg'><a href='https://www.flickr.com/photos/jlascar/8601882380/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm9.static.flickr.com/8100/8601882380_e7249da8a7_b.jpg' alt='Khreshchatyk street and some of its post by Jorge Lascar, on Flickr' title='Khreshchatyk street and some of its post by Jorge Lascar, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/jlascar/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/jlascar/' target='_blank'>Jorge Lascar</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
+
+###夜のフレシチャーティク通り
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Khreshchatyk_street_(winter,_eveningtime)._Kiev,_Ukraine,_Eastern_Europe.jpg#/media/File:Khreshchatyk_street_(winter,_eveningtime)._Kiev,_Ukraine,_Eastern_Europe.jpg"><img alt="Khreshchatyk street (winter, eveningtime). Kiev, Ukraine, Eastern Europe.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Khreshchatyk_street_%28winter%2C_eveningtime%29._Kiev%2C_Ukraine%2C_Eastern_Europe.jpg/1200px-Khreshchatyk_street_%28winter%2C_eveningtime%29._Kiev%2C_Ukraine%2C_Eastern_Europe.jpg"></a></p>
+-->
+</div>
+
 ###夜の独立広場
 <div class="lazyload">
 <!--
