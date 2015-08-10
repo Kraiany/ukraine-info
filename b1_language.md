@@ -185,13 +185,14 @@ image: css/images/language.png
 ---
 **И, У** の二文字は、語頭にあってアクセントを持たない場合、直前の単語が母音で終わるならばそれぞれй, вに置き換えられる。
 
+## 会話集。挨拶
+
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_006.jpg#/media/File:Thomas_Gainsborough_006.jpg"><img alt="Thomas Gainsborough 006.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Thomas_Gainsborough_006.jpg/1200px-Thomas_Gainsborough_006.jpg"></a></p>
 -->
 </div>
-
-## 会話集。挨拶
+<br/>
 
 こんにちは。 
 Добрий день. (ドーブルィ デーニ)
@@ -284,13 +285,14 @@ image: css/images/language.png
 トイレはどこですか。 
 Де туалет? (デ トゥアレート)
 
+## 標識
+
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Fire_exit.svg#/media/File:Fire_exit.svg"><img alt="Fire exit.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fire_exit.svg/1200px-Fire_exit.svg.png"></a></p>
 -->
 </div>
-
-## 標識
+<br/>
 
 開店 
 відчинено (ヴィドチィーネノ)
@@ -331,13 +333,14 @@ image: css/images/language.png
 禁止 
 заборонено (ザボローネノ)
 
+## トラブル
+
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Ukrainian_police_patrol.jpg#/media/File:Ukrainian_police_patrol.jpg"><img alt="Ukrainian police patrol.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ukrainian_police_patrol.jpg/1200px-Ukrainian_police_patrol.jpg"></a></p>
 -->
 </div>
-
-## トラブル
+<br/>
 
 助けて! 
 На поміч! (ナポーミチ!)
@@ -840,13 +843,14 @@ image: css/images/language.png
 茶色 
 коричневий (コルィーチネヴィイ)
 
+## 交通。バスや列車
+
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Bogdan_A092.80_bus_in_Lviv.jpg#/media/File:Bogdan_A092.80_bus_in_Lviv.jpg"><img alt="Bogdan A092.80 bus in Lviv.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bogdan_A092.80_bus_in_Lviv.jpg/1200px-Bogdan_A092.80_bus_in_Lviv.jpg"></a></p>
 -->
 </div>
-
-## 交通。バスや列車
+<br/>
 
 マイクロバス 
 мaршруткa (マルシュルーツカ) 
@@ -984,13 +988,14 @@ image: css/images/language.png
 西 
 захід (ザーヒド) 
 
+## タクシー
+
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Streets_of_Beirut_during_the_night_-_Taxi.jpg#/media/File:Streets_of_Beirut_during_the_night_-_Taxi.jpg"><img alt="Streets of Beirut during the night - Taxi.jpg" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Streets_of_Beirut_during_the_night_-_Taxi.jpg"></a></p>
 -->
 </div>
-
-## タクシー
+<br/>
 
 タクシー! 
 Таксі! (タクスィー) 
