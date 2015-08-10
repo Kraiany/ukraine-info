@@ -285,7 +285,14 @@ image: css/images/language.png
 トイレはどこですか。 
 Де туалет? (デ トゥアレート)
 
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:PublicInformationSymbol_EmergencyExit.svg#/media/File:PublicInformationSymbol_EmergencyExit.svg"><img alt="Green pictogram with a running man" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/PublicInformationSymbol_EmergencyExit.svg/1200px-PublicInformationSymbol_EmergencyExit.svg.png"></a></p>
+-->
+</div>
+
 ### 標識
+
 開店 
 відчинено (ヴィドチィーネノ)
 
@@ -325,13 +332,13 @@ image: css/images/language.png
 禁止 
 заборонено (ザボローネノ)
 
-### トラブル
-
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Ukrainian_police_patrol.jpg#/media/File:Ukrainian_police_patrol.jpg"><img alt="Ukrainian police patrol.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ukrainian_police_patrol.jpg/1200px-Ukrainian_police_patrol.jpg"></a></p>
 -->
 </div>
+
+### トラブル
 
 助けて! 
 На поміч! (ナポーミチ!)
@@ -980,13 +987,13 @@ image: css/images/language.png
 西 
 захід (ザーヒド) 
 
-### タクシー
-
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Streets_of_Beirut_during_the_night_-_Taxi.jpg#/media/File:Streets_of_Beirut_during_the_night_-_Taxi.jpg"><img alt="Streets of Beirut during the night - Taxi.jpg" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Streets_of_Beirut_during_the_night_-_Taxi.jpg"></a></p>
 -->
 </div>
+
+### タクシー
 
 タクシー! 
 Таксі! (タクスィー) 
