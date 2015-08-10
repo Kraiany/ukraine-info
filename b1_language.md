@@ -836,6 +836,12 @@ image: css/images/language.png
 
 ### 交通
 
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Bogdan_A092.80_bus_in_Lviv.jpg#/media/File:Bogdan_A092.80_bus_in_Lviv.jpg"><img alt="Bogdan A092.80 bus in Lviv.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bogdan_A092.80_bus_in_Lviv.jpg/1200px-Bogdan_A092.80_bus_in_Lviv.jpg"></a></p>
+-->
+</div>
+
 ### バスや列車
 
 マイクロバス 
@@ -978,7 +984,7 @@ image: css/images/language.png
 
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:PriusTaxi.jpg#/media/File:PriusTaxi.jpg"><img alt="PriusTaxi.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/PriusTaxi.jpg/1200px-PriusTaxi.jpg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Streets_of_Beirut_during_the_night_-_Taxi.jpg#/media/File:Streets_of_Beirut_during_the_night_-_Taxi.jpg"><img alt="Streets of Beirut during the night - Taxi.jpg" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Streets_of_Beirut_during_the_night_-_Taxi.jpg"></a></p>
 -->
 </div>
 
