@@ -189,7 +189,7 @@ image: css/images/language.png
 
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_006.jpg#/media/File:Thomas_Gainsborough_006.jpg"><img alt="Thomas Gainsborough 006.jpg" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Thomas_Gainsborough_006.jpg" height="145" width="126"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_006.jpg#/media/File:Thomas_Gainsborough_006.jpg"><img alt="Thomas Gainsborough 006.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Thomas_Gainsborough_006.jpg/1200px-Thomas_Gainsborough_006.jpg"></a></p>
 -->
 </div>
 
@@ -329,7 +329,7 @@ image: css/images/language.png
 
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Ukrainian_police_patrol.jpg#/media/File:Ukrainian_police_patrol.jpg"><img alt="Ukrainian police patrol.jpg" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ukrainian_police_patrol.jpg" height="145" width="193"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Ukrainian_police_patrol.jpg#/media/File:Ukrainian_police_patrol.jpg">Ukrainian police patrol</a>" від <a href="//commons.wikimedia.org/wiki/User:Qypchak" title="User:Qypchak">Qypchak</a> - <span class="int-own-work" lang="uk">Власна робота</span>. Ліцензований під <a title="Creative Commons Attribution-Share Alike 4.0" href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> через <a href="https://commons.wikimedia.org/wiki/">Вікісховище</a>.</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ukrainian_police_patrol.jpg#/media/File:Ukrainian_police_patrol.jpg"><img alt="Ukrainian police patrol.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ukrainian_police_patrol.jpg/1200px-Ukrainian_police_patrol.jpg"></a></p>
 -->
 </div>
 
@@ -978,7 +978,7 @@ image: css/images/language.png
 
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:PriusTaxi.jpg#/media/File:PriusTaxi.jpg"><img alt="PriusTaxi.jpg" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/PriusTaxi.jpg" height="145" width="193"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:PriusTaxi.jpg#/media/File:PriusTaxi.jpg"><img alt="PriusTaxi.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/PriusTaxi.jpg/1200px-PriusTaxi.jpg"></a></p>
 -->
 </div>
 
