@@ -843,7 +843,7 @@ image: css/images/language.png
 茶色 
 коричневий (コルィーチネヴィイ)
 
-## 交通。バスや列車
+## 交通。バスやメトロや電車
 
 <div class="lazyload">
 <!--
