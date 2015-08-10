@@ -185,15 +185,14 @@ image: css/images/language.png
 ---
 **И, У** の二文字は、語頭にあってアクセントを持たない場合、直前の単語が母音で終わるならばそれぞれй, вに置き換えられる。
 
-## 会話集
-
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_006.jpg#/media/File:Thomas_Gainsborough_006.jpg"><img alt="Thomas Gainsborough 006.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Thomas_Gainsborough_006.jpg/1200px-Thomas_Gainsborough_006.jpg"></a></p>
 -->
 </div>
 
-### 挨拶
+## 会話集。挨拶
+
 こんにちは。 
 Добрий день. (ドーブルィ デーニ)
 
@@ -291,7 +290,7 @@ image: css/images/language.png
 -->
 </div>
 
-### 標識
+## 標識
 
 開店 
 відчинено (ヴィドチィーネノ)
@@ -338,7 +337,7 @@ image: css/images/language.png
 -->
 </div>
 
-### トラブル
+## トラブル
 
 助けて! 
 На поміч! (ナポーミチ!)
@@ -403,7 +402,7 @@ image: css/images/language.png
 電話を使っていいですか? 
 Чи можу я скористатися телефоном? (チ　モーズ　ヤ　スコリスターチシャ　テレフォーノン)
 
-### 数字
+## 数字
 ウクライナ語の数詞のうち、1と2は直後の名詞の種類によって形が変わる。単体では男性形を用いる。
 
 0 
@@ -613,7 +612,7 @@ image: css/images/language.png
 多い 
 багато (バハート)
 
-### 時間
+## 時間
 今 
 тепер (テペール) / зараз (ザーラズ)
 
@@ -721,7 +720,7 @@ image: css/images/language.png
 来週 
 наступний тиждень (ナストゥープヌィ ティージュデニ)
 
-### 曜日
+## 曜日
 日曜日 
 неділя (ネヂーリャ)
 
@@ -749,7 +748,7 @@ image: css/images/language.png
 土曜日 
 субота (スボータ)
 
-### 月
+## 月
 1月 
 січень (シーチェニ)
 
@@ -797,11 +796,11 @@ image: css/images/language.png
 12月 
 грудень (フルーデニ)
 
-### 日付け
+---
 2005年3月24日（火） 
 вівторок, двадцять четверте березня дві тисячi п'ятого року (ヴィウトーロク ドゥヴァーツャッチ チェトヴェールテ ベーレズニャ ドゥヴィー ティーシャチ プヤートホ ロークー)
 
-### 色
+## 色
 黒 
 чорний (チョールヌィイ)
 
@@ -841,15 +840,13 @@ image: css/images/language.png
 茶色 
 коричневий (コルィーチネヴィイ)
 
-### 交通
-
 <div class="lazyload">
 <!--
 <p><a href="https://commons.wikimedia.org/wiki/File:Bogdan_A092.80_bus_in_Lviv.jpg#/media/File:Bogdan_A092.80_bus_in_Lviv.jpg"><img alt="Bogdan A092.80 bus in Lviv.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bogdan_A092.80_bus_in_Lviv.jpg/1200px-Bogdan_A092.80_bus_in_Lviv.jpg"></a></p>
 -->
 </div>
 
-### バスや列車
+## 交通。バスや列車
 
 マイクロバス 
 мaршруткa (マルシュルーツカ) 
@@ -882,7 +879,7 @@ image: css/images/language.png
 この[メトロ/バス]はダウンタウンまで行きますか？
 Це метро/aвтобус їде в центр містa? (ツェー　メトロー｜アウトーブス　イーデ　ウ　ツェーヌトル　ミースタ？)
 
-### 道順
+## 道順
 
 ... はどちらですか? 
 Де знаходиться ... ? (デ ズナホーデッツャ ...) 
@@ -993,7 +990,7 @@ image: css/images/language.png
 -->
 </div>
 
-### タクシー
+## タクシー
 
 タクシー! 
 Таксі! (タクスィー) 
@@ -1006,7 +1003,8 @@ image: css/images/language.png
 ... までいくらですか? 
 Скільки коштує до ... ? (スキーリクィ コーシュトゥイェ ド ...) 
 
-### 主な単語
+## 主な単語
+
 月 - Місяць (ミーシャツィ)
 
 ---
