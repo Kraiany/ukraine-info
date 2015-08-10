@@ -287,7 +287,7 @@ image: css/images/language.png
 
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:PublicInformationSymbol_EmergencyExit.svg#/media/File:PublicInformationSymbol_EmergencyExit.svg"><img alt="Green pictogram with a running man" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/PublicInformationSymbol_EmergencyExit.svg/1200px-PublicInformationSymbol_EmergencyExit.svg.png"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Fire_exit.svg#/media/File:Fire_exit.svg"><img alt="Fire exit.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fire_exit.svg/1200px-Fire_exit.svg.png"></a></p>
 -->
 </div>
 
