@@ -187,6 +187,12 @@ image: css/images/language.png
 
 ## 会話集
 
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_006.jpg#/media/File:Thomas_Gainsborough_006.jpg"><img alt="Thomas Gainsborough 006.jpg" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Thomas_Gainsborough_006.jpg" height="145" width="126"></a></p>
+-->
+</div>
+
 ### 挨拶
 こんにちは。 
 Добрий день. (ドーブルィ デーニ)
@@ -320,6 +326,13 @@ image: css/images/language.png
 заборонено (ザボローネノ)
 
 ### トラブル
+
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Ukrainian_police_patrol.jpg#/media/File:Ukrainian_police_patrol.jpg"><img alt="Ukrainian police patrol.jpg" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ukrainian_police_patrol.jpg" height="145" width="193"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Ukrainian_police_patrol.jpg#/media/File:Ukrainian_police_patrol.jpg">Ukrainian police patrol</a>" від <a href="//commons.wikimedia.org/wiki/User:Qypchak" title="User:Qypchak">Qypchak</a> - <span class="int-own-work" lang="uk">Власна робота</span>. Ліцензований під <a title="Creative Commons Attribution-Share Alike 4.0" href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> через <a href="https://commons.wikimedia.org/wiki/">Вікісховище</a>.</p>
+-->
+</div>
+
 助けて! 
 На поміч! (ナポーミチ!)
 
@@ -820,6 +833,165 @@ image: css/images/language.png
 ---
 茶色 
 коричневий (コルィーチネヴィイ)
+
+### 交通
+
+### バスや列車
+
+マイクロバス 
+мaршруткa (マルシュルーツカ) 
+
+---
+バス 
+автобус (アウトーブス) 
+
+---
+電車 
+потяг/поїзд (ポーチャグ/ポーイズド) 
+
+---
+... までいくらですか? 
+Скільки коштує квиток до ... ? (スキーリクィ コーシュトゥイェ クヴェトーク ド ...) 
+
+---
+... まで一枚お願いします 
+Один квиток до ..., будь ласка (オディーン クヴェトーク ... ブッヂ ラースカ) 
+
+---
+この[電車/バス]はどこへ行きますか
+Куди їде цей поїзд/aвтобус (クディー　イーデ　ツェーイ　ポーイズド｜アウトーブス) 
+
+---
+この[電車/バス]はどこで止まりますか 
+Де зупиняється цей поїзд/aвтобус? (デー　ズペィニャーエシャ　ツェーイ　ポーイズド｜アウトーブス)
+
+---
+この[メトロ/バス]はダウンタウンまで行きますか？
+Це метро/aвтобус їде в центр містa? (ツェー　メトロー｜アウトーブス　イーデ　ウ　ツェーヌトル　ミースタ？)
+
+### 道順
+
+... はどちらですか? 
+Де знаходиться ... ? (デ ズナホーデッツャ ...) 
+
+---
+駅 
+вокзал (ヴォグザール) 
+
+---
+バス停 
+зупинка автобуса (ズプィンカ アウトーブサ) 
+
+---
+空港 
+аеропорт (アエロポールト) 
+
+---
+街の中心 
+центр міста (ツェーントル ミースタ) 
+
+---
+... ホテル 
+готель ... (ホテーリ ...) 
+
+---
+... 大使館/領事館 
+посольство/консульство ... (ポソーリストヴォ/コースリストヴォ ...) 
+
+---
+宿 
+готель (ホテーリ) 
+
+---
+レストラン 
+ресторан (レストラーン) 
+
+---
+バー 
+бар (バール) 
+
+---
+見物 
+огляд (オーフリャド) 
+
+---
+道 
+дорога (ドローハ) 
+
+---
+左へ曲がってください。
+Зверніть ліворуч (ズベルニーチ リヴォールチ) 
+
+---
+右へ曲がってください。
+Зверніть праворуч (ズヴェルニーチ プラヴォールチ) 
+
+---
+左 
+ліворуч (リヴォールチ) 
+
+---
+右 
+праворуч (プラヴォールチ) 
+
+---
+まっすぐ 
+прямо (プリャーモ) 
+
+---
+... へ向かって 
+до ... (ド ...)
+    
+---    
+... の先 
+за ... (ザ ...) 
+
+---
+... の前 
+перед ... (ペーレド ...) 
+
+---
+... が目印です。 
+Ознака є ... (オズナーカ イェ ...) 
+
+---
+交差点 
+перехрестя (ペレフレースチャ) 
+
+---
+北 
+північ (ピーウニチ) 
+
+---
+南 
+південь (ピーウデニ) 
+
+---
+東 
+схід (スヒード) 
+
+---
+西 
+захід (ザーヒド) 
+
+### タクシー
+
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:PriusTaxi.jpg#/media/File:PriusTaxi.jpg"><img alt="PriusTaxi.jpg" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/PriusTaxi.jpg" height="145" width="193"></a></p>
+-->
+</div>
+
+タクシー! 
+Таксі! (タクスィー) 
+
+---
+... までお願いします。 
+До ..., будь ласка (ド ... ブッヂ ラースカ) 
+
+---
+... までいくらですか? 
+Скільки коштує до ... ? (スキーリクィ コーシュトゥイェ ド ...) 
 
 ### 主な単語
 月 - Місяць (ミーシャツィ)
