@@ -72,11 +72,6 @@ nav > h1 {
    -webkit-font-smoothing: antialiased;
     }
 
-.grid li h2 {
-	font-size: 1.5em;
-	letter-spacing: -1px;
-}
-
 article-desc {
 	font-weight: 600;	
 	font-size: 0.875em; /* 14px */
@@ -446,7 +441,8 @@ main .img-wrapper {
     }
 
 .grid li h2 {	
-	font-size: 2.0em;
+	font-size: 1.5em;
+	letter-spacing: -1px;
 	margin-top: 0.5em;
     }
 
