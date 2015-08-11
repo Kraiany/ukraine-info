@@ -72,7 +72,7 @@ nav > h1 {
    -webkit-font-smoothing: antialiased;
     }
 
-h2 {
+.grid li h2 {
 	font-size: 2.0em;
 	letter-spacing: -1px;
 }
