@@ -10,7 +10,7 @@ image: css/images/transparent.gif
 
 <div class="lazyload">
 <!--
-<img src="photos/donbas/10-08_eng.jpg"/>
+<img src="photos/donbas/war_map.jpg"/>
 -->
 </div>
 
