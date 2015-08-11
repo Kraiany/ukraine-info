@@ -1,6 +1,6 @@
 ---
-layout: place
-title: ドンバス（ドネツィク、ルハーンシク）
+layout: attention
+title: ドンバス
 description: ドネツィク州とルハーンシク州
 place-googlemaps-link: https://www.google.co.jp/maps/place/Donetsk,+Donetsk+Oblast,+Ukraine/
 image: css/images/donbas.png
