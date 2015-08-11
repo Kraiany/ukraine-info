@@ -616,6 +616,14 @@ image: css/images/language.png
 багато (バハート)
 
 ## 時間
+
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Spacetime_curvature.png#/media/File:Spacetime_curvature.png"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png" alt="Spacetime curvature schematic"></a></p>
+-->
+</div>
+<br/>
+
 今 
 тепер (テペール) / зараз (ザーラズ)
 
@@ -804,6 +812,7 @@ image: css/images/language.png
 вівторок, двадцять четверте березня дві тисячi п'ятого року (ヴィウトーロク ドゥヴァーツャッチ チェトヴェールテ ベーレズニャ ドゥヴィー ティーシャチ プヤートホ ロークー)
 
 ## 色
+
 黒 
 чорний (チョールヌィイ)
 
