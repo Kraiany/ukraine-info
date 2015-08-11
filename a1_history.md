@@ -5,7 +5,7 @@ description: 古今
 image: css/images/history.png
 ---
 
-### ウクライナ・ロシア戦争
+## ウクライナ・ロシア戦争
 2014年からロシアがドンバスに侵攻中です。
 
 <div class="lazyload">
