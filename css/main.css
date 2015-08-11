@@ -72,6 +72,11 @@ nav > h1 {
    -webkit-font-smoothing: antialiased;
     }
 
+h2 {
+	font-size: 2.0em;
+	letter-spacing: -1px;
+}
+
 article-desc {
 	font-weight: 600;	
 	font-size: 0.875em; /* 14px */
