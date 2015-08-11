@@ -4,6 +4,16 @@ title: ニュース
 description: ウクライナの最新ニュース
 image: css/images/transparent.gif
 ---
+
+## ウクライナ・ロシア戦争
+2014年からロシアがドンバスに侵攻中です。
+
+<div class="lazyload">
+<!--
+<img src="photos/donbas/10-08_eng.jpg"/>
+-->
+</div>
+
 <div id="FeederNinja_d39fe9a6d0eb48c9ab8e37941dd89739"></div>
 <script type="text/javascript">
 (function() {
