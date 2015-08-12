@@ -143,6 +143,101 @@ image: css/images/literature.jpg
 -->
 </div>
 
+## バシール・スツース
+バシール・スツース（ウクライナ語: Василь Стус；1938年1月6日‐1985年9月4日）は、ウクライナの女性作家、翻訳者、思想家。ウクライナの反ソ連の動きの中で最もアクティブなメンバーの一人。彼は民主主義とウクライナの独立を支持しました。彼の政治的信念のために、彼の作品は、ソビエト政権によって禁止された、彼は拘禁中の（彼の人生の約半分）23年間を過ごしました。バシール・スツースは1985年に政治犯のためにソ連の強制労働収容所で死亡しました。
+
+<div class="lazyload">
+<!--
+<p><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Stus_vasyl.JPG#/media/File:Stus_vasyl.JPG"><img src="https://upload.wikimedia.org/wikipedia/uk/c/cc/Stus_vasyl.JPG" alt="Василь Стус"></a></p>
+-->
+</div>
+
+### Плач, небо, плач і плач（ウクライナ語）
+
+Плач, небо, плач і плач. Пролий невтримне море!
+
+Струмуй, ясна бідо тонкоголосих вод.
+
+Здається, от-от-от. Здається, тільки вчора
+
+холодний запопав мене смертельний дрож.
+
+Струмуй, водо, струмуй. Минуле не вернути.
+
+Сьогодні — згибіло. Майбутнього — нема.
+
+Щось на душі лежить, чого повік не збути,
+
+ні з серця вирвати. Несила. Задарма.
+
+Плач, небо, плач і плач. Пролляйся, небокраю,
+
+і зорі, опадіть з потьмарених небес.
+
+Чи в світі є сурма, що по мені заграє
+
+останньої уже. Щоб більше не воскрес?
+
+Струмуй, ясна водо! Реви, аеродроме!
+
+Підносьтесь, літаки! Ридайте, груди ринв!
+
+І землю впережи, високий гарній громе!
+
+А все ж твої, бідо, огроми затяжкі.
+
+Плач, небо, плач і плач. Ти, смолокрила хмаро,
+
+благослови мене! Ти, блискавко, вістуй.
+
+Нехай святиться світ! Йому бо ніч — до пари!
+
+То ти, водо, течи! А ти, бідо, лютуй!
+
+19. IV. 1972
+
+### Weep, sky, weep (英語訳)
+
+Weep, sky, weep and weep! Wash the unabated sea
+
+Of thin-voiced waters and dampen the heart.
+
+It seems it was just now, just yesterday
+
+That a deathly shiver buried you alive.
+
+Weep, sky, weep and weep! The past cannot be returned.
+
+Today has been reduced to naught, the future will not come.
+
+Something weighs on the mind that can never
+
+Be torn from the heart. This prison is a prison for prisons!
+
+Weep, sky, weep and weep! Still over your horizons
+
+And let the stars fall from darkened skies!
+
+Is there in this world a trumpet that will sound
+
+A final blast to keep me from my resurrection?
+
+Flow, water, flaw and sweep me away from my weariness,
+
+For eternities of bondage have crushed me.
+
+High upland thunder, girdle the earth!
+
+Pitch-winged cloud, bless me!
+
+Lightning, send a message!
+
+Hallowed be the world. The night is its companion.
+
+So, water. Flow forth! And you, misfortune, rage!
+
+19. IV. 1972
+
 ## ボフダーン・イーホル・アントーニチ
 ボフダーン・イーホル・アントーニチ（ウクライナ語：Богдан-Ігор Антонич；1909年10月5日‐1937年6月6日）は、ウクライナの作家。
 
