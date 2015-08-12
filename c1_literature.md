@@ -323,6 +323,12 @@ above cavities and turgid melodies of dental drills.
 
 19 / IV / 1972
 
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/XIyBQPZ3MEA?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
+
 ### Weep, sky, weep (英語訳)
 
 Weep, sky, weep and weep! Wash the unabated sea
