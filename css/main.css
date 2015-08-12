@@ -441,7 +441,8 @@ main .img-wrapper {
     }
 
 .grid li h2 {	
-	font-size: 2.0em;
+	font-size: 1.5em;
+	letter-spacing: -1px;
 	margin-top: 0.5em;
     }
 

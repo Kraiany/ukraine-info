@@ -1,7 +1,7 @@
 ---
 layout: article
-title: ウクライナの歴史と現在
-description: 古今
+title: ウクライナの歴史
+description: 歴史と現在
 image: css/images/history.png
 ---
 
