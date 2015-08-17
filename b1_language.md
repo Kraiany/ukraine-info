@@ -8,6 +8,12 @@ image: css/images/language.png
 
 ## 発音
 
+<div class="lazyload">
+<!--
+<img src="photos/language/abetka.jpg"/>
+-->
+</div>
+
 ### 母音
 ウクライナ語には硬音（日本語のア行に相当）と軟音(日本語のヤ行に相当)の区別があり、子音の発音に影響する。
 
