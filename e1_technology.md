@@ -69,11 +69,10 @@ image: css/images/technology.jpg
 <div about='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg'><a href='https://www.flickr.com/photos/ipasha/10420491593/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg' alt='P1000409 by ipasha, on Flickr' title='P1000409 by ipasha, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ipasha/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ipasha/' target='_blank'>ipasha</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
-### 新しい「サイクロン・4」ロケットはドニプロペトロフシクで開発中（2015年）
+### 新しい「サイクロン・4」ウクライナのロケット（2015年）
 <div class="lazyload">
 <!--
-<img src="photos/technology/first_two_stages.jpg"/>
-<small>Website: <a href="http://www.alcantaracyclonespace.com/en/for-customers/project-status">Alcantara Cyclone Space</a></small>
+<div class="video-container"><iframe src="http://www.youtube.com/embed/_thk9ttVJCU?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
