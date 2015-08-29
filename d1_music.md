@@ -13,6 +13,14 @@ image: css/images/music.png
 -->
 </div>
 
+### マールタ・シュパック / Марта Шпак / Marta Shpak
+#### ウクライナのための祈り / Боже, я молюсь за Україну / Prayer for Ukraine
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/y4YNLmfZtag?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
+
 ## バンドゥーラ
 ### ステパン・シェルバク / Степан Щербак / Stepan Scherbak
 #### 黒眉、茶色の目 / Чорнії брови, карії очі / Black brows, brown eyes
