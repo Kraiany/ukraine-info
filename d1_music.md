@@ -24,7 +24,7 @@ image: css/images/music.png
 ### ウクライナ・コサックの踊りに由来するウクライナの伝統舞踊「ホパーク」(Ансамбль Вірського, Гопак)
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/fPJR0lrYiWw?html5=1" frameborder="0"></iframe></div>
+<div class="video-container"><iframe src="http://www.youtube.com/embed/kQlJ6hWhqdY?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
