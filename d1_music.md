@@ -19,6 +19,13 @@ image: css/images/music.png
 -->
 </div>
 
+### マールタ・シュパック、ウクライナ独立記念日コンサート（Марта Шпак, концерт на Майдані Незалежності）
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/BdjRCJrwlXI?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
+
 ## ウクライナのフォークダンス
 
 ### ウクライナ・コサックの踊りに由来するウクライナの伝統舞踊「ホパーク」(Ансамбль Вірського, Гопак)
