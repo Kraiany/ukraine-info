@@ -43,14 +43,7 @@ image: css/images/music.png
 </div>
 
 ## バンドゥーラ
-### ステパン・シェルバク / Степан Щербак / Stepan Scherbak
-#### 黒眉、茶色の目 / Чорнії брови, карії очі
-<div class="lazyload">
-<!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/irnjdrWGTXg?html5=1" frameborder="0"></iframe></div>
--->
-</div>
-#### 私の親愛なる母 / Рідна мати моя
+#### 私の親愛なる母 (Степан Щербак, "Рідна мати моя")
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/zJeBgeMcuyc?html5=1" frameborder="0"></iframe></div>
