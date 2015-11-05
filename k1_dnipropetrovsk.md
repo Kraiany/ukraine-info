@@ -56,6 +56,12 @@ image: css/images/dnipropetrovsk.png
 <div about='https://farm3.static.flickr.com/2301/2496491835_20fa88d2b1_b.jpg'><a href='https://www.flickr.com/photos/gtarded/2496491835/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2301/2496491835_20fa88d2b1_b.jpg' alt='P5040948 - Dnepropetrovsk, Ukraine by gTarded, on Flickr' title='P5040948 - Dnepropetrovsk, Ukraine by gTarded, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/gtarded/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/gtarded/' target='_blank'>gTarded</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
+### ユダヤ人の文化の中心地「メノーラー」
+<div class="lazyload">
+<!--
+<p><a href="https://commons.wikimedia.org/wiki/File:Dnp_ukr2013_08.JPG#/media/File:Dnp_ukr2013_08.JPG"><img alt="Dnp ukr2013 08.JPG" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Dnp_ukr2013_08.JPG/1200px-Dnp_ukr2013_08.JPG"></a></p>
+-->
+</div>
 ### ストリートアート
 <div class="lazyload">
 <!--
