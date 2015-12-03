@@ -3,7 +3,7 @@ layout: place
 title: ハルキウ
 description: ウクライナ北東部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Kharkiv,+Kharkiv+Oblast,+Ukraine/
-image: css/images/kharkiv.png
+image: css/images/kharkiv.gif
 ---
 ハルキウ（ウクライナ語：Харків ハールキウ）は、ウクライナ北東部の都市である。ハルキウ州の州都。人口は約145万人。人口ではキエフに次いでウクライナで2番目に大きな都市である。ウクライナの工業の中心で、ソビエト連邦においても、モスクワ、レニングラードに次ぐ第3の工業都市であった。特に、機械工業、兵器製造（戦車等）、航空機生産、トラクター生産が盛んである。
 

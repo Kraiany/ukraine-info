@@ -3,7 +3,7 @@ layout: place
 title: ドニプロペトロウシク
 description: ウクライナ東部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/
-image: css/images/dnipropetrovsk.png
+image: css/images/dnipropetrovsk.gif
 ---
 ドニプロペトローウシク（ウクライナ語: Дніпропетровськ）はウクライナの都市。ドニプロ川の河岸に位置する。人口は999,250人 (2011年8月1日)。ドニプロペトローウシクは1776年に創建された。市内ではドニプロペトローウシク駅がある。首都キエフまでの直線距離は390 kmであるが、鉄道で532 km、車道で447kmとなっている。愛称は「ドニプロ」である。ドネツィクと並んでウクライナ有数の工業の中心地であり、兵器の生産やエネルギー産業などの重工業を主産業とする。
 

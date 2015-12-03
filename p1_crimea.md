@@ -3,7 +3,7 @@ layout: place
 title: クリミア半島
 description: ウクライナの黒海の北岸にある半島
 place-googlemaps-link: https://www.google.co.jp/maps/place/Crimea/
-image: css/images/crimea.png
+image: css/images/crimea.jpg
 ---
 クリミア半島（クリミアはんとう）、または単にクリミア（ウクライナ語: Крим, クリミア・タタール語: Qırım）は、ウクライナの黒海の北岸にある半島。(ロシア軍侵攻)
 

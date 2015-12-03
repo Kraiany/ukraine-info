@@ -2,7 +2,7 @@
 layout: article
 title: ウクライナの音楽
 description: サウンドとビデオ
-image: css/images/music.png
+image: css/images/music.gif
 ---
 ## 声楽
 ### クビツカ・ツィシック 「二つの色」 (Квітка Цісик, "Два кольори")
