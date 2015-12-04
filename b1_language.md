@@ -1008,7 +1008,7 @@ image: css/images/language.png
 
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Streets_of_Beirut_during_the_night_-_Taxi.jpg#/media/File:Streets_of_Beirut_during_the_night_-_Taxi.jpg"><img alt="Streets of Beirut during the night - Taxi.jpg" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Streets_of_Beirut_during_the_night_-_Taxi.jpg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:TAXI.jpg#/media/File:TAXI.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TAXI.jpg/1200px-TAXI.jpg" alt="TAXI.jpg"></a></p>
 -->
 </div>
 <br/>
