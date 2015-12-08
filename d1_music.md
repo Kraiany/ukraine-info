@@ -12,13 +12,6 @@ image: css/images/music.gif
 -->
 </div>
 
-### マールタ・シュパック 「ウクライナのための祈り」（Марта Шпак, "Боже, я молюсь за Україну"）
-<div class="lazyload">
-<!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/y4YNLmfZtag?html5=1" frameborder="0"></iframe></div>
--->
-</div>
-
 ### マールタ・シュパック、ウクライナ独立記念日コンサート（Марта Шпак, концерт на Майдані Незалежності）
 <div class="lazyload">
 <!--
