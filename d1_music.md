@@ -5,14 +5,22 @@ description: サウンドとビデオ
 image: css/images/music.gif
 ---
 ## 声楽
-### クビツカ・ツィシック 「二つの色」 (Квітка Цісик, "Два кольори")
+
+### クビツカ・ツィシック 「二つの色」/ Квітка Цісик - "Два кольори"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/7-ml3FQhFv0?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
-### マールタ・シュパック、ウクライナ独立記念日コンサート（Марта Шпак, концерт на Майдані Незалежності）
+### ILLARIA 「光の天使」/ ILLARIA - "Ангел світла"
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/MZTID24oxBc?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
+
+### マールタ・シュパック、ウクライナ独立記念日コンサート / Марта Шпак - Концерт на Майдані Незалежності
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/BdjRCJrwlXI?html5=1" frameborder="0"></iframe></div>
@@ -21,14 +29,14 @@ image: css/images/music.gif
 
 ## ウクライナのフォークダンス
 
-### ウクライナ・コサックの踊りに由来するウクライナの伝統舞踊「ホパーク」(Ансамбль Вірського, Гопак)
+### ウクライナ・コサックの踊りに由来するウクライナの伝統舞踊「ホパーク」/ Ансамбль Вірського - "Гопак"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/kQlJ6hWhqdY?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
-### マールタ・シュパック 「葦笛」(Марта Шпак, "Сопілка")
+### マールタ・シュパック 「葦笛」/ Марта Шпак - "Сопілка"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/fPJR0lrYiWw?html5=1" frameborder="0"></iframe></div>
@@ -43,34 +51,35 @@ image: css/images/music.gif
 -->
 </div>
 
-### Чарлі Шюічі Сакума / Charlie Shuichi Sakuma
-#### ニンフ / Мавка / Nymph
+#### Charlie Shuichi Sakuma「ニンフ」/ Чарлі Шюічі Сакума - "Мавка"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/Rd036czwmdo?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
-#### 灰色のワシ / Бандуристе, Орле Сизий
+
+#### Charlie Shuichi Sakuma「灰色のワシ」/ Чарлі Шюічі Сакума - "Бандуристе, Орле Сизий"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/1p2trvjxFFg?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
-### カテリーナ / Катерина / Kateryna
-#### 静かな水の流れ / Тиха вода
+#### カテリーナ「静かな水の流れ」 / Kateryna - "Тиха вода"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/dauS4nXOLcE?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.kateryna-music.jp/</small>
 -->
 </div>
-#### 忘れないて / Не забудь
+
+#### カテリーナ「忘れないて」 / Kateryna - "Не забудь"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/tlaMTzd4hJw?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.kateryna-music.jp/</small>
 -->
 </div>
-#### 金色の花 / Чорнобривці
+
+#### カテリーナ「金色の花」 / Kateryna - "Чорнобривці"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/8Hjb17ecY6Y?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.kateryna-music.jp/</small>
@@ -78,82 +87,85 @@ image: css/images/music.gif
 </div>
 
 ## ロック
-### プラッチ・イェレミイ / Плач Єремії / Plach Yeremii
-#### あなたはこの夏が咲く三度目だ / Ти втретє цього літа зацвітеш
+
+#### プラッチ・イェレミイ「あなたはこの夏が咲く三度目だ」 / Плач Єремії - "Ти втретє цього літа зацвітеш"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/ergjjMQywHU?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
-#### 彼の肩の上に天使と / З янголом на плечі
+
+#### プラッチ・イェレミイ「彼の肩の上に天使と」 / Плач Єремії - "З янголом на плечі"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/NF1lvLLC0g8?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
-### オケアン・エリズィ / Океан Ельзи / Okean Elzy
-#### すべてが大丈夫だ / Все буде добре
+#### オケアン・エリズィ「すべてが大丈夫だ」 / Океан Ельзи - "Все буде добре"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/dL-9QgWyefw?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/user/okeanelzyofficial</small>
 -->
 </div>
-#### 壁 / Стіна
+
+#### オケアン・エリズィ「壁」 / Океан Ельзи - "Стіна"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/0a234Xn316Q?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/user/okeanelzyofficial</small>
 -->
 </div>
 
-### ラマ / Лама / Lama
-#### 黄色分野 / Жовте поле
+#### ラマ「黄色分野」 / Lama - "Жовте поле"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/XmWzypWs8_M?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/user/lamaukraine</small>
 -->
 </div>
-#### 光と影 / Світло і тінь
+
+#### ラマ「光と影」 / Lama - "Світло і тінь"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/tKPNSTiStMg?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/user/lamaukraine</small>
 -->
 </div>
 
-### マリヤ・ブルマカ / Марія Бурмака / Mariya Burmaka
-#### 天使と雨の市 / Місто Ангелів і дощів
+#### マリヤ・ブルマカ「天使と雨の市」 / Марія Бурмака - "Місто Ангелів і дощів"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/wfOf_QSiO0M?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.burmaka.kiev.ua</small>
 -->
 </div>
-#### すべてが始まる / Все починається, коли...
+
+#### マリヤ・ブルマカ「すべてが始まる」 / Марія Бурмака - "Все починається, коли..."
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/eHydSFnmdFE?html5=1" frameborder="0"></iframe></div><small>ホームページ http://www.burmaka.kiev.ua</small>
 -->
 </div>
 
-### チン・ソンチャ / Тінь Сонця / Tin Sontsya
-#### コサック人は帰宅している / Їхали козаки
+#### チン・ソンチャ「コサック人は帰宅している」 / Тінь Сонця - "Їхали козаки"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/uvixeSrM0RA?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
 -->
 </div>
-#### 決して泣いてはならない / Ніколи не плач
+
+#### チン・ソンチャ「決して泣いてはならない」 / Тінь Сонця - "Ніколи не плач"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/ooCcM7p6FQ0?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
 -->
 </div>
-#### コサックの墓 / Козача Могила
+
+#### チン・ソンチャ「コサックの墓」 / Тінь Сонця - "Козача Могила"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/olBdX06BtQ8?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
 -->
 </div>
-#### アレウスの剣 / Меч Арея
+
+#### チン・ソンチャ「アレウスの剣」 / Тінь Сонця - "Меч Арея"
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/plUPkvexQi4?html5=1" frameborder="0"></iframe></div><small>ホームページ http://sunshadow.com.ua</small>
