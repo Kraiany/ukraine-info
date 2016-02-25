@@ -10,7 +10,7 @@ image: css/images/history.png
 
 <div class="lazyload">
 <!--
-<img src="http://mediarnbo.org/wp-content/uploads/2015/10/12-10_eng.jpg"/>
+<img src="http://mediarnbo.org/wp-content/uploads/2015/01/30-01_eng.jpg"/>
 -->
 </div>
 
