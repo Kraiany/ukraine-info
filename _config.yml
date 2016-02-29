@@ -1,6 +1,6 @@
 name: Ukraine Info
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 baseurl: .
 #gems:
 #-jekyll-sitemap
