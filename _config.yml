@@ -1,6 +1,6 @@
 name: Ukraine Info
 markdown: kramdown
-highlighter: coderay
+highlighter: pygments
 baseurl: .
 #gems:
 #-jekyll-sitemap
