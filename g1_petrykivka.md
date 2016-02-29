@@ -7,7 +7,7 @@ image: css/images/petrykivka.jpg
 ---
 ペトリキウカ塗り(ウクライナ語: Петриківський розпис, 英語:Petrykivsky Painting)というのはウクライナの民族装飾芸術を代表する装飾画。2013年にUNESCO無形文化遺産になった。 「ペトリキウカ塗り」という村で暮らしていた人々は自宅の壁、家財道具、楽器にもペトリキウカ装飾を描いていた。 ペトリキウカ装飾は現地の動植物の注意深い観察を元にした、幻想的な花と自然要素を描くことが特徴。 ペトリキウカ装飾は象徴が豊富であり、雄鶏は火、また精神の目覚めを表しているとともに、他の鳥類は光、調和、幸福の象徴として扱われている。
 
-###ペトリキフカ村の博物館からの写真
+### ペトリキフカ村の博物館からの写真
 <div class="lazyload">
 <!--
 <div about='https://farm4.static.flickr.com/3900/14813723024_f83d7be501_b.jpg'><a href='https://www.flickr.com/photos/76996987@N04/14813723024/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3900/14813723024_f83d7be501_b.jpg' alt='IMG_1390 by Artem Nagornyi, on Flickr' title='IMG_1390 by Artem Nagornyi, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/76996987@N04/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/76996987@N04/' target='_blank'>Artem Nagornyi</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
@@ -73,6 +73,7 @@ image: css/images/petrykivka.jpg
 <div about='https://farm6.static.flickr.com/5590/14629434379_31d33a04cb_b.jpg'><a href='https://www.flickr.com/photos/76996987@N04/14629434379/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm6.static.flickr.com/5590/14629434379_31d33a04cb_b.jpg' alt='IMG_1380 by Artem Nagornyi, on Flickr' title='IMG_1380 by Artem Nagornyi, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/76996987@N04/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/76996987@N04/' target='_blank'>Artem Nagornyi</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
+
 ## 外部リンク
 * <a href="https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%AB%E3%82%A3%E3%82%AD%E3%82%A6%E3%82%AB">ペトリキウカ塗り（ウィキペディア）</a>
 * <a href="http://instagram.com/petrykivka">ペトリキフカの写真</a>
