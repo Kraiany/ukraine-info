@@ -28,12 +28,5 @@ image: css/images/vinnytsya.png
 -->
 </div>
 
-### ロシェン噴水
-<div class="lazyload">
-<!--
-<a title="By Laserland (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ANight_Show_of_Multimedia_Fountain_Roshen.jpg"><img width="1024" alt="Night Show of Multimedia Fountain Roshen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Night_Show_of_Multimedia_Fountain_Roshen.jpg/1024px-Night_Show_of_Multimedia_Fountain_Roshen.jpg"/></a>
--->
-</div>
-
 ## 外部リンク
 * <a href="http://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%8C%E3%82%A3%E3%83%84%E3%83%A3">ヴィーンヌィツャ</a>
