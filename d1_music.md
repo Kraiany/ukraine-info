@@ -7,6 +7,8 @@ image: css/images/music.gif
 
 ## ウクライナの声楽
 
+<iframe src="http://tunein.com/embed/player/s233173/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
+
 #### クビツカ・ツィシック 「二つの色」/ Квітка Цісик - "Два кольори"
 <div class="lazyload">
 <!--

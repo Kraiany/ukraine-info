@@ -634,7 +634,7 @@ main .img-wrapper {
         }
     }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1170px) {
   .nomobile {
     visibility: hidden;
     display: none;
@@ -661,6 +661,29 @@ main .img-wrapper {
     width: 28%;
     display: none;
   }
+}
+
+#top-container {
+  width: 100%;
+  text-align:center;
+}
+
+#top-left {
+  float:left;
+  width: 254px;
+  margin-left: 2.5em;
+}
+
+#top-center {
+  display: inline-block;
+  margin:0 auto;
+  width:390px;
+}
+
+#top-right {
+  float:right;
+  width: 254px;
+  margin-right: 2.5em;
 }
 
 html *
