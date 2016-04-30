@@ -686,6 +686,10 @@ main .img-wrapper {
   margin-right: 2.5em;
 }
 
+#twitter-widget-0 {
+	width: 100% !important; 
+}
+
 html *
 {
    font-family: Helvetica, "ヒラギノ明朝 ProN","Hiragino Mincho ProN";

@@ -14,11 +14,6 @@ image: css/images/transparent.gif
 -->
 </div>
 
-<div id="FeederNinja_d39fe9a6d0eb48c9ab8e37941dd89739"></div>
-<script type="text/javascript">
-(function() {
-	var fn = document.createElement('script'); fn.type = 'text/javascript';
-	fn.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feederninja.com/api/feed/d39fe9a6d0eb48c9ab8e37941dd89739?fnurl=' + window.location.href;
-	var s = document.getElementsByTagName('head')[0].appendChild(fn);
-})();
-</script>
+
+<a class="twitter-timeline" href="https://twitter.com/uajpnews" data-widget-id="492901137574404097">Твіти від користувача(ки) @uajpnews</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
