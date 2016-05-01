@@ -12,7 +12,7 @@ image: css/images/donbas.png
 
 <div class="lazyload">
 <!--
-<img src="http://mediarnbo.org/wp-content/uploads/2016/02/23-02_eng.jpg"/>
+<img src="css/images/war-map.jpg"/>
 -->
 </div>
 

@@ -634,7 +634,7 @@ main .img-wrapper {
         }
     }
 
-@media screen and (max-width: 1170px) {
+@media screen and (max-width: 1000px) {
   .nomobile {
     visibility: hidden;
     display: none;
@@ -670,19 +670,19 @@ main .img-wrapper {
 
 #top-left {
   float:left;
-  width: 254px;
+  width: auto;
   margin-left: 2.5em;
 }
 
 #top-center {
   display: inline-block;
   margin:0 auto;
-  width:390px;
+  width:auto;
 }
 
 #top-right {
   float:right;
-  width: 254px;
+  width: auto;
   margin-right: 2.5em;
 }
 
