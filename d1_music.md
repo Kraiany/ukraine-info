@@ -31,6 +31,13 @@ image: css/images/music.gif
 -->
 </div>
 
+#### Vivienne Mort - Ти забув про мене
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/seFhoLRJziY?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
+
 ## ウクライナのフォークダンス
 
 #### ウクライナ・コサックの踊りに由来するウクライナの伝統舞踊「ホパーク」/ Ансамбль Вірського - "Гопак"
@@ -91,6 +98,22 @@ image: css/images/music.gif
 -->
 </div>
 
+## ウクライナのラップ
+
+#### ТНМК - Фідель
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/LfK12xmGtVE?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/channel/UCDvNviv3R_dBFdTfZwiB0MQ</small>
+-->
+</div>
+
+#### Орест Лютий - РОСІЯН В ДОНБАСЕ НЕТ
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/G1gYsXpgbnk?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/channel/UC31P7E3NSLaMQvc6c-e7Ruw</small>
+-->
+</div>
+
 ## ウクライナのロック
 
 #### プラッチ・イェレミイ「あなたはこの夏が咲く三度目だ」/ Плач Єремії - "Ти втретє цього літа зацвітеш"
@@ -132,6 +155,27 @@ image: css/images/music.gif
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/tKPNSTiStMg?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/user/lamaukraine</small>
+-->
+</div>
+
+#### O.Torvald - Там де я
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/yznwiwZEQJw?html5=1" frameborder="0"></iframe></div><small>チャンネル https://soundcloud.com/otorvald/sets/</small>
+-->
+</div>
+
+#### С.К.А.Й. - Край Неба
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/B-yrmwlj1Zc?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/channel/UCDsny_1rQXgWDzWyBV49aCg</small>
+-->
+</div>
+
+#### Друга Ріка - Париж (Дай мені вогню)
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/UaY8tJkk5Us?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/channel/UCYpBzZVsoqKe1XRt4to9Qdw</small>
 -->
 </div>
 
