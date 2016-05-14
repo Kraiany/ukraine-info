@@ -24,6 +24,27 @@ image: css/images/music.gif
 -->
 </div>
 
+#### Христина Соловій – Тримай
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/FHss5pSt5F4?html5=1" frameborder="0"></iframe></div>
+-->
+</div>
+
+#### ONUKA - Misto
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/sZjGvpb58oM?html5=1" frameborder="0"></iframe></div><small>ホームページ fb.com/onuka.official</small>
+-->
+</div>
+
+#### Джамала - Чому квіти мають очі
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/x4VyRPSTlQg?html5=1" frameborder="0"></iframe></div><small>ホームページ http://jamalamusic.com</small>
+-->
+</div>
+
 #### マールタ・シュパック、ウクライナ独立記念日コンサート / Марта Шпак - Концерт на Майдані Незалежності
 <div class="lazyload">
 <!--
@@ -144,6 +165,13 @@ image: css/images/music.gif
 -->
 </div>
 
+#### Крихітка - Без імені
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/KeGsXmp2RFI?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/channel/UCcr1be_XhVdxwN_exi-SWYw</small>
+-->
+</div>
+
 #### ラーマ「黄色分野」/ Lama - "Жовте поле"
 <div class="lazyload">
 <!--
@@ -162,6 +190,13 @@ image: css/images/music.gif
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/yznwiwZEQJw?html5=1" frameborder="0"></iframe></div><small>チャンネル https://soundcloud.com/otorvald/sets/</small>
+-->
+</div>
+
+#### СОНЦЕ В КИШЕНІ - 21 грам
+<div class="lazyload">
+<!--
+<div class="video-container"><iframe src="http://www.youtube.com/embed/mjIwqSTLQHc?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/channel/UCm4gKrVDm6FjZJ51XuavjpA</small>
 -->
 </div>
 
