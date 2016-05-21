@@ -1,13 +1,13 @@
 ---
 layout: place
-title: ドニプロー
+title: ドニプロ
 description: ウクライナ東部の都市
 place-googlemaps-link: https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/
 image: css/images/dnipropetrovsk.gif
 ---
-ドニプロー（ウクライナ語: Дніпро）はウクライナの都市。ドニプロ川の河岸に位置する。人口は999,250人 (2011年8月1日)。ドニプローは1776年に創建された。市内ではドニプロー駅がある。首都キエフまでの直線距離は390 kmであるが、鉄道で532 km、車道で447kmとなっている。ドネツィクと並んでウクライナ有数の工業の中心地であり、兵器の生産やエネルギー産業などの重工業を主産業とする。
+ドニプロ（ウクライナ語: Дніпро）はウクライナの都市。ドニプロ川の河岸に位置する。人口は999,250人 (2011年8月1日)。ドニプロは1776年に創建された。市内ではドニプロ駅がある。首都キエフまでの直線距離は390 kmであるが、鉄道で532 km、車道で447kmとなっている。ドネツィクと並んでウクライナ有数の工業の中心地であり、兵器の生産やエネルギー産業などの重工業を主産業とする。
 
-### ドニプロータイムラプス
+### ドニプロタイムラプス
 <div class="lazyload">
 <!--
 <div class="video-container"><iframe src="http://www.youtube.com/embed/8mUP8CsulDA?html5=1" frameborder="0"></iframe></div>
@@ -15,16 +15,16 @@ image: css/images/dnipropetrovsk.gif
 </div>
 
 ### 交通
-ドニプロー国際空港で、ウクライナ国内及びヨーロッパ各国と接続している。
+ドニプロ国際空港で、ウクライナ国内及びヨーロッパ各国と接続している。
 
 市内を結ぶ主な公共交通機関として、1995年に開通した地下鉄を始め、路面電車やトロリーバス、マルシュルートカがある。現在、地下鉄は延伸工事が行われており、2012年末頃に終点のVokzalna駅から都心部まで延伸する見込みである。また、2番目の路線が計画されている。現在、路線はTsentralno-Zavods’ka線のVokzalna駅からKomunarivska駅までの6駅、総延長は7.1kmである。朝5時半から夜23時まで営業し、一日当たりの乗客数は約22,200人である。
 
-このサイトではドニプローの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
+このサイトではドニプロの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
 
 * <a href="http://www.eway.in.ua/en/cities/dnipropetrovsk">www.eway.in.ua/en/cities/dnipropetrovsk</a>
 * <a href="https://www.google.co.jp/maps/place/Dnepropetrovsk,+Dnipropetrovsk+Oblast,+Ukraine/">www.google.co.jp/maps</a>
 
-### ドニプロー地下鉄路線
+### ドニプロ地下鉄路線
 <a title="By DDima [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMap_of_Dnipropetrovsk_Metro.png"><img width="512" alt="Map of Dnipropetrovsk Metro" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Map_of_Dnipropetrovsk_Metro.png"/></a>
 
 ### ドニプロ川
@@ -41,14 +41,14 @@ image: css/images/dnipropetrovsk.gif
 -->
 </div>
 
-### ドニプローの中心部
+### ドニプロの中心部
 <div class="lazyload">
 <!--
 <p><a href="http://commons.wikimedia.org/wiki/File:%D0%A3%D0%BB._%D0%9A%D0%B0%D1%80%D0%BB%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0,_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA.jpg#mediaviewer/File:%D0%A3%D0%BB._%D0%9A%D0%B0%D1%80%D0%BB%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0,_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%D0%A3%D0%BB._%D0%9A%D0%B0%D1%80%D0%BB%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0%2C_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA.jpg/1200px-%D0%A3%D0%BB._%D0%9A%D0%B0%D1%80%D0%BB%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0%2C_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA.jpg" alt="Ул. Карла Маркса, Днепропетровск.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:%D0%A3%D0%BB._%D0%9A%D0%B0%D1%80%D0%BB%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0,_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA.jpg#mediaviewer/File:%D0%A3%D0%BB._%D0%9A%D0%B0%D1%80%D0%BB%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D1%81%D0%B0,_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA.jpg">Ул. Карла Маркса, Днепропетровск</a>" by <a href="//commons.wikimedia.org/wiki/User:Gnesener1900" title="User:Gnesener1900">Gnesener1900</a> - <span class="int-own-work">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</small></p>
 -->
 </div>
 
-### ドニプローの大学
+### ドニプロの大学
 <div class="lazyload">
 <!--
 <p><a href="http://commons.wikimedia.org/wiki/File:Dnepr_NGU.jpg#mediaviewer/%D0%A4%D0%B0%D0%B9%D0%BB:Dnepr_NGU.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dnepr_NGU.jpg/1200px-Dnepr_NGU.jpg" alt="Dnepr NGU.jpg"></a><small>"<a href="http://commons.wikimedia.org/wiki/File:Dnepr_NGU.jpg#mediaviewer/%D0%A4%D0%B0%D0%B9%D0%BB:Dnepr_NGU.jpg">Dnepr NGU</a>" від <a href="//commons.wikimedia.org/w/index.php?title=User:TheVovaNik&amp;action=edit&amp;redlink=1" class="new" title="User:TheVovaNik (така сторінка не існує)">TheVovaNik</a> - <span class="int-own-work">Власна робота</span>. Ліцензований під <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> через <a href="//commons.wikimedia.org/wiki/">Вікісховище</a>.</small></p>
@@ -76,7 +76,7 @@ image: css/images/dnipropetrovsk.gif
 -->
 </div>
 
-### ドニプローパノラマ
+### ドニプロパノラマ
 <div class="lazyload">
 <!--
 <div about='https://farm9.static.flickr.com/8448/7872757156_5367793c34_b.jpg'><a href='https://www.flickr.com/photos/giorgiotomassetti/7872757156/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm9.static.flickr.com/8448/7872757156_5367793c34_b.jpg' alt='Dnepropetrovsk Panorama by Giorgio Tomassetti, on Flickr' title='Dnepropetrovsk Panorama by Giorgio Tomassetti, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/giorgiotomassetti/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/giorgiotomassetti/' target='_blank'>Giorgio Tomassetti</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
@@ -111,7 +111,7 @@ image: css/images/dnipropetrovsk.gif
 -->
 </div>
 
-### ツィクロン（Циклон, Cyclone, Tsyklon）はドニプローで開発された使い捨てロケット
+### ツィクロン（Циклон, Cyclone, Tsyklon）はドニプロで開発された使い捨てロケット
 <div class="lazyload">
 <!--
 <div about='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg'><a href='https://www.flickr.com/photos/ipasha/10420491593/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg' alt='P1000409 by ipasha, on Flickr' title='P1000409 by ipasha, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ipasha/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ipasha/' target='_blank'>ipasha</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
@@ -126,4 +126,4 @@ image: css/images/dnipropetrovsk.gif
 </div>
 
 ## 外部リンク
-* <a href="http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8B%E3%83%97%E3%83%AD%E3%83%9A%E3%83%88%E3%83%AD%E3%82%A6%E3%82%B7%E3%82%AF">ドニプロー</a>
+* <a href="http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8B%E3%83%97%E3%83%AD%E3%83%9A%E3%83%88%E3%83%AD%E3%82%A6%E3%82%B7%E3%82%AF">ドニプロ</a>
