@@ -75,10 +75,12 @@ setTimeout(function() {
    $.magnificPopup.open({
 	items: [
       {
-        src: '/css/images/fest-front.jpg'
+        src: '/css/images/fest-front.jpg',
+        title: 'ウクライナDAY'
       },
       {
-        src: '/css/images/fest-back.jpg'
+        src: '/css/images/fest-back.jpg',
+        title: 'ウクライナDAY'
       },
       {
         src: 'https://www.youtube.com/watch?v=FQvFdIoVrm0?rel=0',
@@ -94,14 +96,13 @@ setTimeout(function() {
     },
     type: 'image',
     closeOnContentClick: true,
-	mainClass: 'mfp-img-mobile',
 	image: {
 		verticalFit: true,
 		cursor: null
 	},
 	// Delay in milliseconds before popup is removed
 	removalDelay: 300,
-	mainClass: 'mfp-fade'
+	mainClass: 'mfp-img-mobile mfp-fade'
       });
  }, 5000);
 });
