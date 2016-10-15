@@ -29,6 +29,7 @@
 
 <center><a href="https://twitter.com/uajpnews">最新ニュース・日本語</a></center>
 <br/>
+
 	{{ content }}
 	<nav class="grid">
 	    <ul>
@@ -67,5 +68,45 @@
 	        {% endfor %}
 	    </ul>
 	</nav>
+
+<script>
+$(document).ready(function () {
+setTimeout(function() {
+   $.magnificPopup.open({
+	items: [
+      {
+        src: '/css/images/fest-front.jpg'
+      },
+      {
+        src: '/css/images/fest-back.jpg'
+      },
+      {
+        src: 'https://www.youtube.com/watch?v=FQvFdIoVrm0?rel=0',
+        type: 'iframe' // this overrides default type
+      },
+      {
+        src: 'https://www.youtube.com/watch?v=XHD81TMxF5s?rel=0',
+        type: 'iframe' // this overrides default type
+      }
+    ],
+    gallery: {
+      enabled: true
+    },
+    type: 'image',
+    closeOnContentClick: true,
+		mainClass: 'mfp-img-mobile',
+		image: {
+			verticalFit: true
+		},
+	// Delay in milliseconds before popup is removed
+	removalDelay: 300,
+	
+	// Class that is added to popup wrapper and background
+	// make it unique to apply your CSS animations just to this exact popup
+	mainClass: 'mfp-fade'
+      });
+ }, 5000);
+});
+</script>
 
 {% include foot.html %}
