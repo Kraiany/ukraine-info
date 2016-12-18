@@ -1,0 +1,41 @@
+<script language="JavaScript" type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+<link rel="stylesheet" href="css/magnific-popup.css">
+
+<script>
+$(document).ready(function () {
+setTimeout(function() {
+   $.magnificPopup.open({
+	items: [
+      {
+        src: '/css/images/fest-front.jpg',
+        title: 'ウクライナDAY'
+      },
+      {
+        src: '/css/images/fest-back.jpg',
+        title: 'ウクライナDAY'
+      },
+      {
+        src: 'https://www.youtube.com/watch?v=FQvFdIoVrm0?rel=0',
+        type: 'iframe' // this overrides default type
+      },
+      {
+        src: 'https://www.youtube.com/watch?v=XHD81TMxF5s?rel=0',
+        type: 'iframe' // this overrides default type
+      }
+    ],
+    gallery: {
+      enabled: true
+    },
+    type: 'image',
+    closeOnContentClick: true,
+	image: {
+		verticalFit: true,
+		cursor: null
+	},
+	// Delay in milliseconds before popup is removed
+	removalDelay: 300,
+	mainClass: 'mfp-img-mobile mfp-fade'
+      });
+ }, 5000);
+});
+</script>
