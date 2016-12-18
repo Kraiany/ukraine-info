@@ -1,10 +1,10 @@
 name: Ukraine Info
 highlighter: rouge
 markdown: kramdown
-#kramdown:
-#  input: GFM
-#  auto_ids: true
-#  syntax_highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 baseurl: .
 #gems:
 #-jekyll-sitemap
