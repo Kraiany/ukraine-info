@@ -1,5 +1,5 @@
 name: Ukraine Info
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
