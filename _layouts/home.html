@@ -34,8 +34,9 @@
 	<nav class="grid">
 	    <ul>
 	        {% for p in site.pages %}
+	        {% if page.title %}
 	        {% if p.home %}
-	        {% else if page.title %}
+	        {% else %}
 	        <li>
 	        	<a href="{{ site.baseurl }}{{ p.url }}">
 	        	
@@ -64,6 +65,7 @@
 		        
 		        </a>
 	        </li>
+	        {% endif %}
 	        {% endif %}
 	        {% endfor %}
 	    </ul>
