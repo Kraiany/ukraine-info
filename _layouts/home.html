@@ -39,13 +39,13 @@
 	        <li>
 	        	<a href="{{ site.baseurl }}{{ p.url }}">
 	        	
-	        	{% if p.layout != 'news' %}
+	        	{% if p.layout == 'article' or p.layout == 'place' or p.layout == 'attention' %}
 		        <div class="img-wrapper">
 	        		<img src="{{ p.image }}" />
 	        	</div>
 	        	{% endif %}
 	        	
-	        	{% if p.layout != 'news' and p.layout != 'attention' %}
+	        	{% if p.layout == 'article' or p.layout == 'place' %}
 		        <h2>{{ p.title }}</h2>
 		        <article-desc>{{ p.description }}</article-desc>
 		        {% endif %}
