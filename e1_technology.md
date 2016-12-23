@@ -11,13 +11,13 @@ image: css/images/technology.jpg
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/2/2b/Sikorsky_I.I._1914._Karl_Bulla.jpg" alt="Sikorsky I.I. 1914. Karl Bulla.jpg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sikorsky_I.I._1914._Karl_Bulla.jpg#mediaviewer/File:Sikorsky_I.I._1914._Karl_Bulla.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sikorsky_I.I._1914._Karl_Bulla.jpg" alt="Sikorsky I.I. 1914. Karl Bulla.jpg"></a></p>
 -->
 </div>
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Sikorsky_Skycrane_carrying_house_bw.jpg#mediaviewer/File:Sikorsky_Skycrane_carrying_house_bw.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fd/Sikorsky_Skycrane_carrying_house_bw.jpg" alt="Sikorsky Skycrane carrying house bw.jpg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sikorsky_Skycrane_carrying_house_bw.jpg#mediaviewer/File:Sikorsky_Skycrane_carrying_house_bw.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sikorsky_Skycrane_carrying_house_bw.jpg" alt="Sikorsky Skycrane carrying house bw.jpg"></a></p>
 -->
 </div>
 
@@ -26,13 +26,13 @@ image: css/images/technology.jpg
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/f/fc/Sergey_Korolyov.jpg" alt="Sergey Korolyov.jpg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sergey_Korolyov.jpg#mediaviewer/File:Sergey_Korolyov.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Sergey_Korolyov.jpg" alt="Sergey Korolyov.jpg"></a></p>
 -->
 </div>
 
 <div class="lazyload">
 <!--
-<a title="By Brandir [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5 es (http://creativecommons.org/licenses/by-sa/2.5/es/deed.en)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGeostat.gif"><img width="256" alt="Geostat" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Geostat.gif"/></a>
+<a title="By Brandir [GFDL (https://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5 es (https://creativecommons.org/licenses/by-sa/2.5/es/deed.en)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGeostat.gif"><img width="256" alt="Geostat" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Geostat.gif"/></a>
 -->
 </div>
 
@@ -48,7 +48,7 @@ image: css/images/technology.jpg
 ### 世界で一番大きいな飛虎気はウクライナのAN-225「ムリア」という飛虎気です
 <div class="lazyload">
 <!--
-<div about='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg'><a href='https://www.flickr.com/photos/paldies/14409477971/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg' alt='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' title='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/paldies/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/paldies/' target='_blank'>Helmuts Guigo</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg'><a href='https://www.flickr.com/photos/paldies/14409477971/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3920/14409477971_2f6999413f_b.jpg' alt='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' title='Antonov An-225 Mriya by Helmuts Guigo, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/paldies/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/paldies/' target='_blank'>Helmuts Guigo</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
@@ -62,25 +62,25 @@ image: css/images/technology.jpg
 ### AN-178 (航空機)。用途：輸送機。初飛行：2015年5月7日
 <div class="lazyload">
 <!--
-<a title="By Vasiliy Koba (http://spotters.net.ua/file/?id=102927&size=large) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0) or CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAntonov_An-178_in_military_grey_colours.jpeg"><img width="1024" alt="Antonov An-178 in military grey colours" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antonov_An-178_in_military_grey_colours.jpeg/1024px-Antonov_An-178_in_military_grey_colours.jpeg"/></a>
+<a title="By Vasiliy Koba (https://spotters.net.ua/file/?id=102927&size=large) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0) or CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAntonov_An-178_in_military_grey_colours.jpeg"><img width="1024" alt="Antonov An-178 in military grey colours" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antonov_An-178_in_military_grey_colours.jpeg/1024px-Antonov_An-178_in_military_grey_colours.jpeg"/></a>
 -->
 </div>
 
 ### 「サイクロン・3」（Циклон, Cyclone）はドウクライナで開発された使い捨てロケット
 <div class="lazyload">
 <!--
-<div about='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg'><a href='https://www.flickr.com/photos/ipasha/10420491593/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg' alt='P1000409 by ipasha, on Flickr' title='P1000409 by ipasha, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ipasha/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ipasha/' target='_blank'>ipasha</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg'><a href='https://www.flickr.com/photos/ipasha/10420491593/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2840/10420491593_ec57d1c5cc_b.jpg' alt='P1000409 by ipasha, on Flickr' title='P1000409 by ipasha, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/ipasha/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/ipasha/' target='_blank'>ipasha</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
 ### 新しい「サイクロン・4」ウクライナのロケット（2015年）
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/_thk9ttVJCU?html5=1" frameborder="0"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/_thk9ttVJCU?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
 ## 外部リンク
 
-* <a href="http://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%9E%E3%82%B7%E3%83%A5">A.M.マカロフ・ユージュニィ機械製造工場</a>
-* <a href="http://ja.wikipedia.org/wiki/An-225_%28%E8%88%AA%E7%A9%BA%E6%A9%9F%29">An-225 (航空機)</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B8%E3%83%A5%E3%83%9E%E3%82%B7%E3%83%A5">A.M.マカロフ・ユージュニィ機械製造工場</a>
+* <a href="https://ja.wikipedia.org/wiki/An-225_%28%E8%88%AA%E7%A9%BA%E6%A9%9F%29">An-225 (航空機)</a>

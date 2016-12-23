@@ -31,7 +31,7 @@ image: css/images/history.png
 ### チョルノリース文化の遺跡（中央の紺色がチョルノリース文化）
 <div class="lazyload">
 <!--
-<p><a title="By Originally uploaded by Slovenski Volk (Transferred by codrinb) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEastern_and_Central_Europe_around_750_BC.png"><img width="512" alt="Eastern and Central Europe around 750 BC" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Eastern_and_Central_Europe_around_750_BC.png"/></a></p>
+<p><a title="By Originally uploaded by Slovenski Volk (Transferred by codrinb) [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEastern_and_Central_Europe_around_750_BC.png"><img width="512" alt="Eastern and Central Europe around 750 BC" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Eastern_and_Central_Europe_around_750_BC.png"/></a></p>
 -->
 </div>
 
@@ -240,7 +240,7 @@ __リヴィウの町を背景にしたレーヴ・ダヌィーロヴィチの肖
 ### ウクライナ国の位置
 <div class="lazyload">
 <!--
-<p><a title="By Alex Tora [CC BY-SA 2.1 jp (http://creativecommons.org/licenses/by-sa/2.1/jp/deed.en)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AUkrainian_State_1918._Europe.png"><img width="256" alt="Ukrainian State 1918. Europe" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Ukrainian_State_1918._Europe.png"/></a></p>
+<p><a title="By Alex Tora [CC BY-SA 2.1 jp (https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AUkrainian_State_1918._Europe.png"><img width="256" alt="Ukrainian State 1918. Europe" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Ukrainian_State_1918._Europe.png"/></a></p>
 -->
 </div>
 
@@ -316,7 +316,7 @@ __飢餓により街頭に倒れ込んでいる農民と気を払うことなく
 
 <div class="lazyload">
 <!--
-<div about='https://farm9.static.flickr.com/8264/8677338383_5d134f670d_b.jpg'><a href='https://www.flickr.com/photos/micurs/8677338383/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm9.static.flickr.com/8264/8677338383_5d134f670d_b.jpg' alt='St. Sophia Cathedral (Kiev) by micurs, on Flickr' title='St. Sophia Cathedral (Kiev) by micurs, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/micurs/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/micurs/' target='_blank'>micurs</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm9.static.flickr.com/8264/8677338383_5d134f670d_b.jpg'><a href='https://www.flickr.com/photos/micurs/8677338383/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm9.static.flickr.com/8264/8677338383_5d134f670d_b.jpg' alt='St. Sophia Cathedral (Kiev) by micurs, on Flickr' title='St. Sophia Cathedral (Kiev) by micurs, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/micurs/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/micurs/' target='_blank'>micurs</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
@@ -324,7 +324,7 @@ __飢餓により街頭に倒れ込んでいる農民と気を払うことなく
 
 <div class="lazyload">
 <!--
-<div about='https://farm1.static.flickr.com/198/464206775_5f7aa90886_b.jpg'><a href='https://www.flickr.com/photos/stuckincustoms/464206775/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm1.static.flickr.com/198/464206775_5f7aa90886_b.jpg' alt='Architects of Constantinople by Stuck in Customs, on Flickr' title='Architects of Constantinople by Stuck in Customs, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/stuckincustoms/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/stuckincustoms/' target='_blank'>Stuck in Customs</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm1.static.flickr.com/198/464206775_5f7aa90886_b.jpg'><a href='https://www.flickr.com/photos/stuckincustoms/464206775/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm1.static.flickr.com/198/464206775_5f7aa90886_b.jpg' alt='Architects of Constantinople by Stuck in Customs, on Flickr' title='Architects of Constantinople by Stuck in Customs, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/stuckincustoms/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/stuckincustoms/' target='_blank'>Stuck in Customs</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
@@ -332,7 +332,7 @@ __飢餓により街頭に倒れ込んでいる農民と気を払うことなく
 
 <div class="lazyload">
 <!--
-<p><a href="http://commons.wikimedia.org/wiki/File:Chernivtsi_University.jpg#mediaviewer/File:Chernivtsi_University.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chernivtsi_University.jpg/1200px-Chernivtsi_University.jpg" alt="Chernivtsi University.jpg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Chernivtsi_University.jpg#mediaviewer/File:Chernivtsi_University.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chernivtsi_University.jpg/1200px-Chernivtsi_University.jpg" alt="Chernivtsi University.jpg"></a></p>
 -->
 </div>
 
@@ -342,7 +342,7 @@ __飢餓により街頭に倒れ込んでいる農民と気を払うことなく
 
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/rJF1unA-03M?html5=1" frameborder="0"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/rJF1unA-03M?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
@@ -401,22 +401,22 @@ __飢餓により街頭に倒れ込んでいる農民と気を払うことなく
 
 ## ウクライナの国旗
 
-<p><img src="http://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="ウクライナの国旗">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="ウクライナの国旗">
 </p>
 
 ## ウクライナの国章
 
-<p><img src="http://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg" alt="ウクライナの国章">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Lesser_Coat_of_Arms_of_Ukraine.svg" alt="ウクライナの国章">
 </p>
 
 ## 外部リンク
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E6%AD%B4%E5%8F%B2">ウクライナの歴史</a>
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95%E5%A4%A7%E5%85%AC%E5%9B%BD">キイフ大公国</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E6%AD%B4%E5%8F%B2">ウクライナの歴史</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95%E5%A4%A7%E5%85%AC%E5%9B%BD">キイフ大公国</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%AB%E3%82%A3%E3%83%81%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%AB%E3%82%A3%E3%83%BC%E3%83%8B%E5%A4%A7%E5%85%AC%E5%9B%BD">ハールィチ・ヴォルィーニ大公国</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%9D%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%A3">ザポリッジャのシーチ</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%AC%E3%82%B9%E6%96%87%E5%8C%96">チョールノリース文化</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%82%BF%E3%82%A4">スキタイ</a>
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E5%9B%BD%E6%AD%8C">ウクライナの国歌</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%AE%E5%9B%BD%E6%AD%8C">ウクライナの国歌</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AD%E3%83%89%E3%83%A2%E3%83%BC%E3%83%AB">ホロドモール</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BB%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9%E5%85%B1%E5%92%8C%E5%9B%BD">ウクライナ・ソビエト社会主義共和国</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%9B%BD">ウクライナ国</a>

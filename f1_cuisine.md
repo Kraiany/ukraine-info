@@ -177,7 +177,7 @@ _作り方_
 
 ## 外部リンク
 
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E6%96%99%E7%90%86">ウクライナ料理</a>
-* <a href="http://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%B7%E3%83%81">ボルシチ</a>
-* <a href="http://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%BC%E3%83%8B%E3%82%AD">ヴァレーニキ</a>
-* <a href="http://note.chiebukuro.yahoo.co.jp/detail/n21434">サーロ</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E6%96%99%E7%90%86">ウクライナ料理</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%82%B7%E3%83%81">ボルシチ</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%BC%E3%83%8B%E3%82%AD">ヴァレーニキ</a>
+* <a href="https://note.chiebukuro.yahoo.co.jp/detail/n21434">サーロ</a>

@@ -19,7 +19,7 @@ image: css/images/donbas.png
 ### ドンバスタイムラプス
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/sot6-bGenhQ?html5=1" frameborder="0"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/sot6-bGenhQ?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
@@ -47,14 +47,14 @@ image: css/images/donbas.png
 ### ドネツクオペラバレエ劇場
 <div class="lazyload">
 <!--
-<a title="By Podvalov (Own work) [GPL (http://www.gnu.org/licenses/gpl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADonezk_Zentrum_Oper.JPG"><img width="2048" alt="Donezk Zentrum Oper" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Donezk_Zentrum_Oper.JPG/2048px-Donezk_Zentrum_Oper.JPG"/></a>
+<a title="By Podvalov (Own work) [GPL (https://www.gnu.org/licenses/gpl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADonezk_Zentrum_Oper.JPG"><img width="2048" alt="Donezk Zentrum Oper" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Donezk_Zentrum_Oper.JPG/2048px-Donezk_Zentrum_Oper.JPG"/></a>
 -->
 </div>
 
 ### ドネツク中心部
 <div class="lazyload">
 <!--
-<a title="Andrew Butko [GFDL 1.3 (www.gnu.org/licenses/fdl-1.3.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_017.JPG"><img width="2048" alt="Театральная площадь 017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_017.JPG/2048px-%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_017.JPG"/></a>
+<a title="Andrew Butko [GFDL 1.3 (www.gnu.org/licenses/fdl-1.3.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_017.JPG"><img width="2048" alt="Театральная площадь 017" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_017.JPG/2048px-%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_017.JPG"/></a>
 -->
 </div>
 
@@ -82,7 +82,7 @@ image: css/images/donbas.png
 ### ドネツィク国際空港（2014年まで）
 <div class="lazyload">
 <!--
-<a title="By Michael1238 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIMAG2080.jpg"><img width="2048" alt="IMAG2080" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/IMAG2080.jpg/2048px-IMAG2080.jpg"/></a>
+<a title="By Michael1238 (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIMAG2080.jpg"><img width="2048" alt="IMAG2080" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/IMAG2080.jpg/2048px-IMAG2080.jpg"/></a>
 -->
 </div>
 
@@ -94,4 +94,4 @@ image: css/images/donbas.png
 </div>
 
 ## 外部リンク
-* <a href="http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%90%E3%82%B9">ドンバス</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%90%E3%82%B9">ドンバス</a>

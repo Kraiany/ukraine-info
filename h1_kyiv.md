@@ -10,14 +10,14 @@ image: css/images/kyiv.gif
 ### 独立広場 / Independence Square
 <div class="lazyload">
 <!--
-<div about='https://farm7.static.flickr.com/6134/5985493792_86beac88e8_b.jpg'><a href='https://www.flickr.com/photos/jenniferboyer/5985493792/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm7.static.flickr.com/6134/5985493792_86beac88e8_b.jpg' alt='Independence Square by Anosmia, on Flickr' title='Independence Square by Anosmia, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/jenniferboyer/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/jenniferboyer/' target='_blank'>Anosmia</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm7.static.flickr.com/6134/5985493792_86beac88e8_b.jpg'><a href='https://www.flickr.com/photos/jenniferboyer/5985493792/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm7.static.flickr.com/6134/5985493792_86beac88e8_b.jpg' alt='Independence Square by Anosmia, on Flickr' title='Independence Square by Anosmia, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/jenniferboyer/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/jenniferboyer/' target='_blank'>Anosmia</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
 ### キイフタイムラプス / Kyiv Timelapse
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="http://www.youtube.com/embed/72q3U65daVA?html5=1" frameborder="0"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/72q3U65daVA?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
@@ -28,7 +28,7 @@ image: css/images/kyiv.gif
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/sofiivska_square.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+<small>Photographer: Max Solomko © / Website: <a href="https://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 
@@ -39,7 +39,7 @@ image: css/images/kyiv.gif
 
 このサイトではキイフの中の「ルート検索」は、出発地から目的地までの最適なルートを地図でご案内します（地下鉄、バス、トラム、トロリーバス、車、歩）
 
-* <a href="http://www.eway.in.ua/en/cities/kyiv">www.eway.in.ua/en/cities/kyiv</a>
+* <a href="https://www.eway.in.ua/en/cities/kyiv">www.eway.in.ua/en/cities/kyiv</a>
 * <a href="https://www.google.co.jp/maps/place/Kyiv,+Ukraine/">www.google.co.jp/maps</a>
 
 ### キイフ地下鉄路線網
@@ -67,7 +67,7 @@ image: css/images/kyiv.gif
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/sofiivska_square_at_night.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+<small>Photographer: Max Solomko © / Website: <a href="https://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 
@@ -75,7 +75,7 @@ image: css/images/kyiv.gif
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/andriivskyi_uzviz_general.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+<small>Photographer: Max Solomko © / Website: <a href="https://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 
@@ -83,21 +83,21 @@ image: css/images/kyiv.gif
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/andriivskyi_uzviz.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+<small>Photographer: Max Solomko © / Website: <a href="https://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 
 ### セントアンドリュー教会 / Saint Andrew's Church
 <div class="lazyload">
 <!--
-<a title="Yuriy Kolodin at English Wikipedia [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASaint_Andrew's_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg"><img width="2048" alt="Saint Andrew&#039;s Church of Kiev photo by Yuriy Kolodin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Saint_Andrew%27s_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg/2048px-Saint_Andrew%27s_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg"/></a>
+<a title="Yuriy Kolodin at English Wikipedia [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASaint_Andrew's_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg"><img width="2048" alt="Saint Andrew&#039;s Church of Kiev photo by Yuriy Kolodin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Saint_Andrew%27s_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg/2048px-Saint_Andrew%27s_Church_of_Kiev_photo_by_Yuriy_Kolodin.jpg"/></a>
 -->
 </div>
 
 ### セントニコラスローマカトリック大聖堂 / St. Nicholas Roman Catholic Cathedral
 <div class="lazyload">
 <!--
-<a title="By Konstantin Brizhnichenko (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASt._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg"><img width="2048" alt="St. Nicholas Roman Catholic Cathedral, Kyiv 3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg/2048px-St._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg"/></a>
+<a title="By Konstantin Brizhnichenko (Own work) [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASt._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg"><img width="2048" alt="St. Nicholas Roman Catholic Cathedral, Kyiv 3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg/2048px-St._Nicholas_Roman_Catholic_Cathedral%2C_Kyiv_3.jpg"/></a>
 -->
 </div>
 
@@ -112,7 +112,7 @@ image: css/images/kyiv.gif
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/chymera_house.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+<small>Photographer: Max Solomko © / Website: <a href="https://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 
@@ -120,7 +120,7 @@ image: css/images/kyiv.gif
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/behemoth_cat_andriivskyi_uzviz.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+<small>Photographer: Max Solomko © / Website: <a href="https://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 
@@ -128,7 +128,7 @@ image: css/images/kyiv.gif
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/volodymyr_velykyi.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+<small>Photographer: Max Solomko © / Website: <a href="https://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 
@@ -150,7 +150,7 @@ image: css/images/kyiv.gif
 <div class="lazyload">
 <!--
 <img src="photos/kyiv/dnipro_river_in_fog.jpg"/>
-<small>Photographer: Max Solomko © / Website: <a href="http://www.maxsolomko.com">www.maxsolomko.com</a></small>
+<small>Photographer: Max Solomko © / Website: <a href="https://www.maxsolomko.com">www.maxsolomko.com</a></small>
 -->
 </div>
 
@@ -171,7 +171,7 @@ image: css/images/kyiv.gif
 ### ウクライナの最高裁判所 / Supreme Court Of Ukraine
 <div class="lazyload">
 <!--
-<a title="By Wadco2 (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APechersk_28_09_13_396.JPG"><img width="2048" alt="Pechersk 28 09 13 396" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pechersk_28_09_13_396.JPG/2048px-Pechersk_28_09_13_396.JPG"/></a>
+<a title="By Wadco2 (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APechersk_28_09_13_396.JPG"><img width="2048" alt="Pechersk 28 09 13 396" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pechersk_28_09_13_396.JPG/2048px-Pechersk_28_09_13_396.JPG"/></a>
 -->
 </div>
 
@@ -185,28 +185,28 @@ image: css/images/kyiv.gif
 ### インスチツツカ通り
 <div class="lazyload">
 <!--
-<div about='https://farm4.static.flickr.com/3819/10962915416_1eac115140_b.jpg'><a href='https://www.flickr.com/photos/mattsh/10962915416/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3819/10962915416_1eac115140_b.jpg' alt='Old Architecture, Kiev by Matt. Create., on Flickr' title='Old Architecture, Kiev by Matt. Create., on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/mattsh/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/mattsh/' target='_blank'>Matt. Create.</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm4.static.flickr.com/3819/10962915416_1eac115140_b.jpg'><a href='https://www.flickr.com/photos/mattsh/10962915416/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm4.static.flickr.com/3819/10962915416_1eac115140_b.jpg' alt='Old Architecture, Kiev by Matt. Create., on Flickr' title='Old Architecture, Kiev by Matt. Create., on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/mattsh/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/mattsh/' target='_blank'>Matt. Create.</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
 ### キイフ・ペチェールシク大修道院
 <div class="lazyload">
 <!--
-<div about='https://farm3.static.flickr.com/2884/10872941953_03e1e887d8_b.jpg'><a href='https://www.flickr.com/photos/mattsh/10872941953/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2884/10872941953_03e1e887d8_b.jpg' alt='Kiev Pechersk Lavra in September by Matt. Create., on Flickr' title='Kiev Pechersk Lavra in September by Matt. Create., on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/mattsh/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/mattsh/' target='_blank'>Matt. Create.</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm3.static.flickr.com/2884/10872941953_03e1e887d8_b.jpg'><a href='https://www.flickr.com/photos/mattsh/10872941953/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2884/10872941953_03e1e887d8_b.jpg' alt='Kiev Pechersk Lavra in September by Matt. Create., on Flickr' title='Kiev Pechersk Lavra in September by Matt. Create., on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/mattsh/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/mattsh/' target='_blank'>Matt. Create.</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
 ### キイフの冬
 <div class="lazyload">
 <!--
-<div about='https://farm8.static.flickr.com/7007/6785670407_fec54dd55b_b.jpg'><a href='https://www.flickr.com/photos/39997856@N03/6785670407/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm8.static.flickr.com/7007/6785670407_fec54dd55b_b.jpg' alt='winter in kiev by mariusz kluzniak, on Flickr' title='winter in kiev by mariusz kluzniak, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/39997856@N03/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/39997856@N03/' target='_blank'>mariusz kluzniak</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm8.static.flickr.com/7007/6785670407_fec54dd55b_b.jpg'><a href='https://www.flickr.com/photos/39997856@N03/6785670407/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm8.static.flickr.com/7007/6785670407_fec54dd55b_b.jpg' alt='winter in kiev by mariusz kluzniak, on Flickr' title='winter in kiev by mariusz kluzniak, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/39997856@N03/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/39997856@N03/' target='_blank'>mariusz kluzniak</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
 ### フレシチャーティク通り
 <div class="lazyload">
 <!--
-<div about='https://farm9.static.flickr.com/8100/8601882380_e7249da8a7_b.jpg'><a href='https://www.flickr.com/photos/jlascar/8601882380/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm9.static.flickr.com/8100/8601882380_e7249da8a7_b.jpg' alt='Khreshchatyk street and some of its post by Jorge Lascar, on Flickr' title='Khreshchatyk street and some of its post by Jorge Lascar, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/jlascar/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/jlascar/' target='_blank'>Jorge Lascar</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm9.static.flickr.com/8100/8601882380_e7249da8a7_b.jpg'><a href='https://www.flickr.com/photos/jlascar/8601882380/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm9.static.flickr.com/8100/8601882380_e7249da8a7_b.jpg' alt='Khreshchatyk street and some of its post by Jorge Lascar, on Flickr' title='Khreshchatyk street and some of its post by Jorge Lascar, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution 2.0 Generic License' title='Creative Commons Creative Commons Attribution 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/jlascar/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/jlascar/' target='_blank'>Jorge Lascar</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
@@ -220,7 +220,7 @@ image: css/images/kyiv.gif
 ### 夜の独立広場
 <div class="lazyload">
 <!--
-<div about='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg'><a href='https://www.flickr.com/photos/thisisbossi/3965068418/' target='_blank'><img xmlns:dct='http://purl.org/dc/terms/' href='http://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg' alt='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' title='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' border='0'/></a><br/><a rel='license' href='http://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='http://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/thisisbossi/' target='_blank'>&nbsp;</a><a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/thisisbossi/' target='_blank'>thisisbossi</a><a href='http://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<div about='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg'><a href='https://www.flickr.com/photos/thisisbossi/3965068418/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm3.static.flickr.com/2510/3965068418_50d240ed22_b.jpg' alt='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' title='2008 08 11 - 1521-1523 - Kyiv - maydan N by thisisbossi, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-nc/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-nc/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/thisisbossi/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/thisisbossi/' target='_blank'>thisisbossi</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
 -->
 </div>
 
@@ -239,9 +239,9 @@ image: css/images/kyiv.gif
 </div>
 
 ## 外部リンク
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95">キイフ (ウィキペディア)</a>
-* <a href="http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95#.E4.BA.A4.E9.80.9A">キイフ地下鉄 (ウィキペディア)</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95">キイフ (ウィキペディア)</a>
+* <a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95#.E4.BA.A4.E9.80.9A">キイフ地下鉄 (ウィキペディア)</a>
 * <a href="https://ja.wikipedia.org/wiki/%E8%81%96%E3%82%BD%E3%83%95%E3%82%A3%E3%82%A2%E5%A4%A7%E8%81%96%E5%A0%82_%28%E3%82%AD%E3%82%A8%E3%83%95%29">聖ソフィア大聖堂</a>
-* <a href="http://www.pbase.com/bmcmorrow/kiev">キイフの写真</a>
-* <a href="http://www.dtac.jp/caucasus/ukraine/entry_133.php">キイフ観光客のための情報</a>
-* <a href="http://www.maxsolomko.com">www.maxsolomko.com</a>
+* <a href="https://www.pbase.com/bmcmorrow/kiev">キイフの写真</a>
+* <a href="https://www.dtac.jp/caucasus/ukraine/entry_133.php">キイフ観光客のための情報</a>
+* <a href="https://www.maxsolomko.com">www.maxsolomko.com</a>
