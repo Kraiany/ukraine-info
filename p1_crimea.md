@@ -52,4 +52,4 @@ image: css/images/crimea.gif
 ## 外部リンク
 
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%9F%E3%82%A2%E5%8D%8A%E5%B3%B6">ウィキペディア</a>
-* <a href="https://travel.nationalgeographic.com/travel/best-trips-2013/crimea-ukraine-photos/">クリミアの写真</a>
+* <a href="http://travel.nationalgeographic.com/travel/best-trips-2013/crimea-ukraine-photos/">クリミアの写真</a>

@@ -1169,4 +1169,4 @@ image: css/images/language.png
 ## 外部リンク
 
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E8%AA%9E">ウクライナ語</a>
-* <a href="https://wikitravel.org/ja/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E8%AA%9E%E4%BC%9A%E8%A9%B1%E9%9B%86">ウクライナ語会話集</a>
+* <a href="http://wikitravel.org/ja/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E8%AA%9E%E4%BC%9A%E8%A9%B1%E9%9B%86">ウクライナ語会話集</a>

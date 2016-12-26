@@ -436,5 +436,4 @@ So, water. Flow forth! And you, misfortune, rage!
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%BC">イヴァン・フランコー</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BB%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%BC%E3%83%B3%E3%82%AB">レーシャ・ウクライーンカ</a>
 * <a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D1%87_%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD-%D0%86%D0%B3%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BE%D0%B2%D0%B8%D1%87">Антонич Богдан-Ігор Васильович</a>
-* <a href="https://almostisland.com/spring_2014/special_issue_the_past/bohdan_ihor_antonych.php">Bohdan Ihor Antonych - A Concert from Mercury</a>
-* <a href="https://dw.com/p/LgfK">Богдан-Ігор Антонич: Вибране (аудіокнига)</a>
+* <a href="http://dw.com/p/LgfK">Богдан-Ігор Антонич: Вибране (аудіокнига)</a>

@@ -77,6 +77,6 @@ image: css/images/petrykivka.jpg
 ## 外部リンク
 * <a href="https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%AB%E3%82%A3%E3%82%AD%E3%82%A6%E3%82%AB">ペトリキウカ塗り（ウィキペディア）</a>
 * <a href="https://instagram.com/petrykivka">ペトリキフカの写真</a>
-* <a href="https://www.unesco.org/culture/ich/RL/00893">国際連合教育科学文化機関無形文化遺産</a>
+* <a href="http://www.unesco.org/culture/ich/en/RL/petrykivka-decorative-painting-as-a-phenomenon-of-the-ukrainian-ornamental-folk-art-00893">Petrykivka decorative painting as a phenomenon of the Ukrainian ornamental folk art</a>
 * <a href="https://petrykivka.culturalspot.org/">ペトリキウカ塗りのギャラリー</a>
 * <a href="https://www.facebook.com/petrykivkapaint">Facebook ペトリキウカ塗りコッミュニテイ</a>

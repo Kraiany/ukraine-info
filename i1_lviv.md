@@ -184,5 +184,5 @@ image: css/images/lviv.png
 
 ## 外部リンク
 * <a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B4%E3%82%A3%E3%82%A6">リヴィウ（ウィキペディア）</a>
-* <a href="https://lvivrem.org.ua/index_e.html">リヴィウの写真</a>
-* <a href="https://www.dtac.jp/caucasus/ukraine/entry_138.php">リヴィウ観光客のための情報</a>
+* <a href="http://lvivrem.org.ua/index_e.html">リヴィウの写真</a>
+* <a href="http://www.dtac.jp/caucasus/ukraine/entry_138.php">リヴィウ観光客のための情報</a>

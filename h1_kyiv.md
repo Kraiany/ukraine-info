@@ -242,6 +242,6 @@ image: css/images/kyiv.gif
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95">キイフ (ウィキペディア)</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95#.E4.BA.A4.E9.80.9A">キイフ地下鉄 (ウィキペディア)</a>
 * <a href="https://ja.wikipedia.org/wiki/%E8%81%96%E3%82%BD%E3%83%95%E3%82%A3%E3%82%A2%E5%A4%A7%E8%81%96%E5%A0%82_%28%E3%82%AD%E3%82%A8%E3%83%95%29">聖ソフィア大聖堂</a>
-* <a href="https://www.pbase.com/bmcmorrow/kiev">キイフの写真</a>
-* <a href="https://www.dtac.jp/caucasus/ukraine/entry_133.php">キイフ観光客のための情報</a>
-* <a href="https://www.maxsolomko.com">www.maxsolomko.com</a>
+* <a href="http://www.pbase.com/bmcmorrow/kiev">キイフの写真</a>
+* <a href="http://www.dtac.jp/caucasus/ukraine/entry_133.php">キイフ観光客のための情報</a>
+* <a href="https://ua.linkedin.com/in/max-solomko-4a50a119">Max Solomko - photographer</a>
