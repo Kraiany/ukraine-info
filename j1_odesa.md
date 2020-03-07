@@ -10,7 +10,7 @@ image: css/images/odesa.png
 ### オデサオペラバレエ劇場
 <div class="lazyload">
 <!--
-<div about='https://farm8.static.flickr.com/7387/8729249658_8a023dd6fa_b.jpg'><a href='https://www.flickr.com/photos/kronny/8729249658/' target='_blank'><img xmlns:dct='https://purl.org/dc/terms/' href='https://purl.org/dc/dcmitype/StillImage' rel='dct:type' src='https://farm8.static.flickr.com/7387/8729249658_8a023dd6fa_b.jpg' alt='Odessa Opera and Ballet Theater by Vladimir Yaitskiy, on Flickr' title='Odessa Opera and Ballet Theater by Vladimir Yaitskiy, on Flickr' border='0'/></a><br/><a rel='license' href='https://creativecommons.org/licenses/by-sa/2.0/' target='_blank'><img src='https://i.creativecommons.org/l/by-sa/2.0/80x15.png' alt='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' title='Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License' border='0' align='left'></a>&nbsp; &nbsp;by&nbsp;<a href='https://www.flickr.com/people/kronny/' target='_blank'>&nbsp;</a><a xmlns:cc='https://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/kronny/' target='_blank'>Vladimir Yaitskiy</a><a href='https://www.imagecodr.org/' target='_blank'>&nbsp;</a></div>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/klimenko/3887382560/in/photolist-6VvRu3-2hzVrcV-2hzUsoi-6VvRpf" title="Одесский оперный театр"><img src="https://live.staticflickr.com/2482/3887382560_c981c02d3b_b.jpg" width="1024" height="693" alt="Одесский оперный театр"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 -->
 </div>
 

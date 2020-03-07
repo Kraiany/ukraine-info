@@ -171,7 +171,7 @@ image: css/images/kyiv.gif
 ### ウクライナの最高裁判所 / Supreme Court Of Ukraine
 <div class="lazyload">
 <!--
-<a title="By Wadco2 (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APechersk_28_09_13_396.JPG"><img width="2048" alt="Pechersk 28 09 13 396" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pechersk_28_09_13_396.JPG/2048px-Pechersk_28_09_13_396.JPG"/></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:Klov_Palace._Listed_ID_80-382-0462._-_8_Pylypa_Orlyka_Street,_Pechersk_Raion,_Kiev._-_Pechersk_28_09_13_396.jpg#/media/File:Klov_Palace._Listed_ID_80-382-0462._-_8_Pylypa_Orlyka_Street,_Pechersk_Raion,_Kiev._-_Pechersk_28_09_13_396.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Klov_Palace._Listed_ID_80-382-0462._-_8_Pylypa_Orlyka_Street%2C_Pechersk_Raion%2C_Kiev._-_Pechersk_28_09_13_396.jpg" alt="Klov Palace. Listed ID 80-382-0462. - 8 Pylypa Orlyka Street, Pechersk Raion, Kiev. - Pechersk 28 09 13 396.jpg" width="1201" height="720"></a></p>
 -->
 </div>
 
