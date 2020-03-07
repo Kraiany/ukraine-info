@@ -31,14 +31,14 @@ image: css/images/kharkiv.gif
 ### ハルキウ地下鉄路線網
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Metro_Kharkov_Map_Russian_Ukrainian.PNG#/media/File:Metro_Kharkov_Map_Russian_Ukrainian.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Metro_Kharkov_Map_Russian_Ukrainian.PNG" alt="Metro Kharkov Map Russian Ukrainian.PNG"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Kharkiv_Metro.jpg#/media/File:Kharkiv_Metro.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Kharkiv_Metro.jpg" alt="Kharkiv Metro.jpg" width="1438" height="1080"></a></p>
 -->
 </div>
 
 ### ハルキウ駅
 <div class="lazyload">
 <!--
-<a title="By Infosektor (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A%D0%9F%D1%80%D0%B8%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C.jpg"><img width="4096" alt="Привокзальная площадь" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%D0%9F%D1%80%D0%B8%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C.jpg/4096px-%D0%9F%D1%80%D0%B8%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C.jpg"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/marcofieber/8082064560/in/photolist-zbyjRL-djbH8q-djbGdG-djbKoP-djbFKL-rPRaf7-knXJF6-ANPBcv-3wBNUu-oiWcKF-pBCuBU-pTMNMi-bbhnYg-pPLYwW-oSR9VW-pRSbcS-2gDoWcd-2gDpGNZ-3wxpMD-LfibQ4-28W9M5J-27mEoyu-28UPghG-4GwvV9-29W344w-ApVyWP-ALvoci-BnkAAe" title="Kharkiv"><img src="https://live.staticflickr.com/8054/8082064560_04e2f9fb1f_b.jpg" width="1024" height="680" alt="Kharkiv"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 -->
 </div>
 
@@ -73,7 +73,7 @@ image: css/images/kharkiv.gif
 ### ハルキウ地下鉄
 <div class="lazyload">
 <!--
-<a title="By Petar Milošević (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_-_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F.jpg"><img width="2048" alt="Харьков метро - Пушкинская" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_-_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F.jpg/2048px-%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2_%D0%BC%D0%B5%D1%82%D1%80%D0%BE_-_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F.jpg"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/leon_hart/4888676925/in/photolist-8rZKkc-Uivhen-knXJF6-27gNoAh-3wA5yi-3wA582-8jZQiE-28W9M5J-27mEoyu" title="Kharkiv Metro Escalator"><img src="https://live.staticflickr.com/4115/4888676925_5c93f0ecdd_b.jpg" width="1024" height="675" alt="Kharkiv Metro Escalator"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 -->
 </div>
 
