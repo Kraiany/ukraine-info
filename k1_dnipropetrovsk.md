@@ -51,7 +51,7 @@ image: css/images/dnipropetrovsk.gif
 ### ドニプロの大学
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Dnepr_NGU.jpg#mediaviewer/%D0%A4%D0%B0%D0%B9%D0%BB:Dnepr_NGU.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dnepr_NGU.jpg/1200px-Dnepr_NGU.jpg" alt="Dnepr NGU.jpg"></a><small>"<a href="https://commons.wikimedia.org/wiki/File:Dnepr_NGU.jpg#mediaviewer/%D0%A4%D0%B0%D0%B9%D0%BB:Dnepr_NGU.jpg">Dnepr NGU</a>" від <a href="//commons.wikimedia.org/w/index.php?title=User:TheVovaNik&amp;action=edit&amp;redlink=1" class="new" title="User:TheVovaNik (така сторінка не існує)">TheVovaNik</a> - <span class="int-own-work">Власна робота</span>. Ліцензований під <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> через <a href="//commons.wikimedia.org/wiki/">Вікісховище</a>.</small></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:DNU,_Dnepr.JPG#/media/File:DNU,_Dnepr.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/DNU%2C_Dnepr.JPG" alt="DNU, Dnepr.JPG" width="960" height="720"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Bushy_moustache&amp;action=edit&amp;redlink=1" class="new" title="User:Bushy moustache (page does not exist)">Bushy moustache</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10227496">Link</a></p>
 -->
 </div>
 
