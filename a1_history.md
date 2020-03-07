@@ -10,7 +10,7 @@ image: css/images/history.png
 
 <div class="lazyload">
 <!--
-<img src="css/images/war-map.jpg"/>
+<img src="img/war-map.jpg"/>
 -->
 </div>
 
@@ -161,7 +161,7 @@ __ヴォロディーミル1世の金貨（10世紀の肖像と紋章）。三叉
 
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:Zlatnik_HQ.jpg#/media/File:Zlatnik_HQ.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Zlatnik_HQ.jpg" alt="Zlatnik HQ.jpg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Zlatnik_from_Hermitage.jpg#/media/Файл:Zlatnik_from_Hermitage.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Zlatnik_from_Hermitage.jpg" alt="Златник Володимира Святославовича"></a><br>Автор: Фотография из Эрмитажа - <a rel="nofollow" class="external autonumber" href="http://staraya-moneta.coinsportal.ru/UF/zlatnik.jpg">[1]</a>, Суспільне надбання (Public Domain), <a href="https://commons.wikimedia.org/w/index.php?curid=7964803">Посилання</a></p>
 -->
 </div>
 
