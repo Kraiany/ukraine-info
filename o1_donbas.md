@@ -12,7 +12,7 @@ image: css/images/donbas.png
 
 <div class="lazyload">
 <!--
-<img src="css/images/war-map.jpg"/>
+<img src="img/war-map.jpg"/>
 -->
 </div>
 
