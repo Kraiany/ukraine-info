@@ -6,7 +6,8 @@ image: css/images/music.gif
 ---
 <br>
 <iframe src="https://tunein.com/embed/player/s233173/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
-<iframe src="https://tunein.com/embed/player/s240742/" style="width:100%;height:100px;" scrolling="no" frameborder="no"></iframe>
+<iframe src="https://tunein.com/embed/player/s298486/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
+<iframe src="https://tunein.com/embed/player/s95255/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
 
 ## ウクライナの声楽
 
@@ -131,7 +132,7 @@ image: css/images/music.gif
 #### Орест Лютий - РОСІЯН В ДОНБАСЕ НЕТ
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="https://www.youtube.com/embed/G1gYsXpgbnk?html5=1" frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/channel/UC31P7E3NSLaMQvc6c-e7Ruw</small>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/aQQizk0vR0A?html5=1 frameborder="0"></iframe></div><small>チャンネル https://www.youtube.com/channel/UCNCto1X9iQXNXo2v66a6Ppg</small>
 -->
 </div>
 
@@ -147,7 +148,7 @@ image: css/images/music.gif
 #### プラッチ・イェレミイ「彼の肩の上に天使と」/ Плач Єремії - "З янголом на плечі"
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="https://www.youtube.com/embed/NF1lvLLC0g8?html5=1" frameborder="0"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/QniC6cuMbqE?html5=1" frameborder="0"></iframe></div>
 -->
 </div>
 
@@ -252,7 +253,7 @@ image: css/images/music.gif
 #### チン・ソンチャ「アレウスの剣」/ Тінь Сонця - "Меч Арея"
 <div class="lazyload">
 <!--
-<div class="video-container"><iframe src="https://www.youtube.com/embed/plUPkvexQi4?html5=1" frameborder="0"></iframe></div><small>ホームページ https://sunshadow.com.ua</small>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/KtKaXc_AEF8?html5=1" frameborder="0"></iframe></div><small>ホームページ https://sunshadow.com.ua</small>
 -->
 </div>
 

@@ -61,7 +61,7 @@ image: css/images/donbas.png
 ### ルハーニ川
 <div class="lazyload">
 <!--
-<p><a href="https://commons.wikimedia.org/wiki/File:20070609_001.jpg#/media/File:20070609_001.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/20070609_001.jpg/1200px-20070609_001.jpg" alt="20070609 001.jpg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mist_over_a_river_in_Luhansk.jpg#/media/File:Mist_over_a_river_in_Luhansk.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Mist_over_a_river_in_Luhansk.jpg" alt="Mist over a river in Luhansk.jpg" width="1440" height="1080"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Riwnodennyk" title="User:Riwnodennyk">Riwnodennyk</a> - self-made. Also <a rel="nofollow" class="external text" href="https://www.panoramio.com/user/530579">Panoramio</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3183200">Link</a></p>
 -->
 </div>
 
@@ -82,7 +82,7 @@ image: css/images/donbas.png
 ### ドネツィク国際空港（2014年まで）
 <div class="lazyload">
 <!--
-<a title="By Michael1238 (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIMAG2080.jpg"><img width="2048" alt="IMAG2080" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/IMAG2080.jpg/2048px-IMAG2080.jpg"/></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:Donetsk_Airport.jpg#/media/File:Donetsk_Airport.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Donetsk_Airport.jpg" alt="Donetsk Airport.jpg" width="1280" height="451"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Michael1238&amp;action=edit&amp;redlink=1" class="new" title="User:Michael1238 (page does not exist)">Michael1238</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=32214434">Link</a></p>
 -->
 </div>
 
