@@ -9,7 +9,7 @@ image: css/images/history.png
 2014年からロシアがドンバスに侵攻中です。
 
 <div style="border: 4px solid red; padding: 15px;">
-<h1 style="line-height: 1.2;">2月24日、ロシア軍がウクライナへの大規模攻撃を開始</h1>
+<h1 style="line-height: 1.2;">2022年2月24日、ロシア軍がウクライナへの大規模攻撃を開始</h1>
 
 <p>ウクライナの応援と支援をお願いします！</p>
 <p style="font-size: 1.3em;">支援方法、寄付情報、最新情報は<a href="https://www.facebook.com/groups/320018323514035">フェイスブックで確認</a>ください</p>
