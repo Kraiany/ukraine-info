@@ -8,6 +8,13 @@ image: css/images/history.png
 ## ウクライナ・ロシア戦争
 2014年からロシアがドンバスに侵攻中です。
 
+<div style="border: 4px solid red; padding: 15px;">
+<h1>2月24日、ロシア軍がウクライナへの大規模攻撃を開始</h1>
+
+<p>ウクライナの応援と支援をお願いします！</p>
+<p style="font-size: 1.3em;">支援方法、寄付情報、最新情報は<a href="https://www.facebook.com/groups/320018323514035">フェイスブックで確認</a>ください</p>
+</div>
+
 <div class="lazyload">
 <!--
 <img src="img/war-map.jpg"/>
@@ -422,4 +429,3 @@ __飢餓により街頭に倒れ込んでいる農民と気を払うことなく
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%9B%BD">ウクライナ国</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD">ウクライナ人民共和国</a>
 * <a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%83%BB%E3%82%BD%E3%83%93%E3%82%A8%E3%83%88%E6%88%A6%E4%BA%89">ウクライナ・ソビエト戦争</a>
-
