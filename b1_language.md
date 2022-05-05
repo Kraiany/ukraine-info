@@ -10,7 +10,7 @@ image: css/images/language.png
 <h1 style="line-height: 1.2;">2022年2月24日、ロシア軍がウクライナへの大規模攻撃を開始</h1>
 
 <p>ウクライナの応援と支援をお願いします！</p>
-<p style="font-size: 1.3em;"><a href="https://www.kraiany.org/ja/donate.html">支援方法、寄付情報はこちら</a>でご確認ください</a></p>
+<p style="font-size: 1.3em;"><a href="https://www.kraiany.org/ja/donate.html">支援方法、寄付情報はこちら</a>でご確認ください</p>
 </div>
 
 ## ウクライナ語アルファベット
