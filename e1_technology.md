@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 航空宇宙工学
-description: 歴史と現在
+description: ウクライナの航空宇宙工学の歴史と現在
 image: css/images/technology.jpg
 ---
 ## 世界で有名なウクライナ人

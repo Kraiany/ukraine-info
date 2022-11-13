@@ -1,7 +1,7 @@
 ---
 layout: place
 title: リヴィウ
-description: ウクライナ西部の都市
+description: "ウクライナ西部の都市:リヴィウ"
 place-googlemaps-link: https://www.google.co.jp/maps/place/Lviv,+Lviv+Oblast,+Ukraine/
 image: css/images/lviv.png
 ---

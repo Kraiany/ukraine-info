@@ -1,7 +1,7 @@
 ---
 layout: place
 title: チェルニウツィー
-description: ウクライナ西部の都市
+description: "ウクライナ西部の都市: チェルニウツィー"
 place-googlemaps-link: https://www.google.co.jp/maps/place/Chernivtsi,+Chernivets'ka+oblast,+Ukraine/
 image: css/images/chernivtsi.jpg
 ---
